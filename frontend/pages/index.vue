@@ -129,7 +129,9 @@
       <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
         <!-- Replace with your content -->
         <div class="px-4 py-6 sm:px-0">
+          {{ data }}
           <div class="border-4 border-dashed border-gray-200 rounded-lg h-96" />
+          {{ store.name }}
         </div>
         <!-- /End replace -->
       </div>
@@ -137,7 +139,14 @@
   </div>
 </template>
 
+<script setup>
+import { getRequest } from '~~/utils/api'
+const data = await getRequest()
+</script>
+
 <script>
+import { useStore } from '@/store'
+
 import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/vue'
 import { BellIcon, MenuIcon, XIcon } from '@heroicons/vue/outline'
 
@@ -182,8 +191,13 @@ export default {
     return {
       user,
       navigation,
-      userNavigation,
+      userNavigation
     }
   },
+  data() {
+    return {
+      store: useStore()
+    }
+  }
 }
 </script>
