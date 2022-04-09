@@ -1,21 +1,33 @@
-import { defineNuxtConfig } from 'nuxt3'
+import { defineNuxtConfig } from "nuxt3";
 
-// https://v3.nuxtjs.org/docs/directory-structure/nuxt.config
 export default defineNuxtConfig({
-  typescript: {
-    strict: true
-  },
-  build: {
+    buildModules: [
+        // pinia plugin - https://pinia.esm.dev
+        "@pinia/nuxt",
+    ],
+    build: {
+        transpile: ['@heroicons/vue'],
+        postcss: {
+            postcssOptions: {
+                plugins: {
+                    tailwindcss: {},
+                    autoprefixer: {},
+                },
+            },
+        },
+    },
     postcss: {
-      postcssOptions: {
         plugins: {
           tailwindcss: {},
           autoprefixer: {},
         },
-      },
     },
-  },
-  css: [
-    "~/assets/css/tailwind.css"
-  ]
-})
+    vite: {
+        logLevel: "info",
+        optimizeDeps: {
+            include: [
+                '@headlessui/vue', '@heroicons/vue/solid', '@heroicons/vue/outline', 'vue', 'pinia'
+            ]
+        }
+    }
+});
