@@ -145,7 +145,7 @@ server.listen(listenAddress, () => {
   });
 });
 
-const STATIC_ASSETS_BASE = "/_nuxt/D:/Repositories/laravel-nuxt-survey/frontend/dist" + "/" + "1649331516";
+const STATIC_ASSETS_BASE = "/_nuxt/D:/Repositories/laravel-nuxt-survey/frontend/dist" + "/" + "1649514387";
 const PAYLOAD_JS = "/payload.js";
 const getClientManifest = cachedImport(() => import('file:///D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/dist/server/client.manifest.mjs'));
 const getSSRApp = cachedImport(() => import('file:///D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/dist/server/server.mjs'));

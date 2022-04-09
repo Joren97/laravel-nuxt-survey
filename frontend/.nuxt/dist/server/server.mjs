@@ -371,8 +371,29 @@ const $id_614de060 = (global, exports, importMeta, ssrImport, ssrDynamicImport, 
 // - /node_modules/@heroicons/vue/outline/esm/ZoomInIcon.js ($id_d44846b1)
 // - /node_modules/@heroicons/vue/outline/esm/ZoomOutIcon.js ($id_59b10e81)
 // - /pages/features.vue?macro=true ($id_93b5f9cb)
+// - /node_modules/@headlessui/vue/dist/components/portal/portal.esm.js ($id_6fee7f5c)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/internal/stack-context.esm.js ($id_ff41f596)
+// - /node_modules/@headlessui/vue/dist/internal/portal-force-root.esm.js ($id_c65cbc73)
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js ($id_d16ea418)
+// - /node_modules/@headlessui/vue/dist/hooks/use-focus-trap.esm.js ($id_ad390bd9)
+// - /node_modules/@headlessui/vue/dist/hooks/use-inert-others.esm.js ($id_a091c5e1)
+// - /node_modules/@headlessui/vue/dist/components/description/description.esm.js ($id_35d2303d)
+// - /node_modules/@headlessui/vue/dist/internal/open-closed.esm.js ($id_11ac5a62)
+// - /node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js ($id_658d32c3)
+// - /node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js ($id_05706002)
+// - /node_modules/@headlessui/vue/dist/components/focus-trap/focus-trap.esm.js ($id_12d79ec1)
+// - /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js ($id_aeffb558)
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// - /node_modules/@headlessui/vue/dist/hooks/use-tree-walker.esm.js ($id_8f79cfee)
+// - /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js ($id_a655584d)
+// - /node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js ($id_f293a83d)
+// - /node_modules/@headlessui/vue/dist/components/label/label.esm.js ($id_b1e73183)
+// - /node_modules/@headlessui/vue/dist/components/switch/switch.esm.js ($id_4ec2ab7a)
+// - /node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js ($id_f55023ef)
+// - /node_modules/@headlessui/vue/dist/components/transitions/transition.esm.js ($id_bf02b578)
 // - /pages/index.vue?macro=true ($id_5dd70240)
-// - /node_modules/@headlessui/vue/dist/headlessui.esm.js ($id_2c13895f)
 // - /pages/features.vue ($id_cdc7ed81)
 // - /pages/index.vue ($id_cca58e97)
 // - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/dist.plugin.16fa14af.mjs ($id_cf06d5ac)
@@ -382,10 +403,7 @@ const $id_614de060 = (global, exports, importMeta, ssrImport, ssrDynamicImport, 
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-500.vue ($id_14c8b574)
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue ($id_bc2d74a1)
 // - /node_modules/nuxt3/dist/app/components/nuxt-error-page.vue ($id_f10a5dcc)
-// - /node_modules/nuxt3/dist/app/components/layout.mjs ($id_ddd66f9a)
-// - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/layouts.mjs ($id_51310b72)
-// - /layouts/guest.vue ($id_7c0fbde7)
-// - /node_modules/nuxt3/dist/pages/runtime/app.vue ($id_0851ff57)
+// - /app.vue ($id_2b46e842)
 // Dependencies: 
 
 // --------------------
@@ -410,12 +428,12 @@ const $id_60f0615f = (global, exports, importMeta, ssrImport, ssrDynamicImport, 
 // - /node_modules/nuxt3/dist/head/runtime/plugin.mjs ($id_5f983c6f)
 // - /node_modules/nuxt3/dist/pages/runtime/page.mjs ($id_485c89bf)
 // - /node_modules/nuxt3/dist/pages/runtime/router.mjs ($id_a4d6cb5b)
-// - /utils/api.ts ($id_da3d18cd)
+// - /pages/index.vue?macro=true ($id_5dd70240)
+// - /pages/index.vue ($id_cca58e97)
 // - /node_modules/nuxt3/dist/app/components/nuxt-root.vue ($id_f8564e04)
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-404.vue ($id_b90d4d0f)
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-500.vue ($id_14c8b574)
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue ($id_bc2d74a1)
-// - /node_modules/nuxt3/dist/app/components/layout.mjs ($id_ddd66f9a)
 // Dependencies: 
 // - /node_modules/nuxt3/dist/app/nuxt.mjs ($id_bf77ef36)
 // - /node_modules/nuxt3/dist/app/composables/index.mjs ($id_42ae3d5d)
@@ -609,11 +627,11 @@ const $id_a569ca2d = (global, exports, importMeta, ssrImport, ssrDynamicImport, 
 // Parents: 
 // - /node_modules/nuxt3/dist/app/nuxt.mjs ($id_bf77ef36)
 // Dependencies: 
-// - /node_modules/unenv/runtime/mock/proxy.cjs ($id_45767657)
+// - /node_modules/unenv/runtime/mock/proxy.mjs ($id_39e12da7)
 // - /node_modules/nuxt3/dist/app/nuxt.mjs ($id_bf77ef36)
 // --------------------
 const $id_75047751 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/unenv/runtime/mock/proxy.cjs");
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/unenv/runtime/mock/proxy.mjs");
 
 const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/nuxt3/dist/app/nuxt.mjs");
 
@@ -725,13 +743,13 @@ Object.defineProperty(__vite_ssr_exports__, "legacyPlugin", { enumerable: true, 
 
 
 // --------------------
-// Request: /node_modules/unenv/runtime/mock/proxy.cjs
+// Request: /node_modules/unenv/runtime/mock/proxy.mjs
 // Parents: 
 // - /node_modules/nuxt3/dist/app/compat/legacy-app.mjs ($id_75047751)
 // Dependencies: 
 
 // --------------------
-const $id_45767657 = (global, exports, importMeta, ssrImport, ssrDynamicImport, ssrExportAll) => import("file:///D:/Repositories/laravel-nuxt-survey/frontend/node_modules/unenv/runtime/mock/proxy.cjs").then(r => { exports.default = r.default; ssrExportAll(r) }).catch(e => { console.error(e); throw new Error("[vite dev] Error loading external \"D:/Repositories/laravel-nuxt-survey/frontend/node_modules/unenv/runtime/mock/proxy.cjs\".") })
+const $id_39e12da7 = (global, exports, importMeta, ssrImport, ssrDynamicImport, ssrExportAll) => import("file:///D:/Repositories/laravel-nuxt-survey/frontend/node_modules/unenv/runtime/mock/proxy.mjs").then(r => { exports.default = r.default; ssrExportAll(r) }).catch(e => { console.error(e); throw new Error("[vite dev] Error loading external \"D:/Repositories/laravel-nuxt-survey/frontend/node_modules/unenv/runtime/mock/proxy.mjs\".") })
 
 
 // --------------------
@@ -786,7 +804,6 @@ Object.defineProperty(__vite_ssr_exports__, "addRouteMiddleware", { enumerable: 
 Object.defineProperty(__vite_ssr_exports__, "defineNuxtRouteMiddleware", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_8__.defineNuxtRouteMiddleware }});
 Object.defineProperty(__vite_ssr_exports__, "navigateTo", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_8__.navigateTo }});
 Object.defineProperty(__vite_ssr_exports__, "useRoute", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_8__.useRoute }});
-Object.defineProperty(__vite_ssr_exports__, "useActiveRoute", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_8__.useActiveRoute }});
 Object.defineProperty(__vite_ssr_exports__, "useRouter", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_8__.useRouter }});
 ;
 }
@@ -1314,10 +1331,6 @@ const useRoute = () => {
   return __vite_ssr_import_1__.useNuxtApp()._route;
 };
 Object.defineProperty(__vite_ssr_exports__, "useRoute", { enumerable: true, configurable: true, get(){ return useRoute }});
-const useActiveRoute = () => {
-  return __vite_ssr_import_1__.useNuxtApp()._activeRoute;
-};
-Object.defineProperty(__vite_ssr_exports__, "useActiveRoute", { enumerable: true, configurable: true, get(){ return useActiveRoute }});
 const defineNuxtRouteMiddleware = (middleware) => middleware;
 Object.defineProperty(__vite_ssr_exports__, "defineNuxtRouteMiddleware", { enumerable: true, configurable: true, get(){ return defineNuxtRouteMiddleware }});
 const addRouteMiddleware = (name, middleware, options = {}) => {
@@ -1513,7 +1526,6 @@ __vite_ssr_exports__.default = defineNuxtLink({ componentName: "NuxtLink" });
 // Request: /node_modules/nuxt3/dist/head/runtime/index.mjs
 // Parents: 
 // - /node_modules/nuxt3/dist/app/index.mjs ($id_d8c2af0f)
-// - /layouts/guest.vue ($id_7c0fbde7)
 // Dependencies: 
 // - /node_modules/nuxt3/dist/head/runtime/composables.mjs ($id_54e514a9)
 // --------------------
@@ -1578,23 +1590,10 @@ const $id_852b06a2 = (global, exports, importMeta, ssrImport, ssrDynamicImport, 
 // Parents: 
 // - D:/Repositories/laravel-nuxt-survey/frontend/node_modules/nuxt3/dist/app/entry ($id_7f770037)
 // Dependencies: 
-// - /assets/css/tailwind.css ($id_f75548e1)
+
 // --------------------
 const $id_3f48ba95 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/assets/css/tailwind.css");
-;
-}
-
-
-// --------------------
-// Request: /assets/css/tailwind.css
-// Parents: 
-// - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/css.mjs ($id_3f48ba95)
-// Dependencies: 
-
-// --------------------
-const $id_f75548e1 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-__vite_ssr_exports__.default = "/*! tailwindcss v3.0.23 | MIT License | https://tailwindcss.com*/*,:after,:before{border:0 solid #e5e7eb;box-sizing:border-box}:after,:before{--tw-content:\"\"}html{-webkit-text-size-adjust:100%;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";line-height:1.5;-moz-tab-size:4;-o-tab-size:4;tab-size:4}body{line-height:inherit;margin:0}hr{border-top-width:1px;color:inherit;height:0}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{border-collapse:collapse;border-color:inherit;text-indent:0}button,input,optgroup,select,textarea{color:inherit;font-family:inherit;font-size:100%;line-height:inherit;margin:0;padding:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0}fieldset,legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}textarea{resize:vertical}input::-moz-placeholder,textarea::-moz-placeholder{color:#9ca3af;opacity:1}input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#9ca3af;opacity:1}input::placeholder,textarea::placeholder{color:#9ca3af;opacity:1}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{height:auto;max-width:100%}[hidden]{display:none}*,:after,:before{--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }.sr-only{clip:rect(0,0,0,0);border-width:0;height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px}.absolute{position:absolute}.relative{position:relative}.right-0{right:0}.mx-auto{margin-left:auto;margin-right:auto}.mt-2{margin-top:.5rem}.mt-4{margin-top:1rem}.mt-10{margin-top:2.5rem}.ml-16{margin-left:4rem}.ml-10{margin-left:2.5rem}.ml-4{margin-left:1rem}.ml-3{margin-left:.75rem}.-mr-2{margin-right:-.5rem}.ml-auto{margin-left:auto}.mt-3{margin-top:.75rem}.block{display:block}.flex{display:flex}.inline-flex{display:inline-flex}.hidden{display:none}.h-full{height:100%}.h-12{height:3rem}.h-6{height:1.5rem}.h-16{height:4rem}.h-8{height:2rem}.h-10{height:2.5rem}.h-96{height:24rem}.min-h-full{min-height:100%}.w-12{width:3rem}.w-6{width:1.5rem}.w-8{width:2rem}.w-48{width:12rem}.w-10{width:2.5rem}.max-w-7xl{max-width:80rem}.max-w-2xl{max-width:42rem}.max-w-xs{max-width:20rem}.flex-shrink-0{flex-shrink:0}.origin-top-right{transform-origin:top right}.scale-95{--tw-scale-x:.95;--tw-scale-y:.95}.scale-100,.scale-95{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.scale-100{--tw-scale-x:1;--tw-scale-y:1}.transform{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.items-center{align-items:center}.items-baseline{align-items:baseline}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.space-y-10>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(2.5rem*var(--tw-space-y-reverse));margin-top:calc(2.5rem*(1 - var(--tw-space-y-reverse)))}.space-x-4>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(1rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(1rem*var(--tw-space-x-reverse))}.space-y-1>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(.25rem*var(--tw-space-y-reverse));margin-top:calc(.25rem*(1 - var(--tw-space-y-reverse)))}.rounded-md{border-radius:.375rem}.rounded-full{border-radius:9999px}.rounded-lg{border-radius:.5rem}.border-4{border-width:4px}.border-t{border-top-width:1px}.border-dashed{border-style:dashed}.border-gray-700{--tw-border-opacity:1;border-color:rgb(55 65 81/var(--tw-border-opacity))}.border-gray-200{--tw-border-opacity:1;border-color:rgb(229 231 235/var(--tw-border-opacity))}.bg-gray-100{--tw-bg-opacity:1;background-color:rgb(243 244 246/var(--tw-bg-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity))}.bg-indigo-500{--tw-bg-opacity:1;background-color:rgb(99 102 241/var(--tw-bg-opacity))}.bg-gray-800{--tw-bg-opacity:1;background-color:rgb(31 41 55/var(--tw-bg-opacity))}.bg-gray-900{--tw-bg-opacity:1;background-color:rgb(17 24 39/var(--tw-bg-opacity))}.p-1{padding:.25rem}.p-2{padding:.5rem}.py-12{padding-bottom:3rem;padding-top:3rem}.px-4{padding-left:1rem;padding-right:1rem}.px-3{padding-left:.75rem;padding-right:.75rem}.py-2{padding-bottom:.5rem;padding-top:.5rem}.py-1{padding-bottom:.25rem;padding-top:.25rem}.px-2{padding-left:.5rem;padding-right:.5rem}.px-5{padding-left:1.25rem;padding-right:1.25rem}.py-6{padding-bottom:1.5rem;padding-top:1.5rem}.pt-2{padding-top:.5rem}.pb-3{padding-bottom:.75rem}.pt-4{padding-top:1rem}.text-base{font-size:1rem;line-height:1.5rem}.text-3xl{font-size:1.875rem;line-height:2.25rem}.text-xl{font-size:1.25rem}.text-lg,.text-xl{line-height:1.75rem}.text-lg{font-size:1.125rem}.text-sm{font-size:.875rem;line-height:1.25rem}.font-semibold{font-weight:600}.font-extrabold{font-weight:800}.font-medium{font-weight:500}.font-bold{font-weight:700}.uppercase{text-transform:uppercase}.leading-8{line-height:2rem}.leading-6{line-height:1.5rem}.leading-none{line-height:1}.tracking-wide{letter-spacing:.025em}.tracking-tight{letter-spacing:-.025em}.text-indigo-600{--tw-text-opacity:1;color:rgb(79 70 229/var(--tw-text-opacity))}.text-gray-900{--tw-text-opacity:1;color:rgb(17 24 39/var(--tw-text-opacity))}.text-gray-500{--tw-text-opacity:1;color:rgb(107 114 128/var(--tw-text-opacity))}.text-white{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))}.text-gray-300{--tw-text-opacity:1;color:rgb(209 213 219/var(--tw-text-opacity))}.text-gray-400{--tw-text-opacity:1;color:rgb(156 163 175/var(--tw-text-opacity))}.text-gray-700{--tw-text-opacity:1;color:rgb(55 65 81/var(--tw-text-opacity))}.opacity-0{opacity:0}.opacity-100{opacity:1}.shadow-lg{--tw-shadow:0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -4px rgba(0,0,0,.1);--tw-shadow-colored:0 10px 15px -3px var(--tw-shadow-color),0 4px 6px -4px var(--tw-shadow-color)}.shadow,.shadow-lg{box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.shadow{--tw-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px -1px rgba(0,0,0,.1);--tw-shadow-colored:0 1px 3px 0 var(--tw-shadow-color),0 1px 2px -1px var(--tw-shadow-color)}.ring-1{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.ring-black{--tw-ring-opacity:1;--tw-ring-color:rgb(0 0 0/var(--tw-ring-opacity))}.ring-opacity-5{--tw-ring-opacity:0.05}.transition{transition-duration:.15s;transition-property:color,background-color,border-color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-text-decoration-color,-webkit-backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-text-decoration-color,-webkit-backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1)}.duration-100{transition-duration:.1s}.duration-75{transition-duration:75ms}.ease-out{transition-timing-function:cubic-bezier(0,0,.2,1)}.ease-in{transition-timing-function:cubic-bezier(.4,0,1,1)}.hover\\:bg-gray-700:hover{--tw-bg-opacity:1;background-color:rgb(55 65 81/var(--tw-bg-opacity))}.hover\\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))}.focus\\:outline-none:focus{outline:2px solid transparent;outline-offset:2px}.focus\\:ring-2:focus{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.focus\\:ring-white:focus{--tw-ring-opacity:1;--tw-ring-color:rgb(255 255 255/var(--tw-ring-opacity))}.focus\\:ring-offset-2:focus{--tw-ring-offset-width:2px}.focus\\:ring-offset-gray-800:focus{--tw-ring-offset-color:#1f2937}@media (min-width:640px){.sm\\:px-6{padding-left:1.5rem;padding-right:1.5rem}.sm\\:px-3{padding-left:.75rem;padding-right:.75rem}.sm\\:px-0{padding-left:0;padding-right:0}.sm\\:text-4xl{font-size:2.25rem;line-height:2.5rem}}@media (min-width:768px){.md\\:ml-6{margin-left:1.5rem}.md\\:block{display:block}.md\\:grid{display:grid}.md\\:hidden{display:none}.md\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.md\\:gap-x-8{-moz-column-gap:2rem;column-gap:2rem}.md\\:gap-y-10{row-gap:2.5rem}.md\\:space-y-0>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(0px*var(--tw-space-y-reverse));margin-top:calc(0px*(1 - var(--tw-space-y-reverse)))}}@media (min-width:1024px){.lg\\:mx-auto{margin-left:auto;margin-right:auto}.lg\\:px-8{padding-left:2rem;padding-right:2rem}.lg\\:text-center{text-align:center}}";
+/* empty */;
 }
 
 
@@ -2475,14 +2474,10 @@ __vite_ssr_exports__.default = __vite_ssr_import_5__.defineNuxtPlugin((nuxtApp) 
   Object.defineProperty(nuxtApp.vueApp.config.globalProperties, "previousRoute", {
     get: () => previousRoute.value
   });
-  const route = {};
-  for (const key in router.currentRoute.value) {
-    route[key] = __vite_ssr_import_0__.computed(() => router.currentRoute.value[key]);
-  }
   const path = true ? nuxtApp.ssrContext.req.url : createCurrentLocation(baseURL, window.location);
-  const _activeRoute = __vite_ssr_import_0__.shallowRef(router.resolve(path));
+  const currentRoute = __vite_ssr_import_0__.shallowRef(router.resolve(path));
   const syncCurrentRoute = () => {
-    _activeRoute.value = router.currentRoute.value;
+    currentRoute.value = router.currentRoute.value;
   };
   nuxtApp.hook("page:finish", syncCurrentRoute);
   router.afterEach((to, from) => {
@@ -2490,12 +2485,11 @@ __vite_ssr_exports__.default = __vite_ssr_import_5__.defineNuxtPlugin((nuxtApp) 
       syncCurrentRoute();
     }
   });
-  const activeRoute = {};
-  for (const key in _activeRoute.value) {
-    activeRoute[key] = __vite_ssr_import_0__.computed(() => _activeRoute.value[key]);
+  const route = {};
+  for (const key in currentRoute.value) {
+    route[key] = __vite_ssr_import_0__.computed(() => currentRoute.value[key]);
   }
   nuxtApp._route = __vite_ssr_import_0__.reactive(route);
-  nuxtApp._activeRoute = __vite_ssr_import_0__.reactive(activeRoute);
   nuxtApp._middleware = nuxtApp._middleware || {
     global: [],
     named: {}
@@ -2651,7 +2645,6 @@ Object.defineProperty(__vite_ssr_exports__, "wrapInKeepAlive", { enumerable: tru
 // Request: /node_modules/nuxt3/dist/app/components/utils.mjs
 // Parents: 
 // - /node_modules/nuxt3/dist/pages/runtime/page.mjs ($id_485c89bf)
-// - /node_modules/nuxt3/dist/app/components/layout.mjs ($id_ddd66f9a)
 // Dependencies: 
 // - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
 // --------------------
@@ -2678,13 +2671,25 @@ Object.defineProperty(__vite_ssr_exports__, "_wrapIf", { enumerable: true, confi
 // Dependencies: 
 // - /pages/features.vue?macro=true ($id_93b5f9cb)
 // - /pages/index.vue?macro=true ($id_5dd70240)
+// - D:/Repositories/laravel-nuxt-survey/frontend/pages/menu.vue?macro=true ($id_1544da3c)
+// - D:/Repositories/laravel-nuxt-survey/frontend/pages/modal.vue?macro=true ($id_d0fb247c)
+// - D:/Repositories/laravel-nuxt-survey/frontend/pages/pinia.vue?macro=true ($id_7a8ce2df)
 // - /pages/features.vue ($id_cdc7ed81)
 // - /pages/index.vue ($id_cca58e97)
+// - D:/Repositories/laravel-nuxt-survey/frontend/pages/menu.vue ($id_d849e9f3)
+// - D:/Repositories/laravel-nuxt-survey/frontend/pages/modal.vue ($id_8ed0fd8e)
+// - D:/Repositories/laravel-nuxt-survey/frontend/pages/pinia.vue ($id_d23760aa)
 // --------------------
 const $id_9d122929 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/pages/features.vue?macro=true");
 
 const __vite_ssr_import_1__ = await __vite_ssr_import__("/pages/index.vue?macro=true");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("D:/Repositories/laravel-nuxt-survey/frontend/pages/menu.vue?macro=true");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("D:/Repositories/laravel-nuxt-survey/frontend/pages/modal.vue?macro=true");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("D:/Repositories/laravel-nuxt-survey/frontend/pages/pinia.vue?macro=true");
 
 __vite_ssr_exports__.default = [
   {
@@ -2702,6 +2707,30 @@ __vite_ssr_exports__.default = [
     children: [],
     meta: __vite_ssr_import_1__.meta,
     component: () => __vite_ssr_dynamic_import__('/pages/index.vue')
+  },
+  {
+    name: "menu",
+    path: "/menu",
+    file: "D:/Repositories/laravel-nuxt-survey/frontend/pages/menu.vue",
+    children: [],
+    meta: __vite_ssr_import_2__.meta,
+    component: () => __vite_ssr_dynamic_import__("D:/Repositories/laravel-nuxt-survey/frontend/pages/menu.vue")
+  },
+  {
+    name: "modal",
+    path: "/modal",
+    file: "D:/Repositories/laravel-nuxt-survey/frontend/pages/modal.vue",
+    children: [],
+    meta: __vite_ssr_import_3__.meta,
+    component: () => __vite_ssr_dynamic_import__("D:/Repositories/laravel-nuxt-survey/frontend/pages/modal.vue")
+  },
+  {
+    name: "pinia",
+    path: "/pinia",
+    file: "D:/Repositories/laravel-nuxt-survey/frontend/pages/pinia.vue",
+    children: [],
+    meta: __vite_ssr_import_4__.meta,
+    component: () => __vite_ssr_dynamic_import__("D:/Repositories/laravel-nuxt-survey/frontend/pages/pinia.vue")
   }
 ];
 }
@@ -10920,8 +10949,7 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, value
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue ($id_bc2d74a1)
 // - /node_modules/nuxt3/dist/app/components/nuxt-error-page.vue ($id_f10a5dcc)
 // - /node_modules/nuxt3/dist/app/components/nuxt-root.vue ($id_f8564e04)
-// - /layouts/guest.vue ($id_7c0fbde7)
-// - /node_modules/nuxt3/dist/pages/runtime/app.vue ($id_0851ff57)
+// - /app.vue ($id_2b46e842)
 // Dependencies: 
 
 // --------------------
@@ -10940,8 +10968,7 @@ const $id_b215fa1c = (global, exports, importMeta, ssrImport, ssrDynamicImport, 
 // - /node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue ($id_bc2d74a1)
 // - /node_modules/nuxt3/dist/app/components/nuxt-error-page.vue ($id_f10a5dcc)
 // - /node_modules/nuxt3/dist/app/components/nuxt-root.vue ($id_f8564e04)
-// - /layouts/guest.vue ($id_7c0fbde7)
-// - /node_modules/nuxt3/dist/pages/runtime/app.vue ($id_0851ff57)
+// - /app.vue ($id_2b46e842)
 // Dependencies: 
 
 // --------------------
@@ -10964,253 +10991,186 @@ __vite_ssr_exports__.default = (sfc, props) => {
 // - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/routes.mjs ($id_9d122929)
 // Dependencies: 
 // - /node_modules/nuxt3/dist/pages/runtime/composables.mjs ($id_f55c9203)
-// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
-// - /store.ts ($id_05c4c624)
-// - /node_modules/@headlessui/vue/dist/headlessui.esm.js ($id_2c13895f)
+// - /node_modules/nuxt3/dist/app/index.mjs ($id_d8c2af0f)
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
 // - /node_modules/@heroicons/vue/outline/esm/index.js ($id_d0ea4942)
-// - /utils/api.ts ($id_da3d18cd)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
 // - /node_modules/vue/server-renderer/index.js ($id_b215fa1c)
 // - /@id/plugin-vue:export-helper ($id_bbb863c1)
 // --------------------
 const $id_5dd70240 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt3/dist/pages/runtime/composables.mjs");
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
 
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/nuxt3/dist/app/index.mjs");
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/index.esm.js");
 
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/store.ts");
-
-
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/headlessui.esm.js");
-
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@heroicons/vue/outline/esm/index.js");
-
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@heroicons/vue/outline/esm/index.js");
 
 /*#__PURE__*/ false && __vite_ssr_import_0__.definePageMeta({
-  layout: 'guest',
-})
-
-
+  layout: "guest"
+});
 const user = {
-  name: 'Tom Cook',
-  email: 'tom@example.com',
-  imageUrl:
-    'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-}
+  name: "Tom Cook",
+  email: "tom@example.com",
+  imageUrl: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+};
 const navigation = [
-  { name: 'Dashboard', href: '#', current: true },
-  { name: 'Team', href: '#', current: false },
-  { name: 'Projects', href: '#', current: false },
-  { name: 'Calendar', href: '#', current: false },
-  { name: 'Reports', href: '#', current: false },
-]
+  { name: "Dashboard", href: "#", current: true },
+  { name: "Team", href: "#", current: false },
+  { name: "Projects", href: "#", current: false },
+  { name: "Calendar", href: "#", current: false },
+  { name: "Reports", href: "#", current: false }
+];
 const userNavigation = [
-  { name: 'Your Profile', href: '#' },
-  { name: 'Settings', href: '#' },
-  { name: 'Sign out', href: '#' },
-]
-
-const __default__ = {
+  { name: "Your Profile", href: "#" },
+  { name: "Settings", href: "#" },
+  { name: "Sign out", href: "#" }
+];
+const _sfc_main = __vite_ssr_import_1__.defineNuxtComponent({
   components: {
-    Disclosure: __vite_ssr_import_3__.Disclosure,
-    DisclosureButton: __vite_ssr_import_3__.DisclosureButton,
-    DisclosurePanel: __vite_ssr_import_3__.DisclosurePanel,
-    Menu: __vite_ssr_import_3__.Menu,
-    MenuButton: __vite_ssr_import_3__.MenuButton,
-    MenuItem: __vite_ssr_import_3__.MenuItem,
-    MenuItems: __vite_ssr_import_3__.MenuItems,
-    BellIcon: __vite_ssr_import_4__.BellIcon,
-    MenuIcon: __vite_ssr_import_4__.MenuIcon,
-    XIcon: __vite_ssr_import_4__.XIcon,
+    Disclosure: __vite_ssr_import_2__.Disclosure,
+    DisclosureButton: __vite_ssr_import_2__.DisclosureButton,
+    DisclosurePanel: __vite_ssr_import_2__.DisclosurePanel,
+    Menu: __vite_ssr_import_2__.Menu,
+    MenuButton: __vite_ssr_import_2__.MenuButton,
+    MenuItem: __vite_ssr_import_2__.MenuItem,
+    MenuItems: __vite_ssr_import_2__.MenuItems,
+    BellIcon: __vite_ssr_import_3__.BellIcon,
+    MenuIcon: __vite_ssr_import_3__.MenuIcon,
+    XIcon: __vite_ssr_import_3__.XIcon
   },
   setup() {
     return {
       user,
       navigation,
       userNavigation
-    }
-  },
-  data() {
-    return {
-      store: __vite_ssr_import_2__.useStore()
-    }
+    };
   }
-}
-const __vite_ssr_import_5__ = await __vite_ssr_import__("/utils/api.ts");
+});
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
 
-
-const _sfc_main = /*#__PURE__*/Object.assign(__default__, {
-  async setup(__props, { expose }) {
-  expose();
-
-let __temp, __restore
-
-const data = (
-  ([__temp,__restore] = __vite_ssr_import_1__.withAsyncContext(() => __vite_ssr_import_5__.getRequest())),
-  __temp = await __temp,
-  __restore(),
-  __temp
-)
-
-const __returned__ = { user, navigation, userNavigation, data, useStore: __vite_ssr_import_2__.useStore, Disclosure: __vite_ssr_import_3__.Disclosure, DisclosureButton: __vite_ssr_import_3__.DisclosureButton, DisclosurePanel: __vite_ssr_import_3__.DisclosurePanel, Menu: __vite_ssr_import_3__.Menu, MenuButton: __vite_ssr_import_3__.MenuButton, MenuItem: __vite_ssr_import_3__.MenuItem, MenuItems: __vite_ssr_import_3__.MenuItems, BellIcon: __vite_ssr_import_4__.BellIcon, MenuIcon: __vite_ssr_import_4__.MenuIcon, XIcon: __vite_ssr_import_4__.XIcon, getRequest: __vite_ssr_import_5__.getRequest }
-Object.defineProperty(__returned__, '__isScriptSetup', { enumerable: false, value: true })
-return __returned__
-}
-
-})
-const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-
-const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/vue/server-renderer/index.js");
-
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/vue/server-renderer/index.js");
 
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
-  _push(`<div${__vite_ssr_import_7__.ssrRenderAttrs(__vite_ssr_import_6__.mergeProps({ class: "min-h-full" }, _attrs))}>`)
-  _push(__vite_ssr_import_7__.ssrRenderComponent($setup["Disclosure"], {
+  const _component_Disclosure = __vite_ssr_import_4__.resolveComponent("Disclosure");
+  const _component_BellIcon = __vite_ssr_import_4__.resolveComponent("BellIcon");
+  const _component_Menu = __vite_ssr_import_4__.resolveComponent("Menu");
+  const _component_MenuButton = __vite_ssr_import_4__.resolveComponent("MenuButton");
+  const _component_MenuItems = __vite_ssr_import_4__.resolveComponent("MenuItems");
+  const _component_MenuItem = __vite_ssr_import_4__.resolveComponent("MenuItem");
+  const _component_DisclosureButton = __vite_ssr_import_4__.resolveComponent("DisclosureButton");
+  const _component_MenuIcon = __vite_ssr_import_4__.resolveComponent("MenuIcon");
+  const _component_XIcon = __vite_ssr_import_4__.resolveComponent("XIcon");
+  const _component_DisclosurePanel = __vite_ssr_import_4__.resolveComponent("DisclosurePanel");
+  _push(`<!--[--><!--
+    This example requires updating your template:
+
+    \`\`\`
+    <html class="h-full bg-gray-100">
+    <body class="h-full">
+    \`\`\`
+  --><div${__vite_ssr_import_5__.ssrRenderAttrs(__vite_ssr_import_4__.mergeProps({ class: "min-h-full" }, _attrs))}>`);
+  _push(__vite_ssr_import_5__.ssrRenderComponent(_component_Disclosure, {
     as: "nav",
     class: "bg-gray-800"
   }, {
-    default: __vite_ssr_import_6__.withCtx(({ open }, _push, _parent, _scopeId) => {
-      if (_push) {
-        _push(`<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"${
-          _scopeId
-        }><div class="flex items-center justify-between h-16"${
-          _scopeId
-        }><div class="flex items-center"${
-          _scopeId
-        }><div class="flex-shrink-0"${
-          _scopeId
-        }><img class="h-8 w-8" src="https://tailwindui.com/img/logos/workflow-mark-indigo-500.svg" alt="Workflow"${
-          _scopeId
-        }></div><div class="hidden md:block"${
-          _scopeId
-        }><div class="ml-10 flex items-baseline space-x-4"${
-          _scopeId
-        }><!--[-->`)
-        __vite_ssr_import_7__.ssrRenderList($setup.navigation, (item) => {
-          _push(`<a${
-            __vite_ssr_import_7__.ssrRenderAttr("href", item.href)
-          } class="${
-            __vite_ssr_import_7__.ssrRenderClass([item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white', 'px-3 py-2 rounded-md text-sm font-medium'])
-          }"${
-            __vite_ssr_import_7__.ssrRenderAttr("aria-current", item.current ? 'page' : undefined)
-          }${
-            _scopeId
-          }>${
-            __vite_ssr_import_7__.ssrInterpolate(item.name)
-          }</a>`)
-        })
-        _push(`<!--]--></div></div></div><div class="hidden md:block"${
-          _scopeId
-        }><div class="ml-4 flex items-center md:ml-6"${
-          _scopeId
-        }><button type="button" class="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"${
-          _scopeId
-        }><span class="sr-only"${
-          _scopeId
-        }>View notifications</span>`)
-        _push(__vite_ssr_import_7__.ssrRenderComponent($setup["BellIcon"], {
+    default: __vite_ssr_import_4__.withCtx(({ open }, _push2, _parent2, _scopeId) => {
+      if (_push2) {
+        _push2(`<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"${_scopeId}><div class="flex items-center justify-between h-16"${_scopeId}><div class="flex items-center"${_scopeId}><div class="flex-shrink-0"${_scopeId}><img class="h-8 w-8" src="https://tailwindui.com/img/logos/workflow-mark-indigo-500.svg" alt="Workflow"${_scopeId}></div><div class="hidden md:block"${_scopeId}><div class="ml-10 flex items-baseline space-x-4"${_scopeId}><!--[-->`);
+        __vite_ssr_import_5__.ssrRenderList(_ctx.navigation, (item) => {
+          _push2(`<a${__vite_ssr_import_5__.ssrRenderAttr("href", item.href)} class="${__vite_ssr_import_5__.ssrRenderClass([item.current ? "bg-gray-900 text-white" : "text-gray-300 hover:bg-gray-700 hover:text-white", "px-3 py-2 rounded-md text-sm font-medium"])}"${__vite_ssr_import_5__.ssrRenderAttr("aria-current", item.current ? "page" : void 0)}${_scopeId}>${__vite_ssr_import_5__.ssrInterpolate(item.name)}</a>`);
+        });
+        _push2(`<!--]--></div></div></div><div class="hidden md:block"${_scopeId}><div class="ml-4 flex items-center md:ml-6"${_scopeId}><button type="button" class="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"${_scopeId}><span class="sr-only"${_scopeId}>View notifications</span>`);
+        _push2(__vite_ssr_import_5__.ssrRenderComponent(_component_BellIcon, {
           class: "h-6 w-6",
           "aria-hidden": "true"
-        }, null, _parent, _scopeId))
-        _push(`</button><!-- Profile dropdown -->`)
-        _push(__vite_ssr_import_7__.ssrRenderComponent($setup["Menu"], {
+        }, null, _parent2, _scopeId));
+        _push2(`</button><!-- Profile dropdown -->`);
+        _push2(__vite_ssr_import_5__.ssrRenderComponent(_component_Menu, {
           as: "div",
           class: "ml-3 relative"
         }, {
-          default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-            if (_push) {
-              _push(`<div${_scopeId}>`)
-              _push(__vite_ssr_import_7__.ssrRenderComponent($setup["MenuButton"], { class: "max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
-                default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-                  if (_push) {
-                    _push(`<span class="sr-only"${
-                      _scopeId
-                    }>Open user menu</span><img class="h-8 w-8 rounded-full"${
-                      __vite_ssr_import_7__.ssrRenderAttr("src", $setup.user.imageUrl)
-                    } alt${
-                      _scopeId
-                    }>`)
+          default: __vite_ssr_import_4__.withCtx((_, _push3, _parent3, _scopeId2) => {
+            if (_push3) {
+              _push3(`<div${_scopeId2}>`);
+              _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_MenuButton, { class: "max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
+                default: __vite_ssr_import_4__.withCtx((_2, _push4, _parent4, _scopeId3) => {
+                  if (_push4) {
+                    _push4(`<span class="sr-only"${_scopeId3}>Open user menu</span><img class="h-8 w-8 rounded-full"${__vite_ssr_import_5__.ssrRenderAttr("src", _ctx.user.imageUrl)} alt="user-image"${_scopeId3}>`);
                   } else {
                     return [
-                      __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "Open user menu"),
-                      __vite_ssr_import_6__.createVNode("img", {
+                      __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "Open user menu"),
+                      __vite_ssr_import_4__.createVNode("img", {
                         class: "h-8 w-8 rounded-full",
-                        src: $setup.user.imageUrl,
-                        alt: ""
-                      }, null, 8 /* PROPS */, ["src"])
-                    ]
+                        src: _ctx.user.imageUrl,
+                        alt: "user-image"
+                      }, null, 8, ["src"])
+                    ];
                   }
                 }),
-                _: 2 /* DYNAMIC */
-              }, _parent, _scopeId))
-              _push(`</div>`)
-              _push(__vite_ssr_import_7__.ssrRenderComponent($setup["MenuItems"], __vite_ssr_import_6__.mergeProps({ class: "origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" }, _attrs), {
-                default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-                  if (_push) {
-                    _push(`<!--[-->`)
-                    __vite_ssr_import_7__.ssrRenderList($setup.userNavigation, (item) => {
-                      _push(__vite_ssr_import_7__.ssrRenderComponent($setup["MenuItem"], {
+                _: 2
+              }, _parent3, _scopeId2));
+              _push3(`</div>`);
+              _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_MenuItems, __vite_ssr_import_4__.mergeProps({ class: "origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" }, _attrs), {
+                default: __vite_ssr_import_4__.withCtx((_2, _push4, _parent4, _scopeId3) => {
+                  if (_push4) {
+                    _push4(`<!--[-->`);
+                    __vite_ssr_import_5__.ssrRenderList(_ctx.userNavigation, (item) => {
+                      _push4(__vite_ssr_import_5__.ssrRenderComponent(_component_MenuItem, {
                         key: item.name
                       }, {
-                        default: __vite_ssr_import_6__.withCtx(({ active }, _push, _parent, _scopeId) => {
-                          if (_push) {
-                            _push(`<a${
-                              __vite_ssr_import_7__.ssrRenderAttr("href", item.href)
-                            } class="${
-                              __vite_ssr_import_7__.ssrRenderClass([active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700'])
-                            }"${
-                              _scopeId
-                            }>${
-                              __vite_ssr_import_7__.ssrInterpolate(item.name)
-                            }</a>`)
+                        default: __vite_ssr_import_4__.withCtx(({ active }, _push5, _parent5, _scopeId4) => {
+                          if (_push5) {
+                            _push5(`<a${__vite_ssr_import_5__.ssrRenderAttr("href", item.href)} class="${__vite_ssr_import_5__.ssrRenderClass([active ? "bg-gray-100" : "", "block px-4 py-2 text-sm text-gray-700"])}"${_scopeId4}>${__vite_ssr_import_5__.ssrInterpolate(item.name)}</a>`);
                           } else {
                             return [
-                              __vite_ssr_import_6__.createVNode("a", {
+                              __vite_ssr_import_4__.createVNode("a", {
                                 href: item.href,
-                                class: [active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700']
-                              }, __vite_ssr_import_6__.toDisplayString(item.name), 11 /* TEXT, CLASS, PROPS */, ["href"])
-                            ]
+                                class: [active ? "bg-gray-100" : "", "block px-4 py-2 text-sm text-gray-700"]
+                              }, __vite_ssr_import_4__.toDisplayString(item.name), 11, ["href"])
+                            ];
                           }
                         }),
-                        _: 2 /* DYNAMIC */
-                      }, _parent, _scopeId))
-                    })
-                    _push(`<!--]-->`)
+                        _: 2
+                      }, _parent4, _scopeId3));
+                    });
+                    _push4(`<!--]-->`);
                   } else {
                     return [
-                      (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.userNavigation, (item) => {
-                        return __vite_ssr_import_6__.createVNode($setup["MenuItem"], {
+                      (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.userNavigation, (item) => {
+                        return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_MenuItem, {
                           key: item.name
                         }, {
-                          default: __vite_ssr_import_6__.withCtx(({ active }) => [
-                            __vite_ssr_import_6__.createVNode("a", {
+                          default: __vite_ssr_import_4__.withCtx(({ active }) => [
+                            __vite_ssr_import_4__.createVNode("a", {
                               href: item.href,
-                              class: [active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700']
-                            }, __vite_ssr_import_6__.toDisplayString(item.name), 11 /* TEXT, CLASS, PROPS */, ["href"])
+                              class: [active ? "bg-gray-100" : "", "block px-4 py-2 text-sm text-gray-700"]
+                            }, __vite_ssr_import_4__.toDisplayString(item.name), 11, ["href"])
                           ]),
-                          _: 2 /* DYNAMIC */
-                        }, 1024 /* DYNAMIC_SLOTS */)
-                      }), 64 /* STABLE_FRAGMENT */))
-                    ]
+                          _: 2
+                        }, 1024);
+                      }), 128))
+                    ];
                   }
                 }),
-                _: 2 /* DYNAMIC */
-              }, _parent, _scopeId))
+                _: 2
+              }, _parent3, _scopeId2));
             } else {
               return [
-                __vite_ssr_import_6__.createVNode("div", null, [
-                  __vite_ssr_import_6__.createVNode($setup["MenuButton"], { class: "max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
-                    default: __vite_ssr_import_6__.withCtx(() => [
-                      __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "Open user menu"),
-                      __vite_ssr_import_6__.createVNode("img", {
+                __vite_ssr_import_4__.createVNode("div", null, [
+                  __vite_ssr_import_4__.createVNode(_component_MenuButton, { class: "max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
+                    default: __vite_ssr_import_4__.withCtx(() => [
+                      __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "Open user menu"),
+                      __vite_ssr_import_4__.createVNode("img", {
                         class: "h-8 w-8 rounded-full",
-                        src: $setup.user.imageUrl,
-                        alt: ""
-                      }, null, 8 /* PROPS */, ["src"])
+                        src: _ctx.user.imageUrl,
+                        alt: "user-image"
+                      }, null, 8, ["src"])
                     ]),
-                    _: 1 /* STABLE */
+                    _: 1
                   })
                 ]),
-                __vite_ssr_import_6__.createVNode(__vite_ssr_import_6__.Transition, {
+                __vite_ssr_import_4__.createVNode(__vite_ssr_import_4__.Transition, {
                   "enter-active-class": "transition ease-out duration-100",
                   "enter-from-class": "transform opacity-0 scale-95",
                   "enter-to-class": "transform opacity-100 scale-100",
@@ -11218,263 +11178,237 @@ function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $op
                   "leave-from-class": "transform opacity-100 scale-100",
                   "leave-to-class": "transform opacity-0 scale-95"
                 }, {
-                  default: __vite_ssr_import_6__.withCtx(() => [
-                    __vite_ssr_import_6__.createVNode($setup["MenuItems"], { class: "origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" }, {
-                      default: __vite_ssr_import_6__.withCtx(() => [
-                        (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.userNavigation, (item) => {
-                          return __vite_ssr_import_6__.createVNode($setup["MenuItem"], {
+                  default: __vite_ssr_import_4__.withCtx(() => [
+                    __vite_ssr_import_4__.createVNode(_component_MenuItems, { class: "origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" }, {
+                      default: __vite_ssr_import_4__.withCtx(() => [
+                        (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.userNavigation, (item) => {
+                          return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_MenuItem, {
                             key: item.name
                           }, {
-                            default: __vite_ssr_import_6__.withCtx(({ active }) => [
-                              __vite_ssr_import_6__.createVNode("a", {
+                            default: __vite_ssr_import_4__.withCtx(({ active }) => [
+                              __vite_ssr_import_4__.createVNode("a", {
                                 href: item.href,
-                                class: [active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700']
-                              }, __vite_ssr_import_6__.toDisplayString(item.name), 11 /* TEXT, CLASS, PROPS */, ["href"])
+                                class: [active ? "bg-gray-100" : "", "block px-4 py-2 text-sm text-gray-700"]
+                              }, __vite_ssr_import_4__.toDisplayString(item.name), 11, ["href"])
                             ]),
-                            _: 2 /* DYNAMIC */
-                          }, 1024 /* DYNAMIC_SLOTS */)
-                        }), 64 /* STABLE_FRAGMENT */))
+                            _: 2
+                          }, 1024);
+                        }), 128))
                       ]),
-                      _: 1 /* STABLE */
+                      _: 1
                     })
                   ]),
-                  _: 1 /* STABLE */
+                  _: 1
                 })
-              ]
+              ];
             }
           }),
-          _: 2 /* DYNAMIC */
-        }, _parent, _scopeId))
-        _push(`</div></div><div class="-mr-2 flex md:hidden"${_scopeId}><!-- Mobile menu button -->`)
-        _push(__vite_ssr_import_7__.ssrRenderComponent($setup["DisclosureButton"], { class: "bg-gray-800 inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
-          default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-            if (_push) {
-              _push(`<span class="sr-only"${_scopeId}>Open main menu</span>`)
+          _: 2
+        }, _parent2, _scopeId));
+        _push2(`</div></div><div class="-mr-2 flex md:hidden"${_scopeId}><!-- Mobile menu button -->`);
+        _push2(__vite_ssr_import_5__.ssrRenderComponent(_component_DisclosureButton, { class: "bg-gray-800 inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
+          default: __vite_ssr_import_4__.withCtx((_, _push3, _parent3, _scopeId2) => {
+            if (_push3) {
+              _push3(`<span class="sr-only"${_scopeId2}>Open main menu</span>`);
               if (!open) {
-                _push(__vite_ssr_import_7__.ssrRenderComponent($setup["MenuIcon"], {
+                _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_MenuIcon, {
                   class: "block h-6 w-6",
                   "aria-hidden": "true"
-                }, null, _parent, _scopeId))
+                }, null, _parent3, _scopeId2));
               } else {
-                _push(__vite_ssr_import_7__.ssrRenderComponent($setup["XIcon"], {
+                _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_XIcon, {
                   class: "block h-6 w-6",
                   "aria-hidden": "true"
-                }, null, _parent, _scopeId))
+                }, null, _parent3, _scopeId2));
               }
             } else {
               return [
-                __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "Open main menu"),
-                (!open)
-                  ? (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock($setup["MenuIcon"], {
-                      key: 0,
-                      class: "block h-6 w-6",
-                      "aria-hidden": "true"
-                    }))
-                  : (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock($setup["XIcon"], {
-                      key: 1,
-                      class: "block h-6 w-6",
-                      "aria-hidden": "true"
-                    }))
-              ]
+                __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "Open main menu"),
+                !open ? (__vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_MenuIcon, {
+                  key: 0,
+                  class: "block h-6 w-6",
+                  "aria-hidden": "true"
+                })) : (__vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_XIcon, {
+                  key: 1,
+                  class: "block h-6 w-6",
+                  "aria-hidden": "true"
+                }))
+              ];
             }
           }),
-          _: 2 /* DYNAMIC */
-        }, _parent, _scopeId))
-        _push(`</div></div></div>`)
-        _push(__vite_ssr_import_7__.ssrRenderComponent($setup["DisclosurePanel"], { class: "md:hidden" }, {
-          default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-            if (_push) {
-              _push(`<div class="px-2 pt-2 pb-3 space-y-1 sm:px-3"${_scopeId}><!--[-->`)
-              __vite_ssr_import_7__.ssrRenderList($setup.navigation, (item) => {
-                _push(__vite_ssr_import_7__.ssrRenderComponent($setup["DisclosureButton"], {
+          _: 2
+        }, _parent2, _scopeId));
+        _push2(`</div></div></div>`);
+        _push2(__vite_ssr_import_5__.ssrRenderComponent(_component_DisclosurePanel, { class: "md:hidden" }, {
+          default: __vite_ssr_import_4__.withCtx((_, _push3, _parent3, _scopeId2) => {
+            if (_push3) {
+              _push3(`<div class="px-2 pt-2 pb-3 space-y-1 sm:px-3"${_scopeId2}><!--[-->`);
+              __vite_ssr_import_5__.ssrRenderList(_ctx.navigation, (item) => {
+                _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_DisclosureButton, {
                   key: item.name,
                   as: "a",
                   href: item.href,
-                  class: [item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white', 'block px-3 py-2 rounded-md text-base font-medium'],
-                  "aria-current": item.current ? 'page' : undefined
+                  class: [item.current ? "bg-gray-900 text-white" : "text-gray-300 hover:bg-gray-700 hover:text-white", "block px-3 py-2 rounded-md text-base font-medium"],
+                  "aria-current": item.current ? "page" : void 0
                 }, {
-                  default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-                    if (_push) {
-                      _push(`${__vite_ssr_import_7__.ssrInterpolate(item.name)}`)
+                  default: __vite_ssr_import_4__.withCtx((_2, _push4, _parent4, _scopeId3) => {
+                    if (_push4) {
+                      _push4(`${__vite_ssr_import_5__.ssrInterpolate(item.name)}`);
                     } else {
                       return [
-                        __vite_ssr_import_6__.createTextVNode(__vite_ssr_import_6__.toDisplayString(item.name), 1 /* TEXT */)
-                      ]
+                        __vite_ssr_import_4__.createTextVNode(__vite_ssr_import_4__.toDisplayString(item.name), 1)
+                      ];
                     }
                   }),
-                  _: 2 /* DYNAMIC */
-                }, _parent, _scopeId))
-              })
-              _push(`<!--]--></div><div class="pt-4 pb-3 border-t border-gray-700"${
-                _scopeId
-              }><div class="flex items-center px-5"${
-                _scopeId
-              }><div class="flex-shrink-0"${
-                _scopeId
-              }><img class="h-10 w-10 rounded-full"${
-                __vite_ssr_import_7__.ssrRenderAttr("src", $setup.user.imageUrl)
-              } alt${
-                _scopeId
-              }></div><div class="ml-3"${
-                _scopeId
-              }><div class="text-base font-medium leading-none text-white"${
-                _scopeId
-              }>${
-                __vite_ssr_import_7__.ssrInterpolate($setup.user.name)
-              }</div><div class="text-sm font-medium leading-none text-gray-400"${
-                _scopeId
-              }>${
-                __vite_ssr_import_7__.ssrInterpolate($setup.user.email)
-              }</div></div><button type="button" class="ml-auto bg-gray-800 flex-shrink-0 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"${
-                _scopeId
-              }><span class="sr-only"${
-                _scopeId
-              }>View notifications</span>`)
-              _push(__vite_ssr_import_7__.ssrRenderComponent($setup["BellIcon"], {
+                  _: 2
+                }, _parent3, _scopeId2));
+              });
+              _push3(`<!--]--></div><div class="pt-4 pb-3 border-t border-gray-700"${_scopeId2}><div class="flex items-center px-5"${_scopeId2}><div class="flex-shrink-0"${_scopeId2}><img class="h-10 w-10 rounded-full"${__vite_ssr_import_5__.ssrRenderAttr("src", _ctx.user.imageUrl)} alt="user-image"${_scopeId2}></div><div class="ml-3"${_scopeId2}><div class="text-base font-medium leading-none text-white"${_scopeId2}>${__vite_ssr_import_5__.ssrInterpolate(_ctx.user.name)}</div><div class="text-sm font-medium leading-none text-gray-400"${_scopeId2}>${__vite_ssr_import_5__.ssrInterpolate(_ctx.user.email)}</div></div><button type="button" class="ml-auto bg-gray-800 flex-shrink-0 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"${_scopeId2}><span class="sr-only"${_scopeId2}>View notifications</span>`);
+              _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_BellIcon, {
                 class: "h-6 w-6",
                 "aria-hidden": "true"
-              }, null, _parent, _scopeId))
-              _push(`</button></div><div class="mt-3 px-2 space-y-1"${_scopeId}><!--[-->`)
-              __vite_ssr_import_7__.ssrRenderList($setup.userNavigation, (item) => {
-                _push(__vite_ssr_import_7__.ssrRenderComponent($setup["DisclosureButton"], {
+              }, null, _parent3, _scopeId2));
+              _push3(`</button></div><div class="mt-3 px-2 space-y-1"${_scopeId2}><!--[-->`);
+              __vite_ssr_import_5__.ssrRenderList(_ctx.userNavigation, (item) => {
+                _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_DisclosureButton, {
                   key: item.name,
                   as: "a",
                   href: item.href,
                   class: "block px-3 py-2 rounded-md text-base font-medium text-gray-400 hover:text-white hover:bg-gray-700"
                 }, {
-                  default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-                    if (_push) {
-                      _push(`${__vite_ssr_import_7__.ssrInterpolate(item.name)}`)
+                  default: __vite_ssr_import_4__.withCtx((_2, _push4, _parent4, _scopeId3) => {
+                    if (_push4) {
+                      _push4(`${__vite_ssr_import_5__.ssrInterpolate(item.name)}`);
                     } else {
                       return [
-                        __vite_ssr_import_6__.createTextVNode(__vite_ssr_import_6__.toDisplayString(item.name), 1 /* TEXT */)
-                      ]
+                        __vite_ssr_import_4__.createTextVNode(__vite_ssr_import_4__.toDisplayString(item.name), 1)
+                      ];
                     }
                   }),
-                  _: 2 /* DYNAMIC */
-                }, _parent, _scopeId))
-              })
-              _push(`<!--]--></div></div>`)
+                  _: 2
+                }, _parent3, _scopeId2));
+              });
+              _push3(`<!--]--></div></div>`);
             } else {
               return [
-                __vite_ssr_import_6__.createVNode("div", { class: "px-2 pt-2 pb-3 space-y-1 sm:px-3" }, [
-                  (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.navigation, (item) => {
-                    return __vite_ssr_import_6__.createVNode($setup["DisclosureButton"], {
+                __vite_ssr_import_4__.createVNode("div", { class: "px-2 pt-2 pb-3 space-y-1 sm:px-3" }, [
+                  (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.navigation, (item) => {
+                    return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_DisclosureButton, {
                       key: item.name,
                       as: "a",
                       href: item.href,
-                      class: [item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white', 'block px-3 py-2 rounded-md text-base font-medium'],
-                      "aria-current": item.current ? 'page' : undefined
+                      class: [item.current ? "bg-gray-900 text-white" : "text-gray-300 hover:bg-gray-700 hover:text-white", "block px-3 py-2 rounded-md text-base font-medium"],
+                      "aria-current": item.current ? "page" : void 0
                     }, {
-                      default: __vite_ssr_import_6__.withCtx(() => [
-                        __vite_ssr_import_6__.createTextVNode(__vite_ssr_import_6__.toDisplayString(item.name), 1 /* TEXT */)
+                      default: __vite_ssr_import_4__.withCtx(() => [
+                        __vite_ssr_import_4__.createTextVNode(__vite_ssr_import_4__.toDisplayString(item.name), 1)
                       ]),
-                      _: 2 /* DYNAMIC */
-                    }, 1032 /* PROPS, DYNAMIC_SLOTS */, ["href", "class", "aria-current"])
-                  }), 64 /* STABLE_FRAGMENT */))
+                      _: 2
+                    }, 1032, ["href", "class", "aria-current"]);
+                  }), 128))
                 ]),
-                __vite_ssr_import_6__.createVNode("div", { class: "pt-4 pb-3 border-t border-gray-700" }, [
-                  __vite_ssr_import_6__.createVNode("div", { class: "flex items-center px-5" }, [
-                    __vite_ssr_import_6__.createVNode("div", { class: "flex-shrink-0" }, [
-                      __vite_ssr_import_6__.createVNode("img", {
+                __vite_ssr_import_4__.createVNode("div", { class: "pt-4 pb-3 border-t border-gray-700" }, [
+                  __vite_ssr_import_4__.createVNode("div", { class: "flex items-center px-5" }, [
+                    __vite_ssr_import_4__.createVNode("div", { class: "flex-shrink-0" }, [
+                      __vite_ssr_import_4__.createVNode("img", {
                         class: "h-10 w-10 rounded-full",
-                        src: $setup.user.imageUrl,
-                        alt: ""
-                      }, null, 8 /* PROPS */, ["src"])
+                        src: _ctx.user.imageUrl,
+                        alt: "user-image"
+                      }, null, 8, ["src"])
                     ]),
-                    __vite_ssr_import_6__.createVNode("div", { class: "ml-3" }, [
-                      __vite_ssr_import_6__.createVNode("div", { class: "text-base font-medium leading-none text-white" }, __vite_ssr_import_6__.toDisplayString($setup.user.name), 1 /* TEXT */),
-                      __vite_ssr_import_6__.createVNode("div", { class: "text-sm font-medium leading-none text-gray-400" }, __vite_ssr_import_6__.toDisplayString($setup.user.email), 1 /* TEXT */)
+                    __vite_ssr_import_4__.createVNode("div", { class: "ml-3" }, [
+                      __vite_ssr_import_4__.createVNode("div", { class: "text-base font-medium leading-none text-white" }, __vite_ssr_import_4__.toDisplayString(_ctx.user.name), 1),
+                      __vite_ssr_import_4__.createVNode("div", { class: "text-sm font-medium leading-none text-gray-400" }, __vite_ssr_import_4__.toDisplayString(_ctx.user.email), 1)
                     ]),
-                    __vite_ssr_import_6__.createVNode("button", {
+                    __vite_ssr_import_4__.createVNode("button", {
                       type: "button",
                       class: "ml-auto bg-gray-800 flex-shrink-0 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
                     }, [
-                      __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "View notifications"),
-                      __vite_ssr_import_6__.createVNode($setup["BellIcon"], {
+                      __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "View notifications"),
+                      __vite_ssr_import_4__.createVNode(_component_BellIcon, {
                         class: "h-6 w-6",
                         "aria-hidden": "true"
                       })
                     ])
                   ]),
-                  __vite_ssr_import_6__.createVNode("div", { class: "mt-3 px-2 space-y-1" }, [
-                    (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.userNavigation, (item) => {
-                      return __vite_ssr_import_6__.createVNode($setup["DisclosureButton"], {
+                  __vite_ssr_import_4__.createVNode("div", { class: "mt-3 px-2 space-y-1" }, [
+                    (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.userNavigation, (item) => {
+                      return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_DisclosureButton, {
                         key: item.name,
                         as: "a",
                         href: item.href,
                         class: "block px-3 py-2 rounded-md text-base font-medium text-gray-400 hover:text-white hover:bg-gray-700"
                       }, {
-                        default: __vite_ssr_import_6__.withCtx(() => [
-                          __vite_ssr_import_6__.createTextVNode(__vite_ssr_import_6__.toDisplayString(item.name), 1 /* TEXT */)
+                        default: __vite_ssr_import_4__.withCtx(() => [
+                          __vite_ssr_import_4__.createTextVNode(__vite_ssr_import_4__.toDisplayString(item.name), 1)
                         ]),
-                        _: 2 /* DYNAMIC */
-                      }, 1032 /* PROPS, DYNAMIC_SLOTS */, ["href"])
-                    }), 64 /* STABLE_FRAGMENT */))
+                        _: 2
+                      }, 1032, ["href"]);
+                    }), 128))
                   ])
                 ])
-              ]
+              ];
             }
           }),
-          _: 2 /* DYNAMIC */
-        }, _parent, _scopeId))
+          _: 2
+        }, _parent2, _scopeId));
       } else {
         return [
-          __vite_ssr_import_6__.createVNode("div", { class: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" }, [
-            __vite_ssr_import_6__.createVNode("div", { class: "flex items-center justify-between h-16" }, [
-              __vite_ssr_import_6__.createVNode("div", { class: "flex items-center" }, [
-                __vite_ssr_import_6__.createVNode("div", { class: "flex-shrink-0" }, [
-                  __vite_ssr_import_6__.createVNode("img", {
+          __vite_ssr_import_4__.createVNode("div", { class: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" }, [
+            __vite_ssr_import_4__.createVNode("div", { class: "flex items-center justify-between h-16" }, [
+              __vite_ssr_import_4__.createVNode("div", { class: "flex items-center" }, [
+                __vite_ssr_import_4__.createVNode("div", { class: "flex-shrink-0" }, [
+                  __vite_ssr_import_4__.createVNode("img", {
                     class: "h-8 w-8",
                     src: "https://tailwindui.com/img/logos/workflow-mark-indigo-500.svg",
                     alt: "Workflow"
                   })
                 ]),
-                __vite_ssr_import_6__.createVNode("div", { class: "hidden md:block" }, [
-                  __vite_ssr_import_6__.createVNode("div", { class: "ml-10 flex items-baseline space-x-4" }, [
-                    (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.navigation, (item) => {
-                      return __vite_ssr_import_6__.createVNode("a", {
+                __vite_ssr_import_4__.createVNode("div", { class: "hidden md:block" }, [
+                  __vite_ssr_import_4__.createVNode("div", { class: "ml-10 flex items-baseline space-x-4" }, [
+                    (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.navigation, (item) => {
+                      return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock("a", {
                         key: item.name,
                         href: item.href,
-                        class: [item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white', 'px-3 py-2 rounded-md text-sm font-medium'],
-                        "aria-current": item.current ? 'page' : undefined
-                      }, __vite_ssr_import_6__.toDisplayString(item.name), 11 /* TEXT, CLASS, PROPS */, ["href", "aria-current"])
-                    }), 64 /* STABLE_FRAGMENT */))
+                        class: [item.current ? "bg-gray-900 text-white" : "text-gray-300 hover:bg-gray-700 hover:text-white", "px-3 py-2 rounded-md text-sm font-medium"],
+                        "aria-current": item.current ? "page" : void 0
+                      }, __vite_ssr_import_4__.toDisplayString(item.name), 11, ["href", "aria-current"]);
+                    }), 128))
                   ])
                 ])
               ]),
-              __vite_ssr_import_6__.createVNode("div", { class: "hidden md:block" }, [
-                __vite_ssr_import_6__.createVNode("div", { class: "ml-4 flex items-center md:ml-6" }, [
-                  __vite_ssr_import_6__.createVNode("button", {
+              __vite_ssr_import_4__.createVNode("div", { class: "hidden md:block" }, [
+                __vite_ssr_import_4__.createVNode("div", { class: "ml-4 flex items-center md:ml-6" }, [
+                  __vite_ssr_import_4__.createVNode("button", {
                     type: "button",
                     class: "bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
                   }, [
-                    __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "View notifications"),
-                    __vite_ssr_import_6__.createVNode($setup["BellIcon"], {
+                    __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "View notifications"),
+                    __vite_ssr_import_4__.createVNode(_component_BellIcon, {
                       class: "h-6 w-6",
                       "aria-hidden": "true"
                     })
                   ]),
-                  __vite_ssr_import_6__.createCommentVNode(" Profile dropdown "),
-                  __vite_ssr_import_6__.createVNode($setup["Menu"], {
+                  __vite_ssr_import_4__.createCommentVNode(" Profile dropdown "),
+                  __vite_ssr_import_4__.createVNode(_component_Menu, {
                     as: "div",
                     class: "ml-3 relative"
                   }, {
-                    default: __vite_ssr_import_6__.withCtx(() => [
-                      __vite_ssr_import_6__.createVNode("div", null, [
-                        __vite_ssr_import_6__.createVNode($setup["MenuButton"], { class: "max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
-                          default: __vite_ssr_import_6__.withCtx(() => [
-                            __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "Open user menu"),
-                            __vite_ssr_import_6__.createVNode("img", {
+                    default: __vite_ssr_import_4__.withCtx(() => [
+                      __vite_ssr_import_4__.createVNode("div", null, [
+                        __vite_ssr_import_4__.createVNode(_component_MenuButton, { class: "max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
+                          default: __vite_ssr_import_4__.withCtx(() => [
+                            __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "Open user menu"),
+                            __vite_ssr_import_4__.createVNode("img", {
                               class: "h-8 w-8 rounded-full",
-                              src: $setup.user.imageUrl,
-                              alt: ""
-                            }, null, 8 /* PROPS */, ["src"])
+                              src: _ctx.user.imageUrl,
+                              alt: "user-image"
+                            }, null, 8, ["src"])
                           ]),
-                          _: 1 /* STABLE */
+                          _: 1
                         })
                       ]),
-                      __vite_ssr_import_6__.createVNode(__vite_ssr_import_6__.Transition, {
+                      __vite_ssr_import_4__.createVNode(__vite_ssr_import_4__.Transition, {
                         "enter-active-class": "transition ease-out duration-100",
                         "enter-from-class": "transform opacity-0 scale-95",
                         "enter-to-class": "transform opacity-100 scale-100",
@@ -11482,142 +11416,135 @@ function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $op
                         "leave-from-class": "transform opacity-100 scale-100",
                         "leave-to-class": "transform opacity-0 scale-95"
                       }, {
-                        default: __vite_ssr_import_6__.withCtx(() => [
-                          __vite_ssr_import_6__.createVNode($setup["MenuItems"], { class: "origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" }, {
-                            default: __vite_ssr_import_6__.withCtx(() => [
-                              (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.userNavigation, (item) => {
-                                return __vite_ssr_import_6__.createVNode($setup["MenuItem"], {
+                        default: __vite_ssr_import_4__.withCtx(() => [
+                          __vite_ssr_import_4__.createVNode(_component_MenuItems, { class: "origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" }, {
+                            default: __vite_ssr_import_4__.withCtx(() => [
+                              (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.userNavigation, (item) => {
+                                return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_MenuItem, {
                                   key: item.name
                                 }, {
-                                  default: __vite_ssr_import_6__.withCtx(({ active }) => [
-                                    __vite_ssr_import_6__.createVNode("a", {
+                                  default: __vite_ssr_import_4__.withCtx(({ active }) => [
+                                    __vite_ssr_import_4__.createVNode("a", {
                                       href: item.href,
-                                      class: [active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700']
-                                    }, __vite_ssr_import_6__.toDisplayString(item.name), 11 /* TEXT, CLASS, PROPS */, ["href"])
+                                      class: [active ? "bg-gray-100" : "", "block px-4 py-2 text-sm text-gray-700"]
+                                    }, __vite_ssr_import_4__.toDisplayString(item.name), 11, ["href"])
                                   ]),
-                                  _: 2 /* DYNAMIC */
-                                }, 1024 /* DYNAMIC_SLOTS */)
-                              }), 64 /* STABLE_FRAGMENT */))
+                                  _: 2
+                                }, 1024);
+                              }), 128))
                             ]),
-                            _: 1 /* STABLE */
+                            _: 1
                           })
                         ]),
-                        _: 1 /* STABLE */
+                        _: 1
                       })
                     ]),
-                    _: 1 /* STABLE */
+                    _: 1
                   })
                 ])
               ]),
-              __vite_ssr_import_6__.createVNode("div", { class: "-mr-2 flex md:hidden" }, [
-                __vite_ssr_import_6__.createCommentVNode(" Mobile menu button "),
-                __vite_ssr_import_6__.createVNode($setup["DisclosureButton"], { class: "bg-gray-800 inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
-                  default: __vite_ssr_import_6__.withCtx(() => [
-                    __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "Open main menu"),
-                    (!open)
-                      ? (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock($setup["MenuIcon"], {
-                          key: 0,
-                          class: "block h-6 w-6",
-                          "aria-hidden": "true"
-                        }))
-                      : (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock($setup["XIcon"], {
-                          key: 1,
-                          class: "block h-6 w-6",
-                          "aria-hidden": "true"
-                        }))
+              __vite_ssr_import_4__.createVNode("div", { class: "-mr-2 flex md:hidden" }, [
+                __vite_ssr_import_4__.createCommentVNode(" Mobile menu button "),
+                __vite_ssr_import_4__.createVNode(_component_DisclosureButton, { class: "bg-gray-800 inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
+                  default: __vite_ssr_import_4__.withCtx(() => [
+                    __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "Open main menu"),
+                    !open ? (__vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_MenuIcon, {
+                      key: 0,
+                      class: "block h-6 w-6",
+                      "aria-hidden": "true"
+                    })) : (__vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_XIcon, {
+                      key: 1,
+                      class: "block h-6 w-6",
+                      "aria-hidden": "true"
+                    }))
                   ]),
-                  _: 2 /* DYNAMIC */
-                }, 1024 /* DYNAMIC_SLOTS */)
+                  _: 2
+                }, 1024)
               ])
             ])
           ]),
-          __vite_ssr_import_6__.createVNode($setup["DisclosurePanel"], { class: "md:hidden" }, {
-            default: __vite_ssr_import_6__.withCtx(() => [
-              __vite_ssr_import_6__.createVNode("div", { class: "px-2 pt-2 pb-3 space-y-1 sm:px-3" }, [
-                (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.navigation, (item) => {
-                  return __vite_ssr_import_6__.createVNode($setup["DisclosureButton"], {
+          __vite_ssr_import_4__.createVNode(_component_DisclosurePanel, { class: "md:hidden" }, {
+            default: __vite_ssr_import_4__.withCtx(() => [
+              __vite_ssr_import_4__.createVNode("div", { class: "px-2 pt-2 pb-3 space-y-1 sm:px-3" }, [
+                (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.navigation, (item) => {
+                  return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_DisclosureButton, {
                     key: item.name,
                     as: "a",
                     href: item.href,
-                    class: [item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white', 'block px-3 py-2 rounded-md text-base font-medium'],
-                    "aria-current": item.current ? 'page' : undefined
+                    class: [item.current ? "bg-gray-900 text-white" : "text-gray-300 hover:bg-gray-700 hover:text-white", "block px-3 py-2 rounded-md text-base font-medium"],
+                    "aria-current": item.current ? "page" : void 0
                   }, {
-                    default: __vite_ssr_import_6__.withCtx(() => [
-                      __vite_ssr_import_6__.createTextVNode(__vite_ssr_import_6__.toDisplayString(item.name), 1 /* TEXT */)
+                    default: __vite_ssr_import_4__.withCtx(() => [
+                      __vite_ssr_import_4__.createTextVNode(__vite_ssr_import_4__.toDisplayString(item.name), 1)
                     ]),
-                    _: 2 /* DYNAMIC */
-                  }, 1032 /* PROPS, DYNAMIC_SLOTS */, ["href", "class", "aria-current"])
-                }), 64 /* STABLE_FRAGMENT */))
+                    _: 2
+                  }, 1032, ["href", "class", "aria-current"]);
+                }), 128))
               ]),
-              __vite_ssr_import_6__.createVNode("div", { class: "pt-4 pb-3 border-t border-gray-700" }, [
-                __vite_ssr_import_6__.createVNode("div", { class: "flex items-center px-5" }, [
-                  __vite_ssr_import_6__.createVNode("div", { class: "flex-shrink-0" }, [
-                    __vite_ssr_import_6__.createVNode("img", {
+              __vite_ssr_import_4__.createVNode("div", { class: "pt-4 pb-3 border-t border-gray-700" }, [
+                __vite_ssr_import_4__.createVNode("div", { class: "flex items-center px-5" }, [
+                  __vite_ssr_import_4__.createVNode("div", { class: "flex-shrink-0" }, [
+                    __vite_ssr_import_4__.createVNode("img", {
                       class: "h-10 w-10 rounded-full",
-                      src: $setup.user.imageUrl,
-                      alt: ""
-                    }, null, 8 /* PROPS */, ["src"])
+                      src: _ctx.user.imageUrl,
+                      alt: "user-image"
+                    }, null, 8, ["src"])
                   ]),
-                  __vite_ssr_import_6__.createVNode("div", { class: "ml-3" }, [
-                    __vite_ssr_import_6__.createVNode("div", { class: "text-base font-medium leading-none text-white" }, __vite_ssr_import_6__.toDisplayString($setup.user.name), 1 /* TEXT */),
-                    __vite_ssr_import_6__.createVNode("div", { class: "text-sm font-medium leading-none text-gray-400" }, __vite_ssr_import_6__.toDisplayString($setup.user.email), 1 /* TEXT */)
+                  __vite_ssr_import_4__.createVNode("div", { class: "ml-3" }, [
+                    __vite_ssr_import_4__.createVNode("div", { class: "text-base font-medium leading-none text-white" }, __vite_ssr_import_4__.toDisplayString(_ctx.user.name), 1),
+                    __vite_ssr_import_4__.createVNode("div", { class: "text-sm font-medium leading-none text-gray-400" }, __vite_ssr_import_4__.toDisplayString(_ctx.user.email), 1)
                   ]),
-                  __vite_ssr_import_6__.createVNode("button", {
+                  __vite_ssr_import_4__.createVNode("button", {
                     type: "button",
                     class: "ml-auto bg-gray-800 flex-shrink-0 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
                   }, [
-                    __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "View notifications"),
-                    __vite_ssr_import_6__.createVNode($setup["BellIcon"], {
+                    __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "View notifications"),
+                    __vite_ssr_import_4__.createVNode(_component_BellIcon, {
                       class: "h-6 w-6",
                       "aria-hidden": "true"
                     })
                   ])
                 ]),
-                __vite_ssr_import_6__.createVNode("div", { class: "mt-3 px-2 space-y-1" }, [
-                  (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.userNavigation, (item) => {
-                    return __vite_ssr_import_6__.createVNode($setup["DisclosureButton"], {
+                __vite_ssr_import_4__.createVNode("div", { class: "mt-3 px-2 space-y-1" }, [
+                  (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.userNavigation, (item) => {
+                    return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_DisclosureButton, {
                       key: item.name,
                       as: "a",
                       href: item.href,
                       class: "block px-3 py-2 rounded-md text-base font-medium text-gray-400 hover:text-white hover:bg-gray-700"
                     }, {
-                      default: __vite_ssr_import_6__.withCtx(() => [
-                        __vite_ssr_import_6__.createTextVNode(__vite_ssr_import_6__.toDisplayString(item.name), 1 /* TEXT */)
+                      default: __vite_ssr_import_4__.withCtx(() => [
+                        __vite_ssr_import_4__.createTextVNode(__vite_ssr_import_4__.toDisplayString(item.name), 1)
                       ]),
-                      _: 2 /* DYNAMIC */
-                    }, 1032 /* PROPS, DYNAMIC_SLOTS */, ["href"])
-                  }), 64 /* STABLE_FRAGMENT */))
+                      _: 2
+                    }, 1032, ["href"]);
+                  }), 128))
                 ])
               ])
             ]),
-            _: 1 /* STABLE */
+            _: 1
           })
-        ]
+        ];
       }
     }),
-    _: 1 /* STABLE */
-  }, _parent))
-  _push(`<header class="bg-white shadow"><div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8"><h1 class="text-3xl font-bold text-gray-900">Dashboard</h1></div></header><main><div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8"><!-- Replace with your content --><div class="px-4 py-6 sm:px-0">${
-    __vite_ssr_import_7__.ssrInterpolate($setup.data)
-  } <div class="border-4 border-dashed border-gray-200 rounded-lg h-96"></div> ${
-    __vite_ssr_import_7__.ssrInterpolate($data.store.name)
-  }</div><!-- /End replace --></div></main></div>`)
+    _: 1
+  }, _parent));
+  _push(`<header class="bg-white shadow"><div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8"><h1 class="text-3xl font-bold text-gray-900">Dashboard</h1></div></header><main><div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8"><!-- Replace with your content --><div class="px-4 py-6 sm:px-0"><div class="border-4 border-dashed border-gray-200 rounded-lg h-96"></div></div><!-- /End replace --></div></main></div><!--]-->`);
 }
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
 
-
-const __vite_ssr_import_8__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-
-const _sfc_setup = _sfc_main.setup
+const _sfc_setup = _sfc_main.setup;
 _sfc_main.setup = (props, ctx) => {
-  const ssrContext = __vite_ssr_import_8__.useSSRContext()
-  ;(ssrContext.modules || (ssrContext.modules = new Set())).add("pages/index.vue")
-  return _sfc_setup ? _sfc_setup(props, ctx) : undefined
-}
-const __vite_ssr_import_9__ = await __vite_ssr_import__("/@id/plugin-vue:export-helper");
+  const ssrContext = __vite_ssr_import_6__.useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("pages/index.vue");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/@id/plugin-vue:export-helper");
 
-__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_9__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"D:/Repositories/laravel-nuxt-survey/frontend/pages/index.vue"]])
+__vite_ssr_exports__.default = /* @__PURE__ */ __vite_ssr_import_7__.default(_sfc_main, [["ssrRender", _sfc_ssrRender], ["__file", "D:/Repositories/laravel-nuxt-survey/frontend/pages/index.vue"]]);
+
 const meta = {
-  layout: 'guest',
+  layout: "guest"
 }
 Object.defineProperty(__vite_ssr_exports__, "meta", { enumerable: true, configurable: true, get(){ return meta }});;
 }
@@ -11644,160 +11571,6308 @@ Object.defineProperty(__vite_ssr_exports__, "definePageMeta", { enumerable: true
 
 
 // --------------------
-// Request: /store.ts
+// Request: /node_modules/@headlessui/vue/dist/index.esm.js
 // Parents: 
 // - /pages/index.vue?macro=true ($id_5dd70240)
 // - /pages/index.vue ($id_cca58e97)
 // Dependencies: 
-// - /node_modules/pinia/dist/pinia.mjs ($id_b1920624)
+// - /node_modules/@headlessui/vue/dist/components/portal/portal.esm.js ($id_6fee7f5c)
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js ($id_658d32c3)
+// - /node_modules/@headlessui/vue/dist/components/focus-trap/focus-trap.esm.js ($id_12d79ec1)
+// - /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js ($id_aeffb558)
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// - /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js ($id_a655584d)
+// - /node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js ($id_f293a83d)
+// - /node_modules/@headlessui/vue/dist/components/switch/switch.esm.js ($id_4ec2ab7a)
+// - /node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js ($id_f55023ef)
+// - /node_modules/@headlessui/vue/dist/components/transitions/transition.esm.js ($id_bf02b578)
 // --------------------
-const $id_05c4c624 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/pinia/dist/pinia.mjs");
+const $id_1ad98bcf = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/portal/portal.esm.js");
 
-const useStore = __vite_ssr_import_0__.defineStore("storeId", {
-  state: () => {
-    return {
-      counter: 10,
-      name: "Eduardo",
-      isAdmin: true
-    };
-  },
-  actions: {
-    hit() {
-      this.counter++;
-    }
-  },
-  getters: {
-    getCount: (state) => state.counter,
-    getUser: (state) => {
-      state.name;
-    }
-  }
-});
-Object.defineProperty(__vite_ssr_exports__, "useStore", { enumerable: true, configurable: true, get(){ return useStore }});
-if (__vite_ssr_import_meta__.hot) {
-  __vite_ssr_import_meta__.hot.accept(__vite_ssr_import_0__.acceptHMRUpdate(useStore, __vite_ssr_import_meta__.hot));
-}
+Object.defineProperty(__vite_ssr_exports__, "Portal", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_0__.Portal }});
+Object.defineProperty(__vite_ssr_exports__, "PortalGroup", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_0__.PortalGroup }});
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js");
+
+Object.defineProperty(__vite_ssr_exports__, "Dialog", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_1__.Dialog }});
+Object.defineProperty(__vite_ssr_exports__, "DialogDescription", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_1__.DialogDescription }});
+Object.defineProperty(__vite_ssr_exports__, "DialogOverlay", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_1__.DialogOverlay }});
+Object.defineProperty(__vite_ssr_exports__, "DialogTitle", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_1__.DialogTitle }});
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js");
+
+Object.defineProperty(__vite_ssr_exports__, "Disclosure", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_2__.Disclosure }});
+Object.defineProperty(__vite_ssr_exports__, "DisclosureButton", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_2__.DisclosureButton }});
+Object.defineProperty(__vite_ssr_exports__, "DisclosurePanel", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_2__.DisclosurePanel }});
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/focus-trap/focus-trap.esm.js");
+
+Object.defineProperty(__vite_ssr_exports__, "FocusTrap", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_3__.FocusTrap }});
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js");
+
+Object.defineProperty(__vite_ssr_exports__, "Listbox", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_4__.Listbox }});
+Object.defineProperty(__vite_ssr_exports__, "ListboxButton", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_4__.ListboxButton }});
+Object.defineProperty(__vite_ssr_exports__, "ListboxLabel", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_4__.ListboxLabel }});
+Object.defineProperty(__vite_ssr_exports__, "ListboxOption", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_4__.ListboxOption }});
+Object.defineProperty(__vite_ssr_exports__, "ListboxOptions", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_4__.ListboxOptions }});
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/menu/menu.esm.js");
+
+Object.defineProperty(__vite_ssr_exports__, "Menu", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_5__.Menu }});
+Object.defineProperty(__vite_ssr_exports__, "MenuButton", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_5__.MenuButton }});
+Object.defineProperty(__vite_ssr_exports__, "MenuItem", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_5__.MenuItem }});
+Object.defineProperty(__vite_ssr_exports__, "MenuItems", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_5__.MenuItems }});
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/popover/popover.esm.js");
+
+Object.defineProperty(__vite_ssr_exports__, "Popover", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_6__.Popover }});
+Object.defineProperty(__vite_ssr_exports__, "PopoverButton", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_6__.PopoverButton }});
+Object.defineProperty(__vite_ssr_exports__, "PopoverGroup", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_6__.PopoverGroup }});
+Object.defineProperty(__vite_ssr_exports__, "PopoverOverlay", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_6__.PopoverOverlay }});
+Object.defineProperty(__vite_ssr_exports__, "PopoverPanel", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_6__.PopoverPanel }});
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js");
+
+Object.defineProperty(__vite_ssr_exports__, "RadioGroup", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_7__.RadioGroup }});
+Object.defineProperty(__vite_ssr_exports__, "RadioGroupDescription", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_7__.RadioGroupDescription }});
+Object.defineProperty(__vite_ssr_exports__, "RadioGroupLabel", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_7__.RadioGroupLabel }});
+Object.defineProperty(__vite_ssr_exports__, "RadioGroupOption", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_7__.RadioGroupOption }});
+const __vite_ssr_import_8__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/switch/switch.esm.js");
+
+Object.defineProperty(__vite_ssr_exports__, "Switch", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_8__.Switch }});
+Object.defineProperty(__vite_ssr_exports__, "SwitchDescription", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_8__.SwitchDescription }});
+Object.defineProperty(__vite_ssr_exports__, "SwitchGroup", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_8__.SwitchGroup }});
+Object.defineProperty(__vite_ssr_exports__, "SwitchLabel", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_8__.SwitchLabel }});
+const __vite_ssr_import_9__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js");
+
+Object.defineProperty(__vite_ssr_exports__, "Tab", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_9__.Tab }});
+Object.defineProperty(__vite_ssr_exports__, "TabGroup", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_9__.TabGroup }});
+Object.defineProperty(__vite_ssr_exports__, "TabList", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_9__.TabList }});
+Object.defineProperty(__vite_ssr_exports__, "TabPanel", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_9__.TabPanel }});
+Object.defineProperty(__vite_ssr_exports__, "TabPanels", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_9__.TabPanels }});
+const __vite_ssr_import_10__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/transitions/transition.esm.js");
+
+Object.defineProperty(__vite_ssr_exports__, "TransitionChild", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_10__.TransitionChild }});
+Object.defineProperty(__vite_ssr_exports__, "TransitionRoot", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_10__.TransitionRoot }});
+//# sourceMappingURL=index.esm.js.map
 ;
 }
 
 
 // --------------------
-// Request: /node_modules/pinia/dist/pinia.mjs
+// Request: /node_modules/@headlessui/vue/dist/components/portal/portal.esm.js
 // Parents: 
-// - /store.ts ($id_05c4c624)
-// - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/dist.plugin.16fa14af.mjs ($id_cf06d5ac)
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/internal/stack-context.esm.js ($id_ff41f596)
+// - /node_modules/@headlessui/vue/dist/internal/portal-force-root.esm.js ($id_c65cbc73)
+// --------------------
+const $id_6fee7f5c = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/internal/stack-context.esm.js");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/internal/portal-force-root.esm.js");
+
+
+function getPortalRoot() {
+  var existingRoot = document.getElementById('headlessui-portal-root');
+  if (existingRoot) return existingRoot;
+  var root = document.createElement('div');
+  root.setAttribute('id', 'headlessui-portal-root');
+  return document.body.appendChild(root);
+}
+
+var Portal = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'Portal',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    }
+  },
+  setup: function setup(props, _ref) {
+    var slots = _ref.slots,
+        attrs = _ref.attrs;
+    var forcePortalRoot = __vite_ssr_import_4__.usePortalRoot();
+    var groupContext = __vite_ssr_import_1__.inject(PortalGroupContext, null);
+    var myTarget = __vite_ssr_import_1__.ref(forcePortalRoot === true ? getPortalRoot() : groupContext === null ? getPortalRoot() : groupContext.resolveTarget());
+    __vite_ssr_import_1__.watchEffect(function () {
+      if (forcePortalRoot) return;
+      if (groupContext === null) return;
+      myTarget.value = groupContext.resolveTarget();
+    });
+    var element = __vite_ssr_import_1__.ref(null);
+    __vite_ssr_import_3__.useElemenStack(element);
+    __vite_ssr_import_1__.onUnmounted(function () {
+      var root = document.getElementById('headlessui-portal-root');
+      if (!root) return;
+      if (myTarget.value !== root) return;
+
+      if (myTarget.value.children.length <= 0) {
+        var _myTarget$value$paren;
+
+        (_myTarget$value$paren = myTarget.value.parentElement) == null ? void 0 : _myTarget$value$paren.removeChild(myTarget.value);
+      }
+    });
+    __vite_ssr_import_3__.useStackProvider();
+    return function () {
+      if (myTarget.value === null) return null;
+      var propsWeControl = {
+        ref: element
+      };
+      return __vite_ssr_import_1__.h( // @ts-expect-error Children can be an object, but TypeScript is not happy
+      // with it. Once this is fixed upstream we can remove this assertion.
+      __vite_ssr_import_1__.Teleport, {
+        to: myTarget.value
+      }, __vite_ssr_import_2__.render({
+        props: __vite_ssr_import_0__.extends({}, props, propsWeControl),
+        slot: {},
+        attrs: attrs,
+        slots: slots,
+        name: 'Portal'
+      }));
+    };
+  }
+}); // ---
+
+var PortalGroupContext = /*#__PURE__*/Symbol('PortalGroupContext');
+var PortalGroup = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'PortalGroup',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'template'
+    },
+    target: {
+      type: Object,
+      "default": null
+    }
+  },
+  setup: function setup(props, _ref2) {
+    var attrs = _ref2.attrs,
+        slots = _ref2.slots;
+    var api = __vite_ssr_import_1__.reactive({
+      resolveTarget: function resolveTarget() {
+        return props.target;
+      }
+    });
+    __vite_ssr_import_1__.provide(PortalGroupContext, api);
+    return function () {
+      var passThroughProps = __vite_ssr_import_0__.objectWithoutPropertiesLoose(props, ["target"]);
+
+      return __vite_ssr_import_2__.render({
+        props: passThroughProps,
+        slot: {},
+        attrs: attrs,
+        slots: slots,
+        name: 'PortalGroup'
+      });
+    };
+  }
+});
+
+
+Object.defineProperty(__vite_ssr_exports__, "Portal", { enumerable: true, configurable: true, get(){ return Portal }});
+Object.defineProperty(__vite_ssr_exports__, "PortalGroup", { enumerable: true, configurable: true, get(){ return PortalGroup }});
+//# sourceMappingURL=portal.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/portal/portal.esm.js ($id_6fee7f5c)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/internal/portal-force-root.esm.js ($id_c65cbc73)
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/internal/dom-containers.esm.js ($id_66dd9b95)
+// - /node_modules/@headlessui/vue/dist/hooks/use-focus-trap.esm.js ($id_ad390bd9)
+// - /node_modules/@headlessui/vue/dist/hooks/use-inert-others.esm.js ($id_a091c5e1)
+// - /node_modules/@headlessui/vue/dist/components/description/description.esm.js ($id_35d2303d)
+// - /node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js ($id_658d32c3)
+// - /node_modules/@headlessui/vue/dist/components/focus-trap/focus-trap.esm.js ($id_12d79ec1)
+// - /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js ($id_aeffb558)
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// - /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js ($id_a655584d)
+// - /node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js ($id_f293a83d)
+// - /node_modules/@headlessui/vue/dist/components/label/label.esm.js ($id_b1e73183)
+// - /node_modules/@headlessui/vue/dist/components/switch/switch.esm.js ($id_4ec2ab7a)
+// - /node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js ($id_f55023ef)
+// - /node_modules/@headlessui/vue/dist/components/transitions/transition.esm.js ($id_bf02b578)
+// - /node_modules/@headlessui/vue/dist/utils/disposables.esm.js ($id_bd44d12d)
 // Dependencies: 
 
 // --------------------
-const $id_b1920624 = (global, exports, importMeta, ssrImport, ssrDynamicImport, ssrExportAll) => import("file:///D:/Repositories/laravel-nuxt-survey/frontend/node_modules/pinia/dist/pinia.mjs").then(r => { exports.default = r.default; ssrExportAll(r) }).catch(e => { console.error(e); throw new Error("[vite dev] Error loading external \"D:/Repositories/laravel-nuxt-survey/frontend/node_modules/pinia/dist/pinia.mjs\".") })
+const $id_49d537e3 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+function _extends() {
+  _extends = Object.assign || function (target) {
+    for (var i = 1; i < arguments.length; i++) {
+      var source = arguments[i];
+
+      for (var key in source) {
+        if (Object.prototype.hasOwnProperty.call(source, key)) {
+          target[key] = source[key];
+        }
+      }
+    }
+
+    return target;
+  };
+
+  return _extends.apply(this, arguments);
+}
+
+function _objectWithoutPropertiesLoose(source, excluded) {
+  if (source == null) return {};
+  var target = {};
+  var sourceKeys = Object.keys(source);
+  var key, i;
+
+  for (i = 0; i < sourceKeys.length; i++) {
+    key = sourceKeys[i];
+    if (excluded.indexOf(key) >= 0) continue;
+    target[key] = source[key];
+  }
+
+  return target;
+}
+
+function _unsupportedIterableToArray(o, minLen) {
+  if (!o) return;
+  if (typeof o === "string") return _arrayLikeToArray(o, minLen);
+  var n = Object.prototype.toString.call(o).slice(8, -1);
+  if (n === "Object" && o.constructor) n = o.constructor.name;
+  if (n === "Map" || n === "Set") return Array.from(o);
+  if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen);
+}
+
+function _arrayLikeToArray(arr, len) {
+  if (len == null || len > arr.length) len = arr.length;
+
+  for (var i = 0, arr2 = new Array(len); i < len; i++) arr2[i] = arr[i];
+
+  return arr2;
+}
+
+function _createForOfIteratorHelperLoose(o, allowArrayLike) {
+  var it;
+
+  if (typeof Symbol === "undefined" || o[Symbol.iterator] == null) {
+    if (Array.isArray(o) || (it = _unsupportedIterableToArray(o)) || allowArrayLike && o && typeof o.length === "number") {
+      if (it) o = it;
+      var i = 0;
+      return function () {
+        if (i >= o.length) return {
+          done: true
+        };
+        return {
+          done: false,
+          value: o[i++]
+        };
+      };
+    }
+
+    throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+  }
+
+  it = o[Symbol.iterator]();
+  return it.next.bind(it);
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "arrayLikeToArray", { enumerable: true, configurable: true, get(){ return _arrayLikeToArray }});
+Object.defineProperty(__vite_ssr_exports__, "createForOfIteratorHelperLoose", { enumerable: true, configurable: true, get(){ return _createForOfIteratorHelperLoose }});
+Object.defineProperty(__vite_ssr_exports__, "extends", { enumerable: true, configurable: true, get(){ return _extends }});
+Object.defineProperty(__vite_ssr_exports__, "objectWithoutPropertiesLoose", { enumerable: true, configurable: true, get(){ return _objectWithoutPropertiesLoose }});
+Object.defineProperty(__vite_ssr_exports__, "unsupportedIterableToArray", { enumerable: true, configurable: true, get(){ return _unsupportedIterableToArray }});
+//# sourceMappingURL=_rollupPluginBabelHelpers.js.map
+;
+}
 
 
 // --------------------
-// Request: /node_modules/@headlessui/vue/dist/headlessui.esm.js
+// Request: /node_modules/@headlessui/vue/dist/utils/render.esm.js
 // Parents: 
-// - /pages/index.vue?macro=true ($id_5dd70240)
-// - /pages/index.vue ($id_cca58e97)
+// - /node_modules/@headlessui/vue/dist/components/portal/portal.esm.js ($id_6fee7f5c)
+// - /node_modules/@headlessui/vue/dist/internal/portal-force-root.esm.js ($id_c65cbc73)
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/components/description/description.esm.js ($id_35d2303d)
+// - /node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js ($id_658d32c3)
+// - /node_modules/@headlessui/vue/dist/components/focus-trap/focus-trap.esm.js ($id_12d79ec1)
+// - /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js ($id_aeffb558)
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// - /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js ($id_a655584d)
+// - /node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js ($id_f293a83d)
+// - /node_modules/@headlessui/vue/dist/components/label/label.esm.js ($id_b1e73183)
+// - /node_modules/@headlessui/vue/dist/components/switch/switch.esm.js ($id_4ec2ab7a)
+// - /node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js ($id_f55023ef)
+// - /node_modules/@headlessui/vue/dist/components/transitions/transition.esm.js ($id_bf02b578)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/match.esm.js ($id_a504e9df)
+// --------------------
+const $id_43adc7eb = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/match.esm.js");
+
+
+var Features;
+
+(function (Features) {
+  /** No features at all */
+  Features[Features["None"] = 0] = "None";
+  /**
+   * When used, this will allow us to use one of the render strategies.
+   *
+   * **The render strategies are:**
+   *    - **Unmount**   _(Will unmount the component.)_
+   *    - **Hidden**    _(Will hide the component using the [hidden] attribute.)_
+   */
+
+  Features[Features["RenderStrategy"] = 1] = "RenderStrategy";
+  /**
+   * When used, this will allow the user of our component to be in control. This can be used when
+   * you want to transition based on some state.
+   */
+
+  Features[Features["Static"] = 2] = "Static";
+})(Features || (Features = {}));
+
+var RenderStrategy;
+
+(function (RenderStrategy) {
+  RenderStrategy[RenderStrategy["Unmount"] = 0] = "Unmount";
+  RenderStrategy[RenderStrategy["Hidden"] = 1] = "Hidden";
+})(RenderStrategy || (RenderStrategy = {}));
+
+function render(_ref) {
+  var _ref$visible = _ref.visible,
+      visible = _ref$visible === void 0 ? true : _ref$visible,
+      _ref$features = _ref.features,
+      features = _ref$features === void 0 ? Features.None : _ref$features,
+      main = __vite_ssr_import_0__.objectWithoutPropertiesLoose(_ref, ["visible", "features"]);
+
+  // Visible always render
+  if (visible) return _render(main);
+
+  if (features & Features.Static) {
+    // When the `static` prop is passed as `true`, then the user is in control, thus we don't care about anything else
+    if (main.props["static"]) return _render(main);
+  }
+
+  if (features & Features.RenderStrategy) {
+    var _main$props$unmount, _match;
+
+    var strategy = ((_main$props$unmount = main.props.unmount) != null ? _main$props$unmount : true) ? RenderStrategy.Unmount : RenderStrategy.Hidden;
+    return __vite_ssr_import_2__.match(strategy, (_match = {}, _match[RenderStrategy.Unmount] = function () {
+      return null;
+    }, _match[RenderStrategy.Hidden] = function () {
+      return _render(__vite_ssr_import_0__.extends({}, main, {
+        props: __vite_ssr_import_0__.extends({}, main.props, {
+          hidden: true,
+          style: {
+            display: 'none'
+          }
+        })
+      }));
+    }, _match));
+  } // No features enabled, just render
+
+
+  return _render(main);
+}
+
+function _render(_ref2) {
+  var props = _ref2.props,
+      attrs = _ref2.attrs,
+      slots = _ref2.slots,
+      slot = _ref2.slot,
+      name = _ref2.name;
+
+  var _omit = omit(props, ['unmount', 'static']),
+      as = _omit.as,
+      passThroughProps = __vite_ssr_import_0__.objectWithoutPropertiesLoose(_omit, ["as"]);
+
+  var children = slots["default"] == null ? void 0 : slots["default"](slot);
+
+  if (as === 'template') {
+    if (Object.keys(passThroughProps).length > 0 || Object.keys(attrs).length > 0) {
+      var _ref3 = children != null ? children : [],
+          firstChild = _ref3[0],
+          other = _ref3.slice(1);
+
+      if (!isValidElement(firstChild) || other.length > 0) {
+        throw new Error(['Passing props on "template"!', '', "The current component <" + name + " /> is rendering a \"template\".", "However we need to passthrough the following props:", Object.keys(passThroughProps).concat(Object.keys(attrs)).map(function (line) {
+          return "  - " + line;
+        }).join('\n'), '', 'You can apply a few solutions:', ['Add an `as="..."` prop, to ensure that we render an actual element instead of a "template".', 'Render a single element as the child so that we can forward the props onto that element.'].map(function (line) {
+          return "  - " + line;
+        }).join('\n')].join('\n'));
+      }
+
+      return __vite_ssr_import_1__.cloneVNode(firstChild, passThroughProps);
+    }
+
+    if (Array.isArray(children) && children.length === 1) {
+      return children[0];
+    }
+
+    return children;
+  }
+
+  return __vite_ssr_import_1__.h(as, passThroughProps, children);
+}
+
+function omit(object, keysToOmit) {
+  if (keysToOmit === void 0) {
+    keysToOmit = [];
+  }
+
+  var clone = Object.assign({}, object);
+
+  for (var _iterator = __vite_ssr_import_0__.createForOfIteratorHelperLoose(keysToOmit), _step; !(_step = _iterator()).done;) {
+    var key = _step.value;
+    if (key in clone) delete clone[key];
+  }
+
+  return clone;
+}
+
+function isValidElement(input) {
+  if (input == null) return false; // No children
+
+  if (typeof input.type === 'string') return true; // 'div', 'span', ...
+
+  if (typeof input.type === 'object') return true; // Other components
+
+  if (typeof input.type === 'function') return true; // Built-ins like Transition
+
+  return false; // Comments, strings, ...
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "Features", { enumerable: true, configurable: true, get(){ return Features }});
+Object.defineProperty(__vite_ssr_exports__, "RenderStrategy", { enumerable: true, configurable: true, get(){ return RenderStrategy }});
+Object.defineProperty(__vite_ssr_exports__, "omit", { enumerable: true, configurable: true, get(){ return omit }});
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+//# sourceMappingURL=render.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/utils/match.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/utils/focus-management.esm.js ($id_bcffe35d)
+// - /node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js ($id_658d32c3)
+// - /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js ($id_aeffb558)
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// - /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js ($id_a655584d)
+// - /node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js ($id_f55023ef)
+// - /node_modules/@headlessui/vue/dist/components/transitions/transition.esm.js ($id_bf02b578)
+// Dependencies: 
+
+// --------------------
+const $id_a504e9df = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+function match(value, lookup) {
+  if (value in lookup) {
+    var returnValue = lookup[value];
+
+    for (var _len = arguments.length, args = new Array(_len > 2 ? _len - 2 : 0), _key = 2; _key < _len; _key++) {
+      args[_key - 2] = arguments[_key];
+    }
+
+    return typeof returnValue === 'function' ? returnValue.apply(void 0, args) : returnValue;
+  }
+
+  var error = new Error("Tried to handle \"" + value + "\" but there is no handler defined. Only defined handlers are: " + Object.keys(lookup).map(function (key) {
+    return "\"" + key + "\"";
+  }).join(', ') + ".");
+  if (Error.captureStackTrace) Error.captureStackTrace(error, match);
+  throw error;
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "match", { enumerable: true, configurable: true, get(){ return match }});
+//# sourceMappingURL=match.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/internal/stack-context.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/portal/portal.esm.js ($id_6fee7f5c)
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
 // Dependencies: 
 // - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
 // --------------------
-const $id_2c13895f = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_ff41f596 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-function T(t,n,...u){if(t in n){let o=n[t];return typeof o=="function"?o(...u):o}let e=new Error(`Tried to handle "${t}" but there is no handler defined. Only defined handlers are: ${Object.keys(n).map(o=>`"${o}"`).join(", ")}.`);throw Error.captureStackTrace&&Error.captureStackTrace(e,T),e}function x({visible:t=!0,features:n=0,...u}){var e;if(t||n&2&&u.props.static)return Se(u);if(n&1){let o=((e=u.props.unmount)!=null?e:!0)?0:1;return T(o,{[0](){return null},[1](){return Se({...u,props:{...u.props,hidden:!0,style:{display:"none"}}})}})}return Se(u)}function Se({props:t,attrs:n,slots:u,slot:e,name:o}){var a;let{as:r,...s}=L(t,["unmount","static"]),d=(a=u.default)==null?void 0:a.call(u,e);if(r==="template"){if(Object.keys(s).length>0||Object.keys(n).length>0){let[i,...l]=d!=null?d:[];if(!co(i)||l.length>0)throw new Error(['Passing props on "template"!',"",`The current component <${o} /> is rendering a "template".`,"However we need to passthrough the following props:",Object.keys(s).concat(Object.keys(n)).map(c=>`  - ${c}`).join(`
-`),"","You can apply a few solutions:",['Add an `as="..."` prop, to ensure that we render an actual element instead of a "template".',"Render a single element as the child so that we can forward the props onto that element."].map(c=>`  - ${c}`).join(`
-`)].join(`
-`));return __vite_ssr_import_1__.cloneVNode(i,s)}return Array.isArray(d)&&d.length===1?d[0]:d}return __vite_ssr_import_1__.h(r,s,d)}function L(t,n=[]){let u=Object.assign({},t);for(let e of n)e in u&&delete u[e];return u}function co(t){return t==null?!1:typeof t.type=="string"||typeof t.type=="object"||typeof t.type=="function"}var mo=0;function vo(){return++mo}function h(){return vo()}function bo(t){throw new Error("Unexpected object: "+t)}function J(t,n){let u=n.resolveItems();if(u.length<=0)return null;let e=n.resolveActiveIndex(),o=e!=null?e:-1,r=(()=>{switch(t.focus){case 0:return u.findIndex(s=>!n.resolveDisabled(s));case 1:{let s=u.slice().reverse().findIndex((d,a,i)=>o!==-1&&i.length-a-1>=o?!1:!n.resolveDisabled(d));return s===-1?s:u.length-1-s}case 2:return u.findIndex((s,d)=>d<=o?!1:!n.resolveDisabled(s));case 3:{let s=u.slice().reverse().findIndex(d=>!n.resolveDisabled(d));return s===-1?s:u.length-1-s}case 4:return u.findIndex(s=>n.resolveId(s)===t.id);case 5:return null;default:bo(t)}})();return r===-1?e:r}function v(t){return t==null||t.value==null?null:"$el"in t.value?t.value.$el:t.value}const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-function C(t,n,u){"undefined"!="undefined"&&__vite_ssr_import_2__.watchEffect(e=>{window.addEventListener(t,n,u),e(()=>{window.removeEventListener(t,n,u)})})}const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-var at=Symbol("Context");function it(){return I()!==null}function I(){return __vite_ssr_import_3__.inject(at,null)}function M(t){__vite_ssr_import_3__.provide(at,t)}const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-function ut(t,n){if(t)return t;let u=n!=null?n:"button";if(typeof u=="string"&&u.toLowerCase()==="button")return"button"}function P(t,n){let u=__vite_ssr_import_4__.ref(ut(t.value.type,t.value.as));return __vite_ssr_import_4__.onMounted(()=>{u.value=ut(t.value.type,t.value.as)}),__vite_ssr_import_4__.watchEffect(()=>{var e;u.value||!v(n)||v(n)instanceof HTMLButtonElement&&!((e=v(n))==null?void 0:e.hasAttribute("type"))&&(u.value="button")}),u}const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-function Y({container:t,accept:n,walk:u,enabled:e}){__vite_ssr_import_5__.watchEffect(()=>{let o=t.value;if(!o||e!==void 0&&!e.value)return;let r=Object.assign(d=>n(d),{acceptNode:n}),s=document.createTreeWalker(o,NodeFilter.SHOW_ELEMENT,r,!1);for(;s.nextNode();)u(s.currentNode)})}var ct=Symbol("ComboboxContext");function ee(t){let n=__vite_ssr_import_0__.inject(ct,null);if(n===null){let u=new Error(`<${t} /> is missing a parent <Combobox /> component.`);throw Error.captureStackTrace&&Error.captureStackTrace(u,ee),u}return n}var Vl=__vite_ssr_import_0__.defineComponent({name:"Combobox",emits:{"update:modelValue":t=>!0},props:{as:{type:[Object,String],default:"template"},disabled:{type:[Boolean],default:!1},modelValue:{type:[Object,String,Number,Boolean]}},setup(t,{slots:n,attrs:u,emit:e}){let o=__vite_ssr_import_0__.ref(1),r=__vite_ssr_import_0__.ref(null),s=__vite_ssr_import_0__.ref(null),d=__vite_ssr_import_0__.ref(null),a=__vite_ssr_import_0__.ref(null),i=__vite_ssr_import_0__.ref({static:!1,hold:!1}),l=__vite_ssr_import_0__.ref([]),c=__vite_ssr_import_0__.ref(null),p=__vite_ssr_import_0__.computed(()=>t.modelValue),f={comboboxState:o,value:p,inputRef:s,labelRef:r,buttonRef:d,optionsRef:a,disabled:__vite_ssr_import_0__.computed(()=>t.disabled),options:l,activeOptionIndex:c,inputPropsRef:__vite_ssr_import_0__.ref({displayValue:void 0}),optionsPropsRef:i,closeCombobox(){t.disabled||o.value!==1&&(o.value=1,c.value=null)},openCombobox(){t.disabled||o.value!==0&&(o.value=0)},goToOption(m,g){if(t.disabled||a.value&&!i.value.static&&o.value===1)return;let S=J(m===4?{focus:4,id:g}:{focus:m},{resolveItems:()=>l.value,resolveActiveIndex:()=>c.value,resolveId:y=>y.id,resolveDisabled:y=>y.dataRef.disabled});c.value!==S&&(c.value=S)},syncInputValue(){let m=f.value.value;if(!v(f.inputRef)||m===void 0)return;let g=f.inputPropsRef.value.displayValue;typeof g=="function"?f.inputRef.value.value=g(m):typeof m=="string"&&(f.inputRef.value.value=m)},selectOption(m){let g=l.value.find(y=>y.id===m);if(!g)return;let{dataRef:S}=g;e("update:modelValue",S.value),f.syncInputValue()},selectActiveOption(){if(c.value===null)return;let{dataRef:m}=l.value[c.value];e("update:modelValue",m.value),f.syncInputValue()},registerOption(m,g){var R,E;let S=c.value!==null?l.value[c.value]:null,y=Array.from((E=(R=a.value)==null?void 0:R.querySelectorAll('[id^="headlessui-combobox-option-"]'))!=null?E:[]).reduce((D,w,F)=>Object.assign(D,{[w.id]:F}),{});l.value=[...l.value,{id:m,dataRef:g}].sort((D,w)=>y[D.id]-y[w.id]),c.value=(()=>S===null?null:l.value.indexOf(S))()},unregisterOption(m){let g=l.value.slice(),S=c.value!==null?g[c.value]:null,y=g.findIndex(R=>R.id===m);y!==-1&&g.splice(y,1),l.value=g,c.value=(()=>y===c.value||S===null?null:g.indexOf(S))()}};C("mousedown",m=>{var S,y,R;let g=m.target;o.value===0&&(((S=v(s))==null?void 0:S.contains(g))||((y=v(d))==null?void 0:y.contains(g))||((R=v(a))==null?void 0:R.contains(g))||f.closeCombobox())}),__vite_ssr_import_0__.watch([f.value,f.inputRef],()=>f.syncInputValue(),{immediate:!0}),__vite_ssr_import_0__.provide(ct,f),M(__vite_ssr_import_0__.computed(()=>T(o.value,{[0]:0,[1]:1})));let b=__vite_ssr_import_0__.computed(()=>c.value===null?null:l.value[c.value].dataRef.value);return()=>{let m={open:o.value===0,disabled:t.disabled,activeIndex:c.value,activeOption:b.value};return x({props:L(t,["modelValue","onUpdate:modelValue","disabled"]),slot:m,slots:n,attrs:u,name:"Combobox"})}}}),Nl=__vite_ssr_import_0__.defineComponent({name:"ComboboxLabel",props:{as:{type:[Object,String],default:"label"}},setup(t,{attrs:n,slots:u}){let e=ee("ComboboxLabel"),o=`headlessui-combobox-label-${h()}`;function r(){var s;(s=v(e.inputRef))==null||s.focus({preventScroll:!0})}return()=>{let s={open:e.comboboxState.value===0,disabled:e.disabled.value},d={id:o,ref:e.labelRef,onClick:r};return x({props:{...t,...d},slot:s,attrs:n,slots:u,name:"ComboboxLabel"})}}}),Wl=__vite_ssr_import_0__.defineComponent({name:"ComboboxButton",props:{as:{type:[Object,String],default:"button"}},setup(t,{attrs:n,slots:u}){let e=ee("ComboboxButton"),o=`headlessui-combobox-button-${h()}`;function r(a){e.disabled.value||(e.comboboxState.value===0?e.closeCombobox():(a.preventDefault(),e.openCombobox()),__vite_ssr_import_0__.nextTick(()=>{var i;return(i=v(e.inputRef))==null?void 0:i.focus({preventScroll:!0})}))}function s(a){switch(a.key){case"ArrowDown":a.preventDefault(),a.stopPropagation(),e.comboboxState.value===1&&(e.openCombobox(),__vite_ssr_import_0__.nextTick(()=>{e.value.value||e.goToOption(0)})),__vite_ssr_import_0__.nextTick(()=>{var i;return(i=e.inputRef.value)==null?void 0:i.focus({preventScroll:!0})});return;case"ArrowUp":a.preventDefault(),a.stopPropagation(),e.comboboxState.value===1&&(e.openCombobox(),__vite_ssr_import_0__.nextTick(()=>{e.value.value||e.goToOption(3)})),__vite_ssr_import_0__.nextTick(()=>{var i;return(i=e.inputRef.value)==null?void 0:i.focus({preventScroll:!0})});return;case"Escape":a.preventDefault(),e.optionsRef.value&&!e.optionsPropsRef.value.static&&a.stopPropagation(),e.closeCombobox(),__vite_ssr_import_0__.nextTick(()=>{var i;return(i=e.inputRef.value)==null?void 0:i.focus({preventScroll:!0})});return}}let d=P(__vite_ssr_import_0__.computed(()=>({as:t.as,type:n.type})),e.buttonRef);return()=>{var l,c;let a={open:e.comboboxState.value===0,disabled:e.disabled.value},i={ref:e.buttonRef,id:o,type:d.value,tabindex:"-1","aria-haspopup":!0,"aria-controls":(l=v(e.optionsRef))==null?void 0:l.id,"aria-expanded":e.disabled.value?void 0:e.comboboxState.value===0,"aria-labelledby":e.labelRef.value?[(c=v(e.labelRef))==null?void 0:c.id,o].join(" "):void 0,disabled:e.disabled.value===!0?!0:void 0,onKeydown:s,onClick:r};return x({props:{...t,...i},slot:a,attrs:n,slots:u,name:"ComboboxButton"})}}}),Ul=__vite_ssr_import_0__.defineComponent({name:"ComboboxInput",props:{as:{type:[Object,String],default:"input"},static:{type:Boolean,default:!1},unmount:{type:Boolean,default:!0},displayValue:{type:Function}},emits:{change:t=>!0},setup(t,{emit:n,attrs:u,slots:e}){let o=ee("ComboboxInput"),r=`headlessui-combobox-input-${h()}`;o.inputPropsRef=__vite_ssr_import_0__.computed(()=>t);function s(a){switch(a.key){case"Enter":a.preventDefault(),a.stopPropagation(),o.selectActiveOption(),o.closeCombobox();break;case"ArrowDown":return a.preventDefault(),a.stopPropagation(),T(o.comboboxState.value,{[0]:()=>o.goToOption(2),[1]:()=>{o.openCombobox(),__vite_ssr_import_0__.nextTick(()=>{o.value.value||o.goToOption(0)})}});case"ArrowUp":return a.preventDefault(),a.stopPropagation(),T(o.comboboxState.value,{[0]:()=>o.goToOption(1),[1]:()=>{o.openCombobox(),__vite_ssr_import_0__.nextTick(()=>{o.value.value||o.goToOption(3)})}});case"Home":case"PageUp":return a.preventDefault(),a.stopPropagation(),o.goToOption(0);case"End":case"PageDown":return a.preventDefault(),a.stopPropagation(),o.goToOption(3);case"Escape":a.preventDefault(),o.optionsRef.value&&!o.optionsPropsRef.value.static&&a.stopPropagation(),o.closeCombobox();break;case"Tab":o.selectActiveOption(),o.closeCombobox();break}}function d(a){o.openCombobox(),n("change",a)}return()=>{var c,p,f,b,m;let a={open:o.comboboxState.value===0},i={"aria-controls":(c=o.optionsRef.value)==null?void 0:c.id,"aria-expanded":o.disabled?void 0:o.comboboxState.value===0,"aria-activedescendant":o.activeOptionIndex.value===null||(p=o.options.value[o.activeOptionIndex.value])==null?void 0:p.id,"aria-labelledby":(m=(f=v(o.labelRef))==null?void 0:f.id)!=null?m:(b=v(o.buttonRef))==null?void 0:b.id,id:r,onKeydown:s,onChange:d,onInput:d,role:"combobox",type:"text",tabIndex:0,ref:o.inputRef},l=L(t,["displayValue"]);return x({props:{...l,...i},slot:a,attrs:u,slots:e,features:1|2,name:"ComboboxInput"})}}}),$l=__vite_ssr_import_0__.defineComponent({name:"ComboboxOptions",props:{as:{type:[Object,String],default:"ul"},static:{type:Boolean,default:!1},unmount:{type:Boolean,default:!0},hold:{type:[Boolean],default:!1}},setup(t,{attrs:n,slots:u}){let e=ee("ComboboxOptions"),o=`headlessui-combobox-options-${h()}`;__vite_ssr_import_0__.watchEffect(()=>{e.optionsPropsRef.value.static=t.static}),__vite_ssr_import_0__.watchEffect(()=>{e.optionsPropsRef.value.hold=t.hold});let r=I(),s=__vite_ssr_import_0__.computed(()=>r!==null?r.value===0:e.comboboxState.value===0);return Y({container:__vite_ssr_import_0__.computed(()=>v(e.optionsRef)),enabled:__vite_ssr_import_0__.computed(()=>e.comboboxState.value===0),accept(d){return d.getAttribute("role")==="option"?NodeFilter.FILTER_REJECT:d.hasAttribute("role")?NodeFilter.FILTER_SKIP:NodeFilter.FILTER_ACCEPT},walk(d){d.setAttribute("role","none")}}),()=>{var l,c,p,f;let d={open:e.comboboxState.value===0},a={"aria-activedescendant":e.activeOptionIndex.value===null||(l=e.options.value[e.activeOptionIndex.value])==null?void 0:l.id,"aria-labelledby":(f=(c=v(e.labelRef))==null?void 0:c.id)!=null?f:(p=v(e.buttonRef))==null?void 0:p.id,id:o,ref:e.optionsRef,role:"listbox"},i=L(t,["hold"]);return x({props:{...i,...a},slot:d,attrs:n,slots:u,features:1|2,visible:s.value,name:"ComboboxOptions"})}}}),Gl=__vite_ssr_import_0__.defineComponent({name:"ComboboxOption",props:{as:{type:[Object,String],default:"li"},value:{type:[Object,String,Number,Boolean]},disabled:{type:Boolean,default:!1}},setup(t,{slots:n,attrs:u}){let e=ee("ComboboxOption"),o=`headlessui-combobox-option-${h()}`,r=__vite_ssr_import_0__.computed(()=>e.activeOptionIndex.value!==null?e.options.value[e.activeOptionIndex.value].id===o:!1),s=__vite_ssr_import_0__.computed(()=>__vite_ssr_import_0__.toRaw(e.value.value)===__vite_ssr_import_0__.toRaw(t.value)),d=__vite_ssr_import_0__.computed(()=>({disabled:t.disabled,value:t.value}));__vite_ssr_import_0__.onMounted(()=>e.registerOption(o,d)),__vite_ssr_import_0__.onUnmounted(()=>e.unregisterOption(o)),__vite_ssr_import_0__.onMounted(()=>{__vite_ssr_import_0__.watch([e.comboboxState,s],()=>{e.comboboxState.value===0&&(!s.value||e.goToOption(4,o))},{immediate:!0})}),__vite_ssr_import_0__.watchEffect(()=>{e.comboboxState.value===0&&(!r.value||__vite_ssr_import_0__.nextTick(()=>{var p,f;return(f=(p=document.getElementById(o))==null?void 0:p.scrollIntoView)==null?void 0:f.call(p,{block:"nearest"})}))});function a(p){if(t.disabled)return p.preventDefault();e.selectOption(o),e.closeCombobox(),__vite_ssr_import_0__.nextTick(()=>{var f;return(f=v(e.inputRef))==null?void 0:f.focus({preventScroll:!0})})}function i(){if(t.disabled)return e.goToOption(5);e.goToOption(4,o)}function l(){t.disabled||r.value||e.goToOption(4,o)}function c(){t.disabled||!r.value||e.optionsPropsRef.value.hold||e.goToOption(5)}return()=>{let{disabled:p}=t,f={active:r.value,selected:s.value,disabled:p},b={id:o,role:"option",tabIndex:p===!0?void 0:-1,"aria-disabled":p===!0?!0:void 0,"aria-selected":s.value===!0?s.value:void 0,disabled:void 0,onClick:a,onFocus:i,onPointermove:l,onMousemove:l,onPointerleave:c,onMouseleave:c};return x({props:{...t,...b},slot:f,attrs:u,slots:n,name:"ComboboxOption"})}}});const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-var Ke=["[contentEditable=true]","[tabindex]","a[href]","area[href]","button:not([disabled])","iframe","input:not([disabled])","select:not([disabled])","textarea:not([disabled])"].map(t=>`${t}:not([tabindex='-1'])`).join(",");function ae(t=document.body){return t==null?[]:Array.from(t.querySelectorAll(Ke))}function mt(t,n=0){return t===document.body?!1:T(n,{[0](){return t.matches(Ke)},[1](){let u=t;for(;u!==null;){if(u.matches(Ke))return!0;u=u.parentElement}return!1}})}function te(t){t==null||t.focus({preventScroll:!0})}function O(t,n){let u=Array.isArray(t)?t.slice().sort((l,c)=>{let p=l.compareDocumentPosition(c);return p&Node.DOCUMENT_POSITION_FOLLOWING?-1:p&Node.DOCUMENT_POSITION_PRECEDING?1:0}):ae(t),e=document.activeElement,o=(()=>{if(n&(1|4))return 1;if(n&(2|8))return-1;throw new Error("Missing Focus.First, Focus.Previous, Focus.Next or Focus.Last")})(),r=(()=>{if(n&1)return 0;if(n&2)return Math.max(0,u.indexOf(e))-1;if(n&4)return Math.max(0,u.indexOf(e))+1;if(n&8)return u.length-1;throw new Error("Missing Focus.First, Focus.Previous, Focus.Next or Focus.Last")})(),s=n&32?{preventScroll:!0}:{},d=0,a=u.length,i;do{if(d>=a||d+a<=0)return 0;let l=r+d;if(n&16)l=(l+a)%a;else{if(l<0)return 3;if(l>=a)return 1}i=u[l],i==null||i.focus(s),d+=o}while(i!==document.activeElement);return i.hasAttribute("tabindex")||i.setAttribute("tabindex","0"),2}function ie(t,n){for(let u of t)if(u.contains(n))return!0;return!1}function Re(t,n=__vite_ssr_import_7__.ref(!0),u=__vite_ssr_import_7__.ref({})){let e=__vite_ssr_import_7__.ref("undefined"!="undefined"?document.activeElement:null),o=__vite_ssr_import_7__.ref(null);function r(){if(!n.value||t.value.size!==1)return;let{initialFocus:d}=u.value,a=document.activeElement;if(d){if(d===a)return}else if(ie(t.value,a))return;if(e.value=a,d)te(d);else{let i=!1;for(let l of t.value)if(O(l,1)===2){i=!0;break}i||console.warn("There are no focusable elements inside the <FocusTrap />")}o.value=document.activeElement}function s(){te(e.value),e.value=null,o.value=null}__vite_ssr_import_7__.watchEffect(r),__vite_ssr_import_7__.onUpdated(()=>{n.value?r():s()}),__vite_ssr_import_7__.onUnmounted(s),C("keydown",d=>{if(!!n.value&&d.key==="Tab"&&!!document.activeElement&&t.value.size===1){d.preventDefault();for(let a of t.value)if(O(a,(d.shiftKey?2:4)|16)===2){o.value=document.activeElement;break}}}),C("focus",d=>{if(!n.value||t.value.size!==1)return;let a=o.value;if(!a)return;let i=d.target;i&&i instanceof HTMLElement?ie(t.value,i)?(o.value=i,te(i)):(d.preventDefault(),d.stopPropagation(),te(a)):te(o.value)},!0)}const __vite_ssr_import_8__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-var bt="body > *",oe=new Set,K=new Map;function gt(t){t.setAttribute("aria-hidden","true"),t.inert=!0}function xt(t){let n=K.get(t);!n||(n["aria-hidden"]===null?t.removeAttribute("aria-hidden"):t.setAttribute("aria-hidden",n["aria-hidden"]),t.inert=n.inert)}function yt(t,n=__vite_ssr_import_8__.ref(!0)){__vite_ssr_import_8__.watchEffect(u=>{if(!n.value||!t.value)return;let e=t.value;oe.add(e);for(let o of K.keys())o.contains(e)&&(xt(o),K.delete(o));document.querySelectorAll(bt).forEach(o=>{if(o instanceof HTMLElement){for(let r of oe)if(o.contains(r))return;oe.size===1&&(K.set(o,{"aria-hidden":o.getAttribute("aria-hidden"),inert:o.inert}),gt(o))}}),u(()=>{if(oe.delete(e),oe.size>0)document.querySelectorAll(bt).forEach(o=>{if(o instanceof HTMLElement&&!K.has(o)){for(let r of oe)if(o.contains(r))return;K.set(o,{"aria-hidden":o.getAttribute("aria-hidden"),inert:o.inert}),gt(o)}});else for(let o of K.keys())xt(o),K.delete(o)})})}const __vite_ssr_import_9__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-const __vite_ssr_import_10__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-var St=Symbol("StackContext");function ht(){return __vite_ssr_import_10__.inject(St,()=>{})}function Rt(t){let n=ht();__vite_ssr_import_10__.watchEffect(u=>{let e=t==null?void 0:t.value;!e||(n(0,e),u(()=>n(1,e)))})}function Te(t){let n=ht();function u(...e){t==null||t(...e),n(...e)}__vite_ssr_import_10__.provide(St,u)}const __vite_ssr_import_11__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-var Tt=Symbol("ForcePortalRootContext");function Ot(){return __vite_ssr_import_11__.inject(Tt,!1)}var Ne=__vite_ssr_import_11__.defineComponent({name:"ForcePortalRoot",props:{as:{type:[Object,String],default:"template"},force:{type:Boolean,default:!1}},setup(t,{slots:n,attrs:u}){return __vite_ssr_import_11__.provide(Tt,t.force),()=>{let{force:e,...o}=t;return x({props:o,slot:{},slots:n,attrs:u,name:"ForcePortalRoot"})}}});function It(){let t=document.getElementById("headlessui-portal-root");if(t)return t;let n=document.createElement("div");return n.setAttribute("id","headlessui-portal-root"),document.body.appendChild(n)}var Pt=__vite_ssr_import_9__.defineComponent({name:"Portal",props:{as:{type:[Object,String],default:"div"}},setup(t,{slots:n,attrs:u}){let e=Ot(),o=__vite_ssr_import_9__.inject(Dt,null),r=__vite_ssr_import_9__.ref(e===!0||o===null?It():o.resolveTarget());__vite_ssr_import_9__.watchEffect(()=>{e||o!==null&&(r.value=o.resolveTarget())});let s=__vite_ssr_import_9__.ref(null);return Rt(s),__vite_ssr_import_9__.onUnmounted(()=>{var a;let d=document.getElementById("headlessui-portal-root");!d||r.value===d&&r.value.children.length<=0&&((a=r.value.parentElement)==null||a.removeChild(r.value))}),Te(),()=>{if(r.value===null)return null;let d={ref:s};return __vite_ssr_import_9__.h(__vite_ssr_import_9__.Teleport,{to:r.value},x({props:{...t,...d},slot:{},attrs:u,slots:n,name:"Portal"}))}}}),Dt=Symbol("PortalGroupContext"),wt=__vite_ssr_import_9__.defineComponent({name:"PortalGroup",props:{as:{type:[Object,String],default:"template"},target:{type:Object,default:null}},setup(t,{attrs:n,slots:u}){let e=__vite_ssr_import_9__.reactive({resolveTarget(){return t.target}});return __vite_ssr_import_9__.provide(Dt,e),()=>{let{target:o,...r}=t;return x({props:r,slot:{},attrs:n,slots:u,name:"PortalGroup"})}}});const __vite_ssr_import_12__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-var Lt=Symbol("DescriptionContext");function Xo(){let t=__vite_ssr_import_12__.inject(Lt,null);if(t===null)throw new Error("Missing parent");return t}function G({slot:t=__vite_ssr_import_12__.ref({}),name:n="Description",props:u={}}={}){let e=__vite_ssr_import_12__.ref([]);function o(r){return e.value.push(r),()=>{let s=e.value.indexOf(r);s!==-1&&e.value.splice(s,1)}}return __vite_ssr_import_12__.provide(Lt,{register:o,slot:t,name:n,props:u}),__vite_ssr_import_12__.computed(()=>e.value.length>0?e.value.join(" "):void 0)}var ne=__vite_ssr_import_12__.defineComponent({name:"Description",props:{as:{type:[Object,String],default:"p"}},setup(t,{attrs:n,slots:u}){let e=Xo(),o=`headlessui-description-${h()}`;return __vite_ssr_import_12__.onMounted(()=>__vite_ssr_import_12__.onUnmounted(e.register(o))),()=>{let{name:r="Description",slot:s=__vite_ssr_import_12__.ref({}),props:d={}}=e,a=t,i={...Object.entries(d).reduce((l,[c,p])=>Object.assign(l,{[c]:__vite_ssr_import_12__.unref(p)}),{}),id:o};return x({props:{...a,...i},slot:s.value,attrs:n,slots:u,name:r})}}});var kt=Symbol("DialogContext");function $e(t){let n=__vite_ssr_import_6__.inject(kt,null);if(n===null){let u=new Error(`<${t} /> is missing a parent <Dialog /> component.`);throw Error.captureStackTrace&&Error.captureStackTrace(u,$e),u}return n}var Ee="DC8F892D-2EBD-447C-A4C8-A03058436FF4",Gr=__vite_ssr_import_6__.defineComponent({name:"Dialog",inheritAttrs:!1,props:{as:{type:[Object,String],default:"div"},static:{type:Boolean,default:!1},unmount:{type:Boolean,default:!0},open:{type:[Boolean,String],default:Ee},initialFocus:{type:Object,default:null}},emits:{close:t=>!0},setup(t,{emit:n,attrs:u,slots:e}){let o=__vite_ssr_import_6__.ref(new Set),r=I(),s=__vite_ssr_import_6__.computed(()=>t.open===Ee&&r!==null?T(r.value,{[0]:!0,[1]:!1}):t.open);if(!(t.open!==Ee||r!==null))throw new Error("You forgot to provide an `open` prop to the `Dialog`.");if(typeof s.value!="boolean")throw new Error(`You provided an \`open\` prop to the \`Dialog\`, but the value is not a boolean. Received: ${s.value===Ee?void 0:t.open}`);let a=__vite_ssr_import_6__.computed(()=>t.open?0:1),i=__vite_ssr_import_6__.computed(()=>r!==null?r.value===0:a.value===0),l=__vite_ssr_import_6__.ref(null),c=__vite_ssr_import_6__.ref(a.value===0);__vite_ssr_import_6__.onUpdated(()=>{c.value=a.value===0});let p=`headlessui-dialog-${h()}`,f=__vite_ssr_import_6__.computed(()=>({initialFocus:t.initialFocus}));Re(o,c,f),yt(l,c),Te((y,R)=>T(y,{[0](){o.value.add(R)},[1](){o.value.delete(R)}}));let b=G({name:"DialogDescription",slot:__vite_ssr_import_6__.computed(()=>({open:s.value}))}),m=__vite_ssr_import_6__.ref(null),g={titleId:m,dialogState:a,setTitleId(y){m.value!==y&&(m.value=y)},close(){n("close",!1)}};__vite_ssr_import_6__.provide(kt,g),C("mousedown",y=>{let R=y.target;a.value===0&&o.value.size===1&&(ie(o.value,R)||(g.close(),__vite_ssr_import_6__.nextTick(()=>R==null?void 0:R.focus())))}),C("keydown",y=>{y.key==="Escape"&&a.value===0&&(o.value.size>1||(y.preventDefault(),y.stopPropagation(),g.close()))}),__vite_ssr_import_6__.watchEffect(y=>{if(a.value!==0)return;let R=document.documentElement.style.overflow,E=document.documentElement.style.paddingRight,D=window.innerWidth-document.documentElement.clientWidth;document.documentElement.style.overflow="hidden",document.documentElement.style.paddingRight=`${D}px`,y(()=>{document.documentElement.style.overflow=R,document.documentElement.style.paddingRight=E})}),__vite_ssr_import_6__.watchEffect(y=>{if(a.value!==0)return;let R=v(l);if(!R)return;let E=new IntersectionObserver(D=>{for(let w of D)w.boundingClientRect.x===0&&w.boundingClientRect.y===0&&w.boundingClientRect.width===0&&w.boundingClientRect.height===0&&g.close()});E.observe(R),y(()=>E.disconnect())});function S(y){y.stopPropagation()}return()=>{let y={...u,ref:l,id:p,role:"dialog","aria-modal":a.value===0?!0:void 0,"aria-labelledby":m.value,"aria-describedby":b.value,onClick:S},{open:R,initialFocus:E,...D}=t,w={open:a.value===0};return __vite_ssr_import_6__.h(Ne,{force:!0},()=>__vite_ssr_import_6__.h(Pt,()=>__vite_ssr_import_6__.h(wt,{target:l.value},()=>__vite_ssr_import_6__.h(Ne,{force:!1},()=>x({props:{...D,...y},slot:w,attrs:u,slots:e,visible:i.value,features:1|2,name:"Dialog"})))))}}}),_r=__vite_ssr_import_6__.defineComponent({name:"DialogOverlay",props:{as:{type:[Object,String],default:"div"}},setup(t,{attrs:n,slots:u}){let e=$e("DialogOverlay"),o=`headlessui-dialog-overlay-${h()}`;function r(s){s.target===s.currentTarget&&(s.preventDefault(),s.stopPropagation(),e.close())}return()=>x({props:{...t,...{id:o,"aria-hidden":!0,onClick:r}},slot:{open:e.dialogState.value===0},attrs:n,slots:u,name:"DialogOverlay"})}}),qr=__vite_ssr_import_6__.defineComponent({name:"DialogTitle",props:{as:{type:[Object,String],default:"h2"}},setup(t,{attrs:n,slots:u}){let e=$e("DialogTitle"),o=`headlessui-dialog-title-${h()}`;return __vite_ssr_import_6__.onMounted(()=>{e.setTitleId(o),__vite_ssr_import_6__.onUnmounted(()=>e.setTitleId(null))}),()=>x({props:{...t,...{id:o}},slot:{open:e.dialogState.value===0},attrs:n,slots:u,name:"DialogTitle"})}}),zr=ne;const __vite_ssr_import_13__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-var At=Symbol("DisclosureContext");function qe(t){let n=__vite_ssr_import_13__.inject(At,null);if(n===null){let u=new Error(`<${t} /> is missing a parent <Disclosure /> component.`);throw Error.captureStackTrace&&Error.captureStackTrace(u,qe),u}return n}var Ht=Symbol("DisclosurePanelContext");function an(){return __vite_ssr_import_13__.inject(Ht,null)}var ra=__vite_ssr_import_13__.defineComponent({name:"Disclosure",props:{as:{type:[Object,String],default:"template"},defaultOpen:{type:[Boolean],default:!1}},setup(t,{slots:n,attrs:u}){let e=`headlessui-disclosure-button-${h()}`,o=`headlessui-disclosure-panel-${h()}`,r=__vite_ssr_import_13__.ref(t.defaultOpen?0:1),s=__vite_ssr_import_13__.ref(null),d=__vite_ssr_import_13__.ref(null),a={buttonId:e,panelId:o,disclosureState:r,panel:s,button:d,toggleDisclosure(){r.value=T(r.value,{[0]:1,[1]:0})},closeDisclosure(){r.value!==1&&(r.value=1)},close(i){a.closeDisclosure();let l=(()=>i?i instanceof HTMLElement?i:i.value instanceof HTMLElement?v(i):v(a.button):v(a.button))();l==null||l.focus()}};return __vite_ssr_import_13__.provide(At,a),M(__vite_ssr_import_13__.computed(()=>T(r.value,{[0]:0,[1]:1}))),()=>{let{defaultOpen:i,...l}=t,c={open:r.value===0,close:a.close};return x({props:l,slot:c,slots:n,attrs:u,name:"Disclosure"})}}}),aa=__vite_ssr_import_13__.defineComponent({name:"DisclosureButton",props:{as:{type:[Object,String],default:"button"},disabled:{type:[Boolean],default:!1}},setup(t,{attrs:n,slots:u}){let e=qe("DisclosureButton"),o=an(),r=o===null?!1:o===e.panelId,s=__vite_ssr_import_13__.ref(null);r||__vite_ssr_import_13__.watchEffect(()=>{e.button.value=s.value});let d=P(__vite_ssr_import_13__.computed(()=>({as:t.as,type:n.type})),s);function a(){var c;t.disabled||(r?(e.toggleDisclosure(),(c=v(e.button))==null||c.focus()):e.toggleDisclosure())}function i(c){var p;if(!t.disabled)if(r)switch(c.key){case" ":case"Enter":c.preventDefault(),c.stopPropagation(),e.toggleDisclosure(),(p=v(e.button))==null||p.focus();break}else switch(c.key){case" ":case"Enter":c.preventDefault(),c.stopPropagation(),e.toggleDisclosure();break}}function l(c){switch(c.key){case" ":c.preventDefault();break}}return()=>{let c={open:e.disclosureState.value===0},p=r?{ref:s,type:d.value,onClick:a,onKeydown:i}:{id:e.buttonId,ref:s,type:d.value,"aria-expanded":t.disabled?void 0:e.disclosureState.value===0,"aria-controls":v(e.panel)?e.panelId:void 0,disabled:t.disabled?!0:void 0,onClick:a,onKeydown:i,onKeyup:l};return x({props:{...t,...p},slot:c,attrs:n,slots:u,name:"DisclosureButton"})}}}),ia=__vite_ssr_import_13__.defineComponent({name:"DisclosurePanel",props:{as:{type:[Object,String],default:"div"},static:{type:Boolean,default:!1},unmount:{type:Boolean,default:!0}},setup(t,{attrs:n,slots:u}){let e=qe("DisclosurePanel");__vite_ssr_import_13__.provide(Ht,e.panelId);let o=I(),r=__vite_ssr_import_13__.computed(()=>o!==null?o.value===0:e.disclosureState.value===0);return()=>{let s={open:e.disclosureState.value===0,close:e.close},d={id:e.panelId,ref:e.panel};return x({props:{...t,...d},slot:s,attrs:n,slots:u,features:1|2,visible:r.value,name:"DisclosurePanel"})}}});const __vite_ssr_import_14__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-var ca=__vite_ssr_import_14__.defineComponent({name:"FocusTrap",props:{as:{type:[Object,String],default:"div"},initialFocus:{type:Object,default:null}},setup(t,{attrs:n,slots:u}){let e=__vite_ssr_import_14__.ref(new Set),o=__vite_ssr_import_14__.ref(null),r=__vite_ssr_import_14__.ref(!0),s=__vite_ssr_import_14__.computed(()=>({initialFocus:t.initialFocus}));return __vite_ssr_import_14__.onMounted(()=>{!o.value||(e.value.add(o.value),Re(e,r,s))}),__vite_ssr_import_14__.onUnmounted(()=>{r.value=!1}),()=>{let d={},a={ref:o},{initialFocus:i,...l}=t;return x({props:{...l,...a},slot:d,attrs:n,slots:u,name:"FocusTrap"})}}});const __vite_ssr_import_15__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-function gn(t){requestAnimationFrame(()=>requestAnimationFrame(t))}var Kt=Symbol("ListboxContext");function pe(t){let n=__vite_ssr_import_15__.inject(Kt,null);if(n===null){let u=new Error(`<${t} /> is missing a parent <Listbox /> component.`);throw Error.captureStackTrace&&Error.captureStackTrace(u,pe),u}return n}var Ia=__vite_ssr_import_15__.defineComponent({name:"Listbox",emits:{"update:modelValue":t=>!0},props:{as:{type:[Object,String],default:"template"},disabled:{type:[Boolean],default:!1},horizontal:{type:[Boolean],default:!1},modelValue:{type:[Object,String,Number,Boolean]}},setup(t,{slots:n,attrs:u,emit:e}){let o=__vite_ssr_import_15__.ref(1),r=__vite_ssr_import_15__.ref(null),s=__vite_ssr_import_15__.ref(null),d=__vite_ssr_import_15__.ref(null),a=__vite_ssr_import_15__.ref([]),i=__vite_ssr_import_15__.ref(""),l=__vite_ssr_import_15__.ref(null),c=__vite_ssr_import_15__.computed(()=>t.modelValue),p={listboxState:o,value:c,orientation:__vite_ssr_import_15__.computed(()=>t.horizontal?"horizontal":"vertical"),labelRef:r,buttonRef:s,optionsRef:d,disabled:__vite_ssr_import_15__.computed(()=>t.disabled),options:a,searchQuery:i,activeOptionIndex:l,closeListbox(){t.disabled||o.value!==1&&(o.value=1,l.value=null)},openListbox(){t.disabled||o.value!==0&&(o.value=0)},goToOption(f,b){if(t.disabled||o.value===1)return;let m=J(f===4?{focus:4,id:b}:{focus:f},{resolveItems:()=>a.value,resolveActiveIndex:()=>l.value,resolveId:g=>g.id,resolveDisabled:g=>g.dataRef.disabled});i.value===""&&l.value===m||(i.value="",l.value=m)},search(f){if(t.disabled||o.value===1)return;let m=i.value!==""?0:1;i.value+=f.toLowerCase();let S=(l.value!==null?a.value.slice(l.value+m).concat(a.value.slice(0,l.value+m)):a.value).find(R=>R.dataRef.textValue.startsWith(i.value)&&!R.dataRef.disabled),y=S?a.value.indexOf(S):-1;y===-1||y===l.value||(l.value=y)},clearSearch(){t.disabled||o.value!==1&&i.value!==""&&(i.value="")},registerOption(f,b){var g,S;let m=Array.from((S=(g=d.value)==null?void 0:g.querySelectorAll('[id^="headlessui-listbox-option-"]'))!=null?S:[]).reduce((y,R,E)=>Object.assign(y,{[R.id]:E}),{});a.value=[...a.value,{id:f,dataRef:b}].sort((y,R)=>m[y.id]-m[R.id])},unregisterOption(f){let b=a.value.slice(),m=l.value!==null?b[l.value]:null,g=b.findIndex(S=>S.id===f);g!==-1&&b.splice(g,1),a.value=b,l.value=(()=>g===l.value||m===null?null:b.indexOf(m))()},select(f){t.disabled||e("update:modelValue",f)}};return C("mousedown",f=>{var g,S,y;let b=f.target,m=document.activeElement;o.value===0&&(((g=v(s))==null?void 0:g.contains(b))||(((S=v(d))==null?void 0:S.contains(b))||p.closeListbox(),!(m!==document.body&&(m==null?void 0:m.contains(b)))&&(f.defaultPrevented||(y=v(s))==null||y.focus({preventScroll:!0}))))}),__vite_ssr_import_15__.provide(Kt,p),M(__vite_ssr_import_15__.computed(()=>T(o.value,{[0]:0,[1]:1}))),()=>{let f={open:o.value===0,disabled:t.disabled};return x({props:L(t,["modelValue","onUpdate:modelValue","disabled","horizontal"]),slot:f,slots:n,attrs:u,name:"Listbox"})}}}),Pa=__vite_ssr_import_15__.defineComponent({name:"ListboxLabel",props:{as:{type:[Object,String],default:"label"}},setup(t,{attrs:n,slots:u}){let e=pe("ListboxLabel"),o=`headlessui-listbox-label-${h()}`;function r(){var s;(s=v(e.buttonRef))==null||s.focus({preventScroll:!0})}return()=>{let s={open:e.listboxState.value===0,disabled:e.disabled.value},d={id:o,ref:e.labelRef,onClick:r};return x({props:{...t,...d},slot:s,attrs:n,slots:u,name:"ListboxLabel"})}}}),Da=__vite_ssr_import_15__.defineComponent({name:"ListboxButton",props:{as:{type:[Object,String],default:"button"}},setup(t,{attrs:n,slots:u}){let e=pe("ListboxButton"),o=`headlessui-listbox-button-${h()}`;function r(i){switch(i.key){case" ":case"Enter":case"ArrowDown":i.preventDefault(),e.openListbox(),__vite_ssr_import_15__.nextTick(()=>{var l;(l=v(e.optionsRef))==null||l.focus({preventScroll:!0}),e.value.value||e.goToOption(0)});break;case"ArrowUp":i.preventDefault(),e.openListbox(),__vite_ssr_import_15__.nextTick(()=>{var l;(l=v(e.optionsRef))==null||l.focus({preventScroll:!0}),e.value.value||e.goToOption(3)});break}}function s(i){switch(i.key){case" ":i.preventDefault();break}}function d(i){e.disabled.value||(e.listboxState.value===0?(e.closeListbox(),__vite_ssr_import_15__.nextTick(()=>{var l;return(l=v(e.buttonRef))==null?void 0:l.focus({preventScroll:!0})})):(i.preventDefault(),e.openListbox(),gn(()=>{var l;return(l=v(e.optionsRef))==null?void 0:l.focus({preventScroll:!0})})))}let a=P(__vite_ssr_import_15__.computed(()=>({as:t.as,type:n.type})),e.buttonRef);return()=>{var c,p;let i={open:e.listboxState.value===0,disabled:e.disabled.value},l={ref:e.buttonRef,id:o,type:a.value,"aria-haspopup":!0,"aria-controls":(c=v(e.optionsRef))==null?void 0:c.id,"aria-expanded":e.disabled.value?void 0:e.listboxState.value===0,"aria-labelledby":e.labelRef.value?[(p=v(e.labelRef))==null?void 0:p.id,o].join(" "):void 0,disabled:e.disabled.value===!0?!0:void 0,onKeydown:r,onKeyup:s,onClick:d};return x({props:{...t,...l},slot:i,attrs:n,slots:u,name:"ListboxButton"})}}}),wa=__vite_ssr_import_15__.defineComponent({name:"ListboxOptions",props:{as:{type:[Object,String],default:"ul"},static:{type:Boolean,default:!1},unmount:{type:Boolean,default:!0}},setup(t,{attrs:n,slots:u}){let e=pe("ListboxOptions"),o=`headlessui-listbox-options-${h()}`,r=__vite_ssr_import_15__.ref(null);function s(i){switch(r.value&&clearTimeout(r.value),i.key){case" ":if(e.searchQuery.value!=="")return i.preventDefault(),i.stopPropagation(),e.search(i.key);case"Enter":if(i.preventDefault(),i.stopPropagation(),e.activeOptionIndex.value!==null){let{dataRef:l}=e.options.value[e.activeOptionIndex.value];e.select(l.value)}e.closeListbox(),__vite_ssr_import_15__.nextTick(()=>{var l;return(l=v(e.buttonRef))==null?void 0:l.focus({preventScroll:!0})});break;case T(e.orientation.value,{vertical:"ArrowDown",horizontal:"ArrowRight"}):return i.preventDefault(),i.stopPropagation(),e.goToOption(2);case T(e.orientation.value,{vertical:"ArrowUp",horizontal:"ArrowLeft"}):return i.preventDefault(),i.stopPropagation(),e.goToOption(1);case"Home":case"PageUp":return i.preventDefault(),i.stopPropagation(),e.goToOption(0);case"End":case"PageDown":return i.preventDefault(),i.stopPropagation(),e.goToOption(3);case"Escape":i.preventDefault(),i.stopPropagation(),e.closeListbox(),__vite_ssr_import_15__.nextTick(()=>{var l;return(l=v(e.buttonRef))==null?void 0:l.focus({preventScroll:!0})});break;case"Tab":i.preventDefault(),i.stopPropagation();break;default:i.key.length===1&&(e.search(i.key),r.value=setTimeout(()=>e.clearSearch(),350));break}}let d=I(),a=__vite_ssr_import_15__.computed(()=>d!==null?d.value===0:e.listboxState.value===0);return()=>{var p,f,b,m;let i={open:e.listboxState.value===0},l={"aria-activedescendant":e.activeOptionIndex.value===null||(p=e.options.value[e.activeOptionIndex.value])==null?void 0:p.id,"aria-labelledby":(m=(f=v(e.labelRef))==null?void 0:f.id)!=null?m:(b=v(e.buttonRef))==null?void 0:b.id,"aria-orientation":e.orientation.value,id:o,onKeydown:s,role:"listbox",tabIndex:0,ref:e.optionsRef};return x({props:{...t,...l},slot:i,attrs:n,slots:u,features:1|2,visible:a.value,name:"ListboxOptions"})}}}),La=__vite_ssr_import_15__.defineComponent({name:"ListboxOption",props:{as:{type:[Object,String],default:"li"},value:{type:[Object,String,Number,Boolean]},disabled:{type:Boolean,default:!1}},setup(t,{slots:n,attrs:u}){let e=pe("ListboxOption"),o=`headlessui-listbox-option-${h()}`,r=__vite_ssr_import_15__.computed(()=>e.activeOptionIndex.value!==null?e.options.value[e.activeOptionIndex.value].id===o:!1),s=__vite_ssr_import_15__.computed(()=>__vite_ssr_import_15__.toRaw(e.value.value)===__vite_ssr_import_15__.toRaw(t.value)),d=__vite_ssr_import_15__.ref({disabled:t.disabled,value:t.value,textValue:""});__vite_ssr_import_15__.onMounted(()=>{var f,b;let p=(b=(f=document.getElementById(o))==null?void 0:f.textContent)==null?void 0:b.toLowerCase().trim();p!==void 0&&(d.value.textValue=p)}),__vite_ssr_import_15__.onMounted(()=>e.registerOption(o,d)),__vite_ssr_import_15__.onUnmounted(()=>e.unregisterOption(o)),__vite_ssr_import_15__.onMounted(()=>{__vite_ssr_import_15__.watch([e.listboxState,s],()=>{var p,f;e.listboxState.value===0&&(!s.value||(e.goToOption(4,o),(f=(p=document.getElementById(o))==null?void 0:p.focus)==null||f.call(p)))},{immediate:!0})}),__vite_ssr_import_15__.watchEffect(()=>{e.listboxState.value===0&&(!r.value||__vite_ssr_import_15__.nextTick(()=>{var p,f;return(f=(p=document.getElementById(o))==null?void 0:p.scrollIntoView)==null?void 0:f.call(p,{block:"nearest"})}))});function a(p){if(t.disabled)return p.preventDefault();e.select(t.value),e.closeListbox(),__vite_ssr_import_15__.nextTick(()=>{var f;return(f=v(e.buttonRef))==null?void 0:f.focus({preventScroll:!0})})}function i(){if(t.disabled)return e.goToOption(5);e.goToOption(4,o)}function l(){t.disabled||r.value||e.goToOption(4,o)}function c(){t.disabled||!r.value||e.goToOption(5)}return()=>{let{disabled:p}=t,f={active:r.value,selected:s.value,disabled:p},b={id:o,role:"option",tabIndex:p===!0?void 0:-1,"aria-disabled":p===!0?!0:void 0,"aria-selected":s.value===!0?s.value:void 0,disabled:void 0,onClick:a,onFocus:i,onPointermove:l,onMousemove:l,onPointerleave:c,onMouseleave:c};return x({props:{...t,...b},slot:f,attrs:u,slots:n,name:"ListboxOption"})}}});const __vite_ssr_import_16__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-function Rn(t){requestAnimationFrame(()=>requestAnimationFrame(t))}var Nt=Symbol("MenuContext");function De(t){let n=__vite_ssr_import_16__.inject(Nt,null);if(n===null){let u=new Error(`<${t} /> is missing a parent <Menu /> component.`);throw Error.captureStackTrace&&Error.captureStackTrace(u,De),u}return n}var Ga=__vite_ssr_import_16__.defineComponent({name:"Menu",props:{as:{type:[Object,String],default:"template"}},setup(t,{slots:n,attrs:u}){let e=__vite_ssr_import_16__.ref(1),o=__vite_ssr_import_16__.ref(null),r=__vite_ssr_import_16__.ref(null),s=__vite_ssr_import_16__.ref([]),d=__vite_ssr_import_16__.ref(""),a=__vite_ssr_import_16__.ref(null),i={menuState:e,buttonRef:o,itemsRef:r,items:s,searchQuery:d,activeItemIndex:a,closeMenu:()=>{e.value=1,a.value=null},openMenu:()=>e.value=0,goToItem(l,c){let p=J(l===4?{focus:4,id:c}:{focus:l},{resolveItems:()=>s.value,resolveActiveIndex:()=>a.value,resolveId:f=>f.id,resolveDisabled:f=>f.dataRef.disabled});d.value===""&&a.value===p||(d.value="",a.value=p)},search(l){let p=d.value!==""?0:1;d.value+=l.toLowerCase();let b=(a.value!==null?s.value.slice(a.value+p).concat(s.value.slice(0,a.value+p)):s.value).find(g=>g.dataRef.textValue.startsWith(d.value)&&!g.dataRef.disabled),m=b?s.value.indexOf(b):-1;m===-1||m===a.value||(a.value=m)},clearSearch(){d.value=""},registerItem(l,c){var f,b;let p=Array.from((b=(f=r.value)==null?void 0:f.querySelectorAll('[id^="headlessui-menu-item-"]'))!=null?b:[]).reduce((m,g,S)=>Object.assign(m,{[g.id]:S}),{});s.value=[...s.value,{id:l,dataRef:c}].sort((m,g)=>p[m.id]-p[g.id])},unregisterItem(l){let c=s.value.slice(),p=a.value!==null?c[a.value]:null,f=c.findIndex(b=>b.id===l);f!==-1&&c.splice(f,1),s.value=c,a.value=(()=>f===a.value||p===null?null:c.indexOf(p))()}};return C("mousedown",l=>{var f,b,m;let c=l.target,p=document.activeElement;e.value===0&&(((f=v(o))==null?void 0:f.contains(c))||(((b=v(r))==null?void 0:b.contains(c))||i.closeMenu(),!(p!==document.body&&(p==null?void 0:p.contains(c)))&&(l.defaultPrevented||(m=v(o))==null||m.focus({preventScroll:!0}))))}),__vite_ssr_import_16__.provide(Nt,i),M(__vite_ssr_import_16__.computed(()=>T(e.value,{[0]:0,[1]:1}))),()=>{let l={open:e.value===0};return x({props:t,slot:l,slots:n,attrs:u,name:"Menu"})}}}),_a=__vite_ssr_import_16__.defineComponent({name:"MenuButton",props:{disabled:{type:Boolean,default:!1},as:{type:[Object,String],default:"button"}},setup(t,{attrs:n,slots:u}){let e=De("MenuButton"),o=`headlessui-menu-button-${h()}`;function r(i){switch(i.key){case" ":case"Enter":case"ArrowDown":i.preventDefault(),i.stopPropagation(),e.openMenu(),__vite_ssr_import_16__.nextTick(()=>{var l;(l=v(e.itemsRef))==null||l.focus({preventScroll:!0}),e.goToItem(0)});break;case"ArrowUp":i.preventDefault(),i.stopPropagation(),e.openMenu(),__vite_ssr_import_16__.nextTick(()=>{var l;(l=v(e.itemsRef))==null||l.focus({preventScroll:!0}),e.goToItem(3)});break}}function s(i){switch(i.key){case" ":i.preventDefault();break}}function d(i){t.disabled||(e.menuState.value===0?(e.closeMenu(),__vite_ssr_import_16__.nextTick(()=>{var l;return(l=v(e.buttonRef))==null?void 0:l.focus({preventScroll:!0})})):(i.preventDefault(),i.stopPropagation(),e.openMenu(),Rn(()=>{var l;return(l=v(e.itemsRef))==null?void 0:l.focus({preventScroll:!0})})))}let a=P(__vite_ssr_import_16__.computed(()=>({as:t.as,type:n.type})),e.buttonRef);return()=>{var c;let i={open:e.menuState.value===0},l={ref:e.buttonRef,id:o,type:a.value,"aria-haspopup":!0,"aria-controls":(c=v(e.itemsRef))==null?void 0:c.id,"aria-expanded":t.disabled?void 0:e.menuState.value===0,onKeydown:r,onKeyup:s,onClick:d};return x({props:{...t,...l},slot:i,attrs:n,slots:u,name:"MenuButton"})}}}),qa=__vite_ssr_import_16__.defineComponent({name:"MenuItems",props:{as:{type:[Object,String],default:"div"},static:{type:Boolean,default:!1},unmount:{type:Boolean,default:!0}},setup(t,{attrs:n,slots:u}){let e=De("MenuItems"),o=`headlessui-menu-items-${h()}`,r=__vite_ssr_import_16__.ref(null);Y({container:__vite_ssr_import_16__.computed(()=>v(e.itemsRef)),enabled:__vite_ssr_import_16__.computed(()=>e.menuState.value===0),accept(l){return l.getAttribute("role")==="menuitem"?NodeFilter.FILTER_REJECT:l.hasAttribute("role")?NodeFilter.FILTER_SKIP:NodeFilter.FILTER_ACCEPT},walk(l){l.setAttribute("role","none")}});function s(l){var c;switch(r.value&&clearTimeout(r.value),l.key){case" ":if(e.searchQuery.value!=="")return l.preventDefault(),l.stopPropagation(),e.search(l.key);case"Enter":if(l.preventDefault(),l.stopPropagation(),e.activeItemIndex.value!==null){let{id:p}=e.items.value[e.activeItemIndex.value];(c=document.getElementById(p))==null||c.click()}e.closeMenu(),__vite_ssr_import_16__.nextTick(()=>{var p;return(p=v(e.buttonRef))==null?void 0:p.focus({preventScroll:!0})});break;case"ArrowDown":return l.preventDefault(),l.stopPropagation(),e.goToItem(2);case"ArrowUp":return l.preventDefault(),l.stopPropagation(),e.goToItem(1);case"Home":case"PageUp":return l.preventDefault(),l.stopPropagation(),e.goToItem(0);case"End":case"PageDown":return l.preventDefault(),l.stopPropagation(),e.goToItem(3);case"Escape":l.preventDefault(),l.stopPropagation(),e.closeMenu(),__vite_ssr_import_16__.nextTick(()=>{var p;return(p=v(e.buttonRef))==null?void 0:p.focus({preventScroll:!0})});break;case"Tab":l.preventDefault(),l.stopPropagation();break;default:l.key.length===1&&(e.search(l.key),r.value=setTimeout(()=>e.clearSearch(),350));break}}function d(l){switch(l.key){case" ":l.preventDefault();break}}let a=I(),i=__vite_ssr_import_16__.computed(()=>a!==null?a.value===0:e.menuState.value===0);return()=>{var f,b;let l={open:e.menuState.value===0},c={"aria-activedescendant":e.activeItemIndex.value===null||(f=e.items.value[e.activeItemIndex.value])==null?void 0:f.id,"aria-labelledby":(b=v(e.buttonRef))==null?void 0:b.id,id:o,onKeydown:s,onKeyup:d,role:"menu",tabIndex:0,ref:e.itemsRef};return x({props:{...t,...c},slot:l,attrs:n,slots:u,features:1|2,visible:i.value,name:"MenuItems"})}}}),za=__vite_ssr_import_16__.defineComponent({name:"MenuItem",props:{as:{type:[Object,String],default:"template"},disabled:{type:Boolean,default:!1}},setup(t,{slots:n,attrs:u}){let e=De("MenuItem"),o=`headlessui-menu-item-${h()}`,r=__vite_ssr_import_16__.computed(()=>e.activeItemIndex.value!==null?e.items.value[e.activeItemIndex.value].id===o:!1),s=__vite_ssr_import_16__.ref({disabled:t.disabled,textValue:""});__vite_ssr_import_16__.onMounted(()=>{var p,f;let c=(f=(p=document.getElementById(o))==null?void 0:p.textContent)==null?void 0:f.toLowerCase().trim();c!==void 0&&(s.value.textValue=c)}),__vite_ssr_import_16__.onMounted(()=>e.registerItem(o,s)),__vite_ssr_import_16__.onUnmounted(()=>e.unregisterItem(o)),__vite_ssr_import_16__.watchEffect(()=>{e.menuState.value===0&&(!r.value||__vite_ssr_import_16__.nextTick(()=>{var c,p;return(p=(c=document.getElementById(o))==null?void 0:c.scrollIntoView)==null?void 0:p.call(c,{block:"nearest"})}))});function d(c){if(t.disabled)return c.preventDefault();e.closeMenu(),__vite_ssr_import_16__.nextTick(()=>{var p;return(p=v(e.buttonRef))==null?void 0:p.focus({preventScroll:!0})})}function a(){if(t.disabled)return e.goToItem(5);e.goToItem(4,o)}function i(){t.disabled||r.value||e.goToItem(4,o)}function l(){t.disabled||!r.value||e.goToItem(5)}return()=>{let{disabled:c}=t,p={active:r.value,disabled:c};return x({props:{...t,...{id:o,role:"menuitem",tabIndex:c===!0?void 0:-1,"aria-disabled":c===!0?!0:void 0,onClick:d,onFocus:a,onPointermove:i,onMousemove:i,onPointerleave:l,onMouseleave:l}},slot:p,attrs:u,slots:n,name:"MenuItem"})}}});const __vite_ssr_import_17__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-var Wt=Symbol("PopoverContext");function Le(t){let n=__vite_ssr_import_17__.inject(Wt,null);if(n===null){let u=new Error(`<${t} /> is missing a parent <${Cn.name} /> component.`);throw Error.captureStackTrace&&Error.captureStackTrace(u,Le),u}return n}var Ut=Symbol("PopoverGroupContext");function $t(){return __vite_ssr_import_17__.inject(Ut,null)}var Gt=Symbol("PopoverPanelContext");function On(){return __vite_ssr_import_17__.inject(Gt,null)}var Cn=__vite_ssr_import_17__.defineComponent({name:"Popover",props:{as:{type:[Object,String],default:"div"}},setup(t,{slots:n,attrs:u}){let e=`headlessui-popover-button-${h()}`,o=`headlessui-popover-panel-${h()}`,r=__vite_ssr_import_17__.ref(1),s=__vite_ssr_import_17__.ref(null),d=__vite_ssr_import_17__.ref(null),a={popoverState:r,buttonId:e,panelId:o,panel:d,button:s,togglePopover(){r.value=T(r.value,{[0]:1,[1]:0})},closePopover(){r.value!==1&&(r.value=1)},close(f){a.closePopover();let b=(()=>f?f instanceof HTMLElement?f:f.value instanceof HTMLElement?v(f):v(a.button):v(a.button))();b==null||b.focus()}};__vite_ssr_import_17__.provide(Wt,a),M(__vite_ssr_import_17__.computed(()=>T(r.value,{[0]:0,[1]:1})));let i={buttonId:e,panelId:o,close(){a.closePopover()}},l=$t(),c=l==null?void 0:l.registerPopover;function p(){var f,b,m;return(m=l==null?void 0:l.isFocusWithinPopoverGroup())!=null?m:((f=v(s))==null?void 0:f.contains(document.activeElement))||((b=v(d))==null?void 0:b.contains(document.activeElement))}return __vite_ssr_import_17__.watchEffect(()=>c==null?void 0:c(i)),C("focus",()=>{r.value===0&&(p()||!s||!d||a.closePopover())},!0),C("mousedown",f=>{var m,g,S;let b=f.target;r.value===0&&(((m=v(s))==null?void 0:m.contains(b))||((g=v(d))==null?void 0:g.contains(b))||(a.closePopover(),mt(b,1)||(f.preventDefault(),(S=v(s))==null||S.focus())))}),()=>{let f={open:r.value===0,close:a.close};return x({props:t,slot:f,slots:n,attrs:u,name:"Popover"})}}}),ui=__vite_ssr_import_17__.defineComponent({name:"PopoverButton",props:{as:{type:[Object,String],default:"button"},disabled:{type:[Boolean],default:!1}},setup(t,{attrs:n,slots:u}){let e=Le("PopoverButton"),o=$t(),r=o==null?void 0:o.closeOthers,s=On(),d=s===null?!1:s===e.panelId,a=__vite_ssr_import_17__.ref(null),i=__vite_ssr_import_17__.ref("undefined"=="undefined"?null:document.activeElement);C("focus",()=>{i.value=a.value,a.value=document.activeElement},!0);let l=__vite_ssr_import_17__.ref(null);d||__vite_ssr_import_17__.watchEffect(()=>{e.button.value=l.value});let c=P(__vite_ssr_import_17__.computed(()=>({as:t.as,type:n.type})),l);function p(m){var g,S,y,R;if(d){if(e.popoverState.value===1)return;switch(m.key){case" ":case"Enter":m.preventDefault(),m.stopPropagation(),e.closePopover(),(g=v(e.button))==null||g.focus();break}}else switch(m.key){case" ":case"Enter":m.preventDefault(),m.stopPropagation(),e.popoverState.value===1&&(r==null||r(e.buttonId)),e.togglePopover();break;case"Escape":if(e.popoverState.value!==0)return r==null?void 0:r(e.buttonId);if(!v(e.button)||!((S=v(e.button))==null?void 0:S.contains(document.activeElement)))return;m.preventDefault(),m.stopPropagation(),e.closePopover();break;case"Tab":if(e.popoverState.value!==0||!e.panel||!e.button)return;if(m.shiftKey){if(!i.value||((y=v(e.button))==null?void 0:y.contains(i.value))||((R=v(e.panel))==null?void 0:R.contains(i.value)))return;let E=ae(),D=E.indexOf(i.value);if(E.indexOf(v(e.button))>D)return;m.preventDefault(),m.stopPropagation(),O(v(e.panel),8)}else m.preventDefault(),m.stopPropagation(),O(v(e.panel),1);break}}function f(m){var g,S;if(!d&&(m.key===" "&&m.preventDefault(),e.popoverState.value===0&&!!e.panel&&!!e.button))switch(m.key){case"Tab":if(!i.value||((g=v(e.button))==null?void 0:g.contains(i.value))||((S=v(e.panel))==null?void 0:S.contains(i.value)))return;let y=ae(),R=y.indexOf(i.value);if(y.indexOf(v(e.button))>R)return;m.preventDefault(),m.stopPropagation(),O(v(e.panel),8);break}}function b(){var m,g;t.disabled||(d?(e.closePopover(),(m=v(e.button))==null||m.focus()):(e.popoverState.value===1&&(r==null||r(e.buttonId)),(g=v(e.button))==null||g.focus(),e.togglePopover()))}return()=>{let m={open:e.popoverState.value===0},g=d?{ref:l,type:c.value,onKeydown:p,onClick:b}:{ref:l,id:e.buttonId,type:c.value,"aria-expanded":t.disabled?void 0:e.popoverState.value===0,"aria-controls":v(e.panel)?e.panelId:void 0,disabled:t.disabled?!0:void 0,onKeydown:p,onKeyup:f,onClick:b};return x({props:{...t,...g},slot:m,attrs:n,slots:u,name:"PopoverButton"})}}}),si=__vite_ssr_import_17__.defineComponent({name:"PopoverOverlay",props:{as:{type:[Object,String],default:"div"},static:{type:Boolean,default:!1},unmount:{type:Boolean,default:!0}},setup(t,{attrs:n,slots:u}){let e=Le("PopoverOverlay"),o=`headlessui-popover-overlay-${h()}`,r=I(),s=__vite_ssr_import_17__.computed(()=>r!==null?r.value===0:e.popoverState.value===0);function d(){e.closePopover()}return()=>{let a={open:e.popoverState.value===0};return x({props:{...t,...{id:o,"aria-hidden":!0,onClick:d}},slot:a,attrs:n,slots:u,features:1|2,visible:s.value,name:"PopoverOverlay"})}}}),pi=__vite_ssr_import_17__.defineComponent({name:"PopoverPanel",props:{as:{type:[Object,String],default:"div"},static:{type:Boolean,default:!1},unmount:{type:Boolean,default:!0},focus:{type:Boolean,default:!1}},setup(t,{attrs:n,slots:u}){let{focus:e}=t,o=Le("PopoverPanel");__vite_ssr_import_17__.provide(Gt,o.panelId),__vite_ssr_import_17__.onUnmounted(()=>{o.panel.value=null}),__vite_ssr_import_17__.watchEffect(()=>{var i;if(!e||o.popoverState.value!==0||!o.panel)return;let a=document.activeElement;((i=v(o.panel))==null?void 0:i.contains(a))||O(v(o.panel),1)}),C("keydown",a=>{var l,c;if(o.popoverState.value!==0||!v(o.panel)||a.key!=="Tab"||!document.activeElement||!((l=v(o.panel))==null?void 0:l.contains(document.activeElement)))return;a.preventDefault();let i=O(v(o.panel),a.shiftKey?2:4);if(i===3)return(c=v(o.button))==null?void 0:c.focus();if(i===1){if(!v(o.button))return;let p=ae(),f=p.indexOf(v(o.button)),b=p.splice(f+1).filter(m=>{var g;return!((g=v(o.panel))==null?void 0:g.contains(m))});O(b,1)===0&&O(document.body,1)}}),C("focus",()=>{var a;!e||o.popoverState.value===0&&(!v(o.panel)||((a=v(o.panel))==null?void 0:a.contains(document.activeElement))||o.closePopover())},!0);let r=I(),s=__vite_ssr_import_17__.computed(()=>r!==null?r.value===0:o.popoverState.value===0);function d(a){var i,l;switch(a.key){case"Escape":if(o.popoverState.value!==0||!v(o.panel)||!((i=v(o.panel))==null?void 0:i.contains(document.activeElement)))return;a.preventDefault(),a.stopPropagation(),o.closePopover(),(l=v(o.button))==null||l.focus();break}}return()=>{let a={open:o.popoverState.value===0,close:o.close},i={ref:o.panel,id:o.panelId,onKeydown:d};return x({props:{...t,...i},slot:a,attrs:n,slots:u,features:1|2,visible:s.value,name:"PopoverPanel"})}}}),di=__vite_ssr_import_17__.defineComponent({name:"PopoverGroup",props:{as:{type:[Object,String],default:"div"}},setup(t,{attrs:n,slots:u}){let e=__vite_ssr_import_17__.ref(null),o=__vite_ssr_import_17__.ref([]);function r(i){let l=o.value.indexOf(i);l!==-1&&o.value.splice(l,1)}function s(i){return o.value.push(i),()=>{r(i)}}function d(){var l;let i=document.activeElement;return((l=v(e))==null?void 0:l.contains(i))?!0:o.value.some(c=>{var p,f;return((p=document.getElementById(c.buttonId))==null?void 0:p.contains(i))||((f=document.getElementById(c.panelId))==null?void 0:f.contains(i))})}function a(i){for(let l of o.value)l.buttonId!==i&&l.close()}return __vite_ssr_import_17__.provide(Ut,{registerPopover:s,unregisterPopover:r,isFocusWithinPopoverGroup:d,closeOthers:a}),()=>x({props:{...t,...{ref:e}},slot:{},attrs:n,slots:u,name:"PopoverGroup"})}});const __vite_ssr_import_18__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-const __vite_ssr_import_19__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-var _t=Symbol("LabelContext");function qt(){let t=__vite_ssr_import_19__.inject(_t,null);if(t===null){let n=new Error("You used a <Label /> component, but it is not inside a parent.");throw Error.captureStackTrace&&Error.captureStackTrace(n,qt),n}return t}function fe({slot:t={},name:n="Label",props:u={}}={}){let e=__vite_ssr_import_19__.ref([]);function o(r){return e.value.push(r),()=>{let s=e.value.indexOf(r);s!==-1&&e.value.splice(s,1)}}return __vite_ssr_import_19__.provide(_t,{register:o,slot:t,name:n,props:u}),__vite_ssr_import_19__.computed(()=>e.value.length>0?e.value.join(" "):void 0)}var Me=__vite_ssr_import_19__.defineComponent({name:"Label",props:{as:{type:[Object,String],default:"label"},passive:{type:[Boolean],default:!1}},setup(t,{slots:n,attrs:u}){let e=qt(),o=`headlessui-label-${h()}`;return __vite_ssr_import_19__.onMounted(()=>__vite_ssr_import_19__.onUnmounted(e.register(o))),()=>{let{name:r="Label",slot:s={},props:d={}}=e,{passive:a,...i}=t,l={...Object.entries(d).reduce((p,[f,b])=>Object.assign(p,{[f]:__vite_ssr_import_19__.unref(b)}),{}),id:o},c={...i,...l};return a&&delete c.onClick,x({props:c,slot:s,attrs:u,slots:n,name:r})}}});var Qt=Symbol("RadioGroupContext");function Jt(t){let n=__vite_ssr_import_18__.inject(Qt,null);if(n===null){let u=new Error(`<${t} /> is missing a parent <RadioGroup /> component.`);throw Error.captureStackTrace&&Error.captureStackTrace(u,Jt),u}return n}var wi=__vite_ssr_import_18__.defineComponent({name:"RadioGroup",emits:{"update:modelValue":t=>!0},props:{as:{type:[Object,String],default:"div"},disabled:{type:[Boolean],default:!1},modelValue:{type:[Object,String,Number,Boolean]}},setup(t,{emit:n,attrs:u,slots:e}){let o=__vite_ssr_import_18__.ref(null),r=__vite_ssr_import_18__.ref([]),s=fe({name:"RadioGroupLabel"}),d=G({name:"RadioGroupDescription"}),a=__vite_ssr_import_18__.computed(()=>t.modelValue),i={options:r,value:a,disabled:__vite_ssr_import_18__.computed(()=>t.disabled),firstOption:__vite_ssr_import_18__.computed(()=>r.value.find(p=>!p.propsRef.disabled)),containsCheckedOption:__vite_ssr_import_18__.computed(()=>r.value.some(p=>__vite_ssr_import_18__.toRaw(p.propsRef.value)===__vite_ssr_import_18__.toRaw(t.modelValue))),change(p){var b;if(t.disabled||a.value===p)return!1;let f=(b=r.value.find(m=>__vite_ssr_import_18__.toRaw(m.propsRef.value)===__vite_ssr_import_18__.toRaw(p)))==null?void 0:b.propsRef;return(f==null?void 0:f.disabled)?!1:(n("update:modelValue",p),!0)},registerOption(p){var b;let f=Array.from((b=o.value)==null?void 0:b.querySelectorAll('[id^="headlessui-radiogroup-option-"]')).reduce((m,g,S)=>Object.assign(m,{[g.id]:S}),{});r.value.push(p),r.value.sort((m,g)=>f[m.id]-f[g.id])},unregisterOption(p){let f=r.value.findIndex(b=>b.id===p);f!==-1&&r.value.splice(f,1)}};__vite_ssr_import_18__.provide(Qt,i),Y({container:__vite_ssr_import_18__.computed(()=>v(o)),accept(p){return p.getAttribute("role")==="radio"?NodeFilter.FILTER_REJECT:p.hasAttribute("role")?NodeFilter.FILTER_SKIP:NodeFilter.FILTER_ACCEPT},walk(p){p.setAttribute("role","none")}});function l(p){if(!o.value||!o.value.contains(p.target))return;let f=r.value.filter(b=>b.propsRef.disabled===!1).map(b=>b.element);switch(p.key){case"ArrowLeft":case"ArrowUp":if(p.preventDefault(),p.stopPropagation(),O(f,2|16)===2){let m=r.value.find(g=>g.element===document.activeElement);m&&i.change(m.propsRef.value)}break;case"ArrowRight":case"ArrowDown":if(p.preventDefault(),p.stopPropagation(),O(f,4|16)===2){let m=r.value.find(g=>g.element===document.activeElement);m&&i.change(m.propsRef.value)}break;case" ":{p.preventDefault(),p.stopPropagation();let b=r.value.find(m=>m.element===document.activeElement);b&&i.change(b.propsRef.value)}break}}let c=`headlessui-radiogroup-${h()}`;return()=>{let{modelValue:p,disabled:f,...b}=t,m={ref:o,id:c,role:"radiogroup","aria-labelledby":s.value,"aria-describedby":d.value,onKeydown:l};return x({props:{...b,...m},slot:{},attrs:u,slots:e,name:"RadioGroup"})}}});var Li=__vite_ssr_import_18__.defineComponent({name:"RadioGroupOption",props:{as:{type:[Object,String],default:"div"},value:{type:[Object,String,Number,Boolean]},disabled:{type:Boolean,default:!1}},setup(t,{attrs:n,slots:u}){let e=Jt("RadioGroupOption"),o=`headlessui-radiogroup-option-${h()}`,r=fe({name:"RadioGroupLabel"}),s=G({name:"RadioGroupDescription"}),d=__vite_ssr_import_18__.ref(null),a=__vite_ssr_import_18__.computed(()=>({value:t.value,disabled:t.disabled})),i=__vite_ssr_import_18__.ref(1);__vite_ssr_import_18__.onMounted(()=>e.registerOption({id:o,element:d,propsRef:a})),__vite_ssr_import_18__.onUnmounted(()=>e.unregisterOption(o));let l=__vite_ssr_import_18__.computed(()=>{var S;return((S=e.firstOption.value)==null?void 0:S.id)===o}),c=__vite_ssr_import_18__.computed(()=>e.disabled.value||t.disabled),p=__vite_ssr_import_18__.computed(()=>__vite_ssr_import_18__.toRaw(e.value.value)===__vite_ssr_import_18__.toRaw(t.value)),f=__vite_ssr_import_18__.computed(()=>c.value?-1:p.value||!e.containsCheckedOption.value&&l.value?0:-1);function b(){var S;!e.change(t.value)||(i.value|=2,(S=d.value)==null||S.focus())}function m(){i.value|=2}function g(){i.value&=~2}return()=>{let S=L(t,["value","disabled"]),y={checked:p.value,disabled:c.value,active:Boolean(i.value&2)},R={id:o,ref:d,role:"radio","aria-checked":p.value?"true":"false","aria-labelledby":r.value,"aria-describedby":s.value,"aria-disabled":c.value?!0:void 0,tabIndex:f.value,onClick:c.value?void 0:b,onFocus:c.value?void 0:m,onBlur:c.value?void 0:g};return x({props:{...S,...R},slot:y,attrs:n,slots:u,name:"RadioGroupOption"})}}}),Mi=Me,ki=ne;const __vite_ssr_import_20__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-var Zt=Symbol("GroupContext"),Ui=__vite_ssr_import_20__.defineComponent({name:"SwitchGroup",props:{as:{type:[Object,String],default:"template"}},setup(t,{slots:n,attrs:u}){let e=__vite_ssr_import_20__.ref(null),o=fe({name:"SwitchLabel",props:{onClick(){!e.value||(e.value.click(),e.value.focus({preventScroll:!0}))}}}),r=G({name:"SwitchDescription"});return __vite_ssr_import_20__.provide(Zt,{switchRef:e,labelledby:o,describedby:r}),()=>x({props:t,slot:{},slots:n,attrs:u,name:"SwitchGroup"})}}),$i=__vite_ssr_import_20__.defineComponent({name:"Switch",emits:{"update:modelValue":t=>!0},props:{as:{type:[Object,String],default:"button"},modelValue:{type:Boolean,default:!1}},setup(t,{emit:n,attrs:u,slots:e}){let o=__vite_ssr_import_20__.inject(Zt,null),r=`headlessui-switch-${h()}`;function s(){n("update:modelValue",!t.modelValue)}let d=__vite_ssr_import_20__.ref(null),a=o===null?d:o.switchRef,i=P(__vite_ssr_import_20__.computed(()=>({as:t.as,type:u.type})),a);function l(f){f.preventDefault(),s()}function c(f){f.key!=="Tab"&&f.preventDefault(),f.key===" "&&s()}function p(f){f.preventDefault()}return()=>{let f={checked:t.modelValue},b={id:r,ref:a,role:"switch",type:i.value,tabIndex:0,"aria-checked":t.modelValue,"aria-labelledby":o==null?void 0:o.labelledby.value,"aria-describedby":o==null?void 0:o.describedby.value,onClick:l,onKeyup:c,onKeypress:p};return x({props:{...t,...b},slot:f,attrs:u,slots:e,name:"Switch"})}}}),Gi=Me,_i=ne;const __vite_ssr_import_21__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-var oo=Symbol("TabsContext");function ve(t){let n=__vite_ssr_import_21__.inject(oo,null);if(n===null){let u=new Error(`<${t} /> is missing a parent <TabGroup /> component.`);throw Error.captureStackTrace&&Error.captureStackTrace(u,ve),u}return n}var nu=__vite_ssr_import_21__.defineComponent({name:"TabGroup",emits:{change:t=>!0},props:{as:{type:[Object,String],default:"template"},selectedIndex:{type:[Number],default:null},defaultIndex:{type:[Number],default:0},vertical:{type:[Boolean],default:!1},manual:{type:[Boolean],default:!1}},setup(t,{slots:n,attrs:u,emit:e}){let o=__vite_ssr_import_21__.ref(null),r=__vite_ssr_import_21__.ref([]),s=__vite_ssr_import_21__.ref([]),d={selectedIndex:o,orientation:__vite_ssr_import_21__.computed(()=>t.vertical?"vertical":"horizontal"),activation:__vite_ssr_import_21__.computed(()=>t.manual?"manual":"auto"),tabs:r,panels:s,setSelectedIndex(a){o.value!==a&&(o.value=a,e("change",a))},registerTab(a){r.value.includes(a)||r.value.push(a)},unregisterTab(a){let i=r.value.indexOf(a);i!==-1&&r.value.splice(i,1)},registerPanel(a){s.value.includes(a)||s.value.push(a)},unregisterPanel(a){let i=s.value.indexOf(a);i!==-1&&s.value.splice(i,1)}};return __vite_ssr_import_21__.provide(oo,d),__vite_ssr_import_21__.watchEffect(()=>{var c;if(d.tabs.value.length<=0||t.selectedIndex===null&&o.value!==null)return;let a=d.tabs.value.map(p=>v(p)).filter(Boolean),i=a.filter(p=>!p.hasAttribute("disabled")),l=(c=t.selectedIndex)!=null?c:t.defaultIndex;if(l<0)o.value=a.indexOf(i[0]);else if(l>d.tabs.value.length)o.value=a.indexOf(i[i.length-1]);else{let p=a.slice(0,l),b=[...a.slice(l),...p].find(m=>i.includes(m));if(!b)return;o.value=a.indexOf(b)}}),()=>{let a={selectedIndex:o.value};return x({props:L(t,["selectedIndex","defaultIndex","manual","vertical","onChange"]),slot:a,slots:n,attrs:u,name:"TabGroup"})}}}),lu=__vite_ssr_import_21__.defineComponent({name:"TabList",props:{as:{type:[Object,String],default:"div"}},setup(t,{attrs:n,slots:u}){let e=ve("TabList");return()=>{let o={selectedIndex:e.selectedIndex.value},r={role:"tablist","aria-orientation":e.orientation.value};return x({props:{...t,...r},slot:o,attrs:n,slots:u,name:"TabList"})}}}),ru=__vite_ssr_import_21__.defineComponent({name:"Tab",props:{as:{type:[Object,String],default:"button"},disabled:{type:[Boolean],default:!1}},setup(t,{attrs:n,slots:u}){let e=ve("Tab"),o=`headlessui-tabs-tab-${h()}`,r=__vite_ssr_import_21__.ref();__vite_ssr_import_21__.onMounted(()=>e.registerTab(r)),__vite_ssr_import_21__.onUnmounted(()=>e.unregisterTab(r));let s=__vite_ssr_import_21__.computed(()=>e.tabs.value.indexOf(r)),d=__vite_ssr_import_21__.computed(()=>s.value===e.selectedIndex.value);function a(p){let f=e.tabs.value.map(b=>v(b)).filter(Boolean);if(p.key===" "||p.key==="Enter"){p.preventDefault(),p.stopPropagation(),e.setSelectedIndex(s.value);return}switch(p.key){case"Home":case"PageUp":return p.preventDefault(),p.stopPropagation(),O(f,1);case"End":case"PageDown":return p.preventDefault(),p.stopPropagation(),O(f,8)}return T(e.orientation.value,{vertical(){if(p.key==="ArrowUp")return O(f,2|16);if(p.key==="ArrowDown")return O(f,4|16)},horizontal(){if(p.key==="ArrowLeft")return O(f,2|16);if(p.key==="ArrowRight")return O(f,4|16)}})}function i(){var p;(p=v(r))==null||p.focus()}function l(){var p;t.disabled||((p=v(r))==null||p.focus(),e.setSelectedIndex(s.value))}let c=P(__vite_ssr_import_21__.computed(()=>({as:t.as,type:n.type})),r);return()=>{var b,m;let p={selected:d.value},f={ref:r,onKeydown:a,onFocus:e.activation.value==="manual"?i:l,onClick:l,id:o,role:"tab",type:c.value,"aria-controls":(m=(b=e.panels.value[s.value])==null?void 0:b.value)==null?void 0:m.id,"aria-selected":d.value,tabIndex:d.value?0:-1,disabled:t.disabled?!0:void 0};return x({props:{...t,...f},slot:p,attrs:n,slots:u,name:"Tab"})}}}),au=__vite_ssr_import_21__.defineComponent({name:"TabPanels",props:{as:{type:[Object,String],default:"div"}},setup(t,{slots:n,attrs:u}){let e=ve("TabPanels");return()=>{let o={selectedIndex:e.selectedIndex.value};return x({props:t,slot:o,attrs:u,slots:n,name:"TabPanels"})}}}),iu=__vite_ssr_import_21__.defineComponent({name:"TabPanel",props:{as:{type:[Object,String],default:"div"},static:{type:Boolean,default:!1},unmount:{type:Boolean,default:!0}},setup(t,{attrs:n,slots:u}){let e=ve("TabPanel"),o=`headlessui-tabs-panel-${h()}`,r=__vite_ssr_import_21__.ref();__vite_ssr_import_21__.onMounted(()=>e.registerPanel(r)),__vite_ssr_import_21__.onUnmounted(()=>e.unregisterPanel(r));let s=__vite_ssr_import_21__.computed(()=>e.panels.value.indexOf(r)),d=__vite_ssr_import_21__.computed(()=>s.value===e.selectedIndex.value);return()=>{var l,c;let a={selected:d.value},i={ref:r,id:o,role:"tabpanel","aria-labelledby":(c=(l=e.tabs.value[s.value])==null?void 0:l.value)==null?void 0:c.id,tabIndex:d.value?0:-1};return x({props:{...t,...i},slot:a,attrs:n,slots:u,features:2|1,visible:d.value,name:"TabPanel"})}}});const __vite_ssr_import_22__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-function no(t){let n={called:!1};return(...u)=>{if(!n.called)return n.called=!0,t(...u)}}function Ze(){let t=[],n=[],u={enqueue(e){n.push(e)},requestAnimationFrame(...e){let o=requestAnimationFrame(...e);u.add(()=>cancelAnimationFrame(o))},nextFrame(...e){u.requestAnimationFrame(()=>{u.requestAnimationFrame(...e)})},setTimeout(...e){let o=setTimeout(...e);u.add(()=>clearTimeout(o))},add(e){t.push(e)},dispose(){for(let e of t.splice(0))e()},async workQueue(){for(let e of n.splice(0))await e()}};return u}function et(t,...n){t&&n.length>0&&t.classList.add(...n)}function Fe(t,...n){t&&n.length>0&&t.classList.remove(...n)}function $n(t,n){let u=Ze();if(!t)return u.dispose;let{transitionDuration:e,transitionDelay:o}=getComputedStyle(t),[r,s]=[e,o].map(d=>{let[a=0]=d.split(",").filter(Boolean).map(i=>i.includes("ms")?parseFloat(i):parseFloat(i)*1e3).sort((i,l)=>l-i);return a});return r!==0?u.setTimeout(()=>n("finished"),r+s):n("finished"),u.add(()=>n("cancelled")),u.dispose}function tt(t,n,u,e,o,r){let s=Ze(),d=r!==void 0?no(r):()=>{};return Fe(t,...o),et(t,...n,...u),s.nextFrame(()=>{Fe(t,...u),et(t,...e),s.add($n(t,a=>(Fe(t,...e,...n),et(t,...o),d(a))))}),s.add(()=>Fe(t,...n,...u,...e,...o)),s.add(()=>d("cancelled")),s.dispose}function Q(t=""){return t.split(" ").filter(n=>n.trim().length>1)}var lt=Symbol("TransitionContext");function _n(){return __vite_ssr_import_22__.inject(lt,null)!==null}function qn(){let t=__vite_ssr_import_22__.inject(lt,null);if(t===null)throw new Error("A <TransitionChild /> is used but it is missing a parent <TransitionRoot />.");return t}function zn(){let t=__vite_ssr_import_22__.inject(rt,null);if(t===null)throw new Error("A <TransitionChild /> is used but it is missing a parent <TransitionRoot />.");return t}var rt=Symbol("NestingContext");function He(t){return"children"in t?He(t.children):t.value.filter(({state:n})=>n==="visible").length>0}function io(t){let n=__vite_ssr_import_22__.ref([]),u=__vite_ssr_import_22__.ref(!1);__vite_ssr_import_22__.onMounted(()=>u.value=!0),__vite_ssr_import_22__.onUnmounted(()=>u.value=!1);function e(r,s=1){let d=n.value.findIndex(({id:a})=>a===r);d!==-1&&(T(s,{[0](){n.value.splice(d,1)},[1](){n.value[d].state="hidden"}}),!He(n)&&u.value&&(t==null||t()))}function o(r){let s=n.value.find(({id:d})=>d===r);return s?s.state!=="visible"&&(s.state="visible"):n.value.push({id:r,state:"visible"}),()=>e(r,0)}return{children:n,register:o,unregister:e}}var uo=1,Qn=__vite_ssr_import_22__.defineComponent({props:{as:{type:[Object,String],default:"div"},show:{type:[Boolean],default:null},unmount:{type:[Boolean],default:!0},appear:{type:[Boolean],default:!1},enter:{type:[String],default:""},enterFrom:{type:[String],default:""},enterTo:{type:[String],default:""},entered:{type:[String],default:""},leave:{type:[String],default:""},leaveFrom:{type:[String],default:""},leaveTo:{type:[String],default:""}},emits:{beforeEnter:()=>!0,afterEnter:()=>!0,beforeLeave:()=>!0,afterLeave:()=>!0},setup(t,{emit:n,attrs:u,slots:e}){if(!_n()&&it())return()=>__vite_ssr_import_22__.h(Yn,{...t,onBeforeEnter:()=>n("beforeEnter"),onAfterEnter:()=>n("afterEnter"),onBeforeLeave:()=>n("beforeLeave"),onAfterLeave:()=>n("afterLeave")},e);let o=__vite_ssr_import_22__.ref(null),r=__vite_ssr_import_22__.ref("visible"),s=__vite_ssr_import_22__.computed(()=>t.unmount?0:1),{show:d,appear:a}=qn(),{register:i,unregister:l}=zn(),c={value:!0},p=h(),f={value:!1},b=io(()=>{f.value||(r.value="hidden",l(p),n("afterLeave"))});__vite_ssr_import_22__.onMounted(()=>{let F=i(p);__vite_ssr_import_22__.onUnmounted(F)}),__vite_ssr_import_22__.watchEffect(()=>{if(s.value===1&&!!p){if(d&&r.value!=="visible"){r.value="visible";return}T(r.value,{hidden:()=>l(p),visible:()=>i(p)})}});let m=Q(t.enter),g=Q(t.enterFrom),S=Q(t.enterTo),y=Q(t.entered),R=Q(t.leave),E=Q(t.leaveFrom),D=Q(t.leaveTo);__vite_ssr_import_22__.onMounted(()=>{__vite_ssr_import_22__.watchEffect(()=>{if(r.value==="visible"){let F=v(o);if(F instanceof Comment&&F.data==="")throw new Error("Did you forget to passthrough the `ref` to the actual DOM node?")}})});function w(F){let xe=c.value&&!a.value,U=v(o);!U||!(U instanceof HTMLElement)||xe||(f.value=!0,d.value&&n("beforeEnter"),d.value||n("beforeLeave"),F(d.value?tt(U,m,g,S,y,ye=>{f.value=!1,ye==="finished"&&n("afterEnter")}):tt(U,R,E,D,y,ye=>{f.value=!1,ye==="finished"&&(He(b)||(r.value="hidden",l(p),n("afterLeave")))})))}return __vite_ssr_import_22__.onMounted(()=>{__vite_ssr_import_22__.watch([d,a],(F,xe,U)=>{w(U),c.value=!1},{immediate:!0})}),__vite_ssr_import_22__.provide(rt,b),M(__vite_ssr_import_22__.computed(()=>T(r.value,{visible:0,hidden:1}))),()=>{let{appear:F,show:xe,enter:U,enterFrom:ye,enterTo:Xn,entered:Zn,leave:el,leaveFrom:tl,leaveTo:ol,...so}=t;return x({props:{...so,...{ref:o}},slot:{},slots:e,attrs:u,features:uo,visible:r.value==="visible",name:"TransitionChild"})}}}),Jn=Qn,Yn=__vite_ssr_import_22__.defineComponent({inheritAttrs:!1,props:{as:{type:[Object,String],default:"div"},show:{type:[Boolean],default:null},unmount:{type:[Boolean],default:!0},appear:{type:[Boolean],default:!1},enter:{type:[String],default:""},enterFrom:{type:[String],default:""},enterTo:{type:[String],default:""},entered:{type:[String],default:""},leave:{type:[String],default:""},leaveFrom:{type:[String],default:""},leaveTo:{type:[String],default:""}},emits:{beforeEnter:()=>!0,afterEnter:()=>!0,beforeLeave:()=>!0,afterLeave:()=>!0},setup(t,{emit:n,attrs:u,slots:e}){let o=I(),r=__vite_ssr_import_22__.computed(()=>t.show===null&&o!==null?T(o.value,{[0]:!0,[1]:!1}):t.show);__vite_ssr_import_22__.watchEffect(()=>{if(![!0,!1].includes(r.value))throw new Error('A <Transition /> is used but it is missing a `:show="true | false"` prop.')});let s=__vite_ssr_import_22__.ref(r.value?"visible":"hidden"),d=io(()=>{s.value="hidden"}),a={value:!0},i={show:r,appear:__vite_ssr_import_22__.computed(()=>t.appear||!a.value)};return __vite_ssr_import_22__.onMounted(()=>{__vite_ssr_import_22__.watchEffect(()=>{a.value=!1,r.value?s.value="visible":He(d)||(s.value="hidden")})}),__vite_ssr_import_22__.provide(rt,d),__vite_ssr_import_22__.provide(lt,i),()=>{let l=L(t,["show","appear","unmount"]),c={unmount:t.unmount};return x({props:{...c,as:"template"},slot:{},slots:{...e,default:()=>[__vite_ssr_import_22__.h(Jn,{onBeforeEnter:()=>n("beforeEnter"),onAfterEnter:()=>n("afterEnter"),onBeforeLeave:()=>n("beforeLeave"),onAfterLeave:()=>n("afterLeave"),...u,...c,...l},e.default)]},attrs:{},features:uo,visible:s.value==="visible",name:"Transition"})}}});
-Object.defineProperty(__vite_ssr_exports__, "Combobox", { enumerable: true, configurable: true, get(){ return Vl }});
-Object.defineProperty(__vite_ssr_exports__, "ComboboxButton", { enumerable: true, configurable: true, get(){ return Wl }});
-Object.defineProperty(__vite_ssr_exports__, "ComboboxInput", { enumerable: true, configurable: true, get(){ return Ul }});
-Object.defineProperty(__vite_ssr_exports__, "ComboboxLabel", { enumerable: true, configurable: true, get(){ return Nl }});
-Object.defineProperty(__vite_ssr_exports__, "ComboboxOption", { enumerable: true, configurable: true, get(){ return Gl }});
-Object.defineProperty(__vite_ssr_exports__, "ComboboxOptions", { enumerable: true, configurable: true, get(){ return $l }});
-Object.defineProperty(__vite_ssr_exports__, "Dialog", { enumerable: true, configurable: true, get(){ return Gr }});
-Object.defineProperty(__vite_ssr_exports__, "DialogDescription", { enumerable: true, configurable: true, get(){ return zr }});
-Object.defineProperty(__vite_ssr_exports__, "DialogOverlay", { enumerable: true, configurable: true, get(){ return _r }});
-Object.defineProperty(__vite_ssr_exports__, "DialogTitle", { enumerable: true, configurable: true, get(){ return qr }});
-Object.defineProperty(__vite_ssr_exports__, "Disclosure", { enumerable: true, configurable: true, get(){ return ra }});
-Object.defineProperty(__vite_ssr_exports__, "DisclosureButton", { enumerable: true, configurable: true, get(){ return aa }});
-Object.defineProperty(__vite_ssr_exports__, "DisclosurePanel", { enumerable: true, configurable: true, get(){ return ia }});
-Object.defineProperty(__vite_ssr_exports__, "FocusTrap", { enumerable: true, configurable: true, get(){ return ca }});
-Object.defineProperty(__vite_ssr_exports__, "Listbox", { enumerable: true, configurable: true, get(){ return Ia }});
-Object.defineProperty(__vite_ssr_exports__, "ListboxButton", { enumerable: true, configurable: true, get(){ return Da }});
-Object.defineProperty(__vite_ssr_exports__, "ListboxLabel", { enumerable: true, configurable: true, get(){ return Pa }});
-Object.defineProperty(__vite_ssr_exports__, "ListboxOption", { enumerable: true, configurable: true, get(){ return La }});
-Object.defineProperty(__vite_ssr_exports__, "ListboxOptions", { enumerable: true, configurable: true, get(){ return wa }});
-Object.defineProperty(__vite_ssr_exports__, "Menu", { enumerable: true, configurable: true, get(){ return Ga }});
-Object.defineProperty(__vite_ssr_exports__, "MenuButton", { enumerable: true, configurable: true, get(){ return _a }});
-Object.defineProperty(__vite_ssr_exports__, "MenuItem", { enumerable: true, configurable: true, get(){ return za }});
-Object.defineProperty(__vite_ssr_exports__, "MenuItems", { enumerable: true, configurable: true, get(){ return qa }});
-Object.defineProperty(__vite_ssr_exports__, "Popover", { enumerable: true, configurable: true, get(){ return Cn }});
-Object.defineProperty(__vite_ssr_exports__, "PopoverButton", { enumerable: true, configurable: true, get(){ return ui }});
-Object.defineProperty(__vite_ssr_exports__, "PopoverGroup", { enumerable: true, configurable: true, get(){ return di }});
-Object.defineProperty(__vite_ssr_exports__, "PopoverOverlay", { enumerable: true, configurable: true, get(){ return si }});
-Object.defineProperty(__vite_ssr_exports__, "PopoverPanel", { enumerable: true, configurable: true, get(){ return pi }});
-Object.defineProperty(__vite_ssr_exports__, "Portal", { enumerable: true, configurable: true, get(){ return Pt }});
-Object.defineProperty(__vite_ssr_exports__, "PortalGroup", { enumerable: true, configurable: true, get(){ return wt }});
-Object.defineProperty(__vite_ssr_exports__, "RadioGroup", { enumerable: true, configurable: true, get(){ return wi }});
-Object.defineProperty(__vite_ssr_exports__, "RadioGroupDescription", { enumerable: true, configurable: true, get(){ return ki }});
-Object.defineProperty(__vite_ssr_exports__, "RadioGroupLabel", { enumerable: true, configurable: true, get(){ return Mi }});
-Object.defineProperty(__vite_ssr_exports__, "RadioGroupOption", { enumerable: true, configurable: true, get(){ return Li }});
-Object.defineProperty(__vite_ssr_exports__, "Switch", { enumerable: true, configurable: true, get(){ return $i }});
-Object.defineProperty(__vite_ssr_exports__, "SwitchDescription", { enumerable: true, configurable: true, get(){ return _i }});
-Object.defineProperty(__vite_ssr_exports__, "SwitchGroup", { enumerable: true, configurable: true, get(){ return Ui }});
-Object.defineProperty(__vite_ssr_exports__, "SwitchLabel", { enumerable: true, configurable: true, get(){ return Gi }});
-Object.defineProperty(__vite_ssr_exports__, "Tab", { enumerable: true, configurable: true, get(){ return ru }});
-Object.defineProperty(__vite_ssr_exports__, "TabGroup", { enumerable: true, configurable: true, get(){ return nu }});
-Object.defineProperty(__vite_ssr_exports__, "TabList", { enumerable: true, configurable: true, get(){ return lu }});
-Object.defineProperty(__vite_ssr_exports__, "TabPanel", { enumerable: true, configurable: true, get(){ return iu }});
-Object.defineProperty(__vite_ssr_exports__, "TabPanels", { enumerable: true, configurable: true, get(){ return au }});
-Object.defineProperty(__vite_ssr_exports__, "TransitionChild", { enumerable: true, configurable: true, get(){ return Qn }});
-Object.defineProperty(__vite_ssr_exports__, "TransitionRoot", { enumerable: true, configurable: true, get(){ return Yn }});
+
+
+var StackContext = /*#__PURE__*/Symbol('StackContext');
+var StackMessage;
+
+(function (StackMessage) {
+  StackMessage[StackMessage["AddElement"] = 0] = "AddElement";
+  StackMessage[StackMessage["RemoveElement"] = 1] = "RemoveElement";
+})(StackMessage || (StackMessage = {}));
+
+function useStackContext() {
+  return __vite_ssr_import_0__.inject(StackContext, function () {});
+}
+function useElemenStack(element) {
+  var notify = useStackContext();
+  __vite_ssr_import_0__.watchEffect(function (onInvalidate) {
+    var domElement = element == null ? void 0 : element.value;
+    if (!domElement) return;
+    notify(StackMessage.AddElement, domElement);
+    onInvalidate(function () {
+      return notify(StackMessage.RemoveElement, domElement);
+    });
+  });
+}
+function useStackProvider(onUpdate) {
+  var parentUpdate = useStackContext();
+
+  function notify() {
+    for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
+      args[_key] = arguments[_key];
+    }
+
+    // Notify our layer
+    onUpdate == null ? void 0 : onUpdate.apply(void 0, args); // Notify the parent
+
+    parentUpdate.apply(void 0, args);
+  }
+
+  __vite_ssr_import_0__.provide(StackContext, notify);
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "StackMessage", { enumerable: true, configurable: true, get(){ return StackMessage }});
+Object.defineProperty(__vite_ssr_exports__, "useElemenStack", { enumerable: true, configurable: true, get(){ return useElemenStack }});
+Object.defineProperty(__vite_ssr_exports__, "useStackContext", { enumerable: true, configurable: true, get(){ return useStackContext }});
+Object.defineProperty(__vite_ssr_exports__, "useStackProvider", { enumerable: true, configurable: true, get(){ return useStackProvider }});
+//# sourceMappingURL=stack-context.esm.js.map
 ;
 }
 
 
 // --------------------
-// Request: /utils/api.ts
+// Request: /node_modules/@headlessui/vue/dist/internal/portal-force-root.esm.js
 // Parents: 
-// - /pages/index.vue?macro=true ($id_5dd70240)
-// - /pages/index.vue ($id_cca58e97)
+// - /node_modules/@headlessui/vue/dist/components/portal/portal.esm.js ($id_6fee7f5c)
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
 // Dependencies: 
-// - /node_modules/nuxt3/dist/app/index.mjs ($id_d8c2af0f)
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
 // --------------------
-const $id_da3d18cd = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt3/dist/app/index.mjs");
-const baseURL = "http://dummy.restapiexample.com/api/v1";
-const getRequest = async () => {
-  return await __vite_ssr_import_0__.useLazyFetch("/employees", {
-    method: "GET",
-    baseURL
-  });
-};
-Object.defineProperty(__vite_ssr_exports__, "getRequest", { enumerable: true, configurable: true, get(){ return getRequest }});
-__vite_ssr_exports__.default = getRequest;
+const $id_c65cbc73 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+
+var ForcePortalRootContext = /*#__PURE__*/Symbol('ForcePortalRootContext');
+function usePortalRoot() {
+  return __vite_ssr_import_1__.inject(ForcePortalRootContext, false);
+}
+var ForcePortalRoot = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'ForcePortalRoot',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'template'
+    },
+    force: {
+      type: Boolean,
+      "default": false
+    }
+  },
+  setup: function setup(props, _ref) {
+    var slots = _ref.slots,
+        attrs = _ref.attrs;
+    __vite_ssr_import_1__.provide(ForcePortalRootContext, props.force);
+    return function () {
+      var passThroughProps = __vite_ssr_import_0__.objectWithoutPropertiesLoose(props, ["force"]);
+
+      return __vite_ssr_import_2__.render({
+        props: passThroughProps,
+        slot: {},
+        slots: slots,
+        attrs: attrs,
+        name: 'ForcePortalRoot'
+      });
+    };
+  }
+});
+
+
+Object.defineProperty(__vite_ssr_exports__, "ForcePortalRoot", { enumerable: true, configurable: true, get(){ return ForcePortalRoot }});
+Object.defineProperty(__vite_ssr_exports__, "usePortalRoot", { enumerable: true, configurable: true, get(){ return usePortalRoot }});
+//# sourceMappingURL=portal-force-root.esm.js.map
 ;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/match.esm.js ($id_a504e9df)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/keyboard.esm.js ($id_851f9aee)
+// - /node_modules/@headlessui/vue/dist/hooks/use-id.esm.js ($id_91b75316)
+// - /node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js ($id_d16ea418)
+// - /node_modules/@headlessui/vue/dist/internal/dom-containers.esm.js ($id_66dd9b95)
+// - /node_modules/@headlessui/vue/dist/hooks/use-focus-trap.esm.js ($id_ad390bd9)
+// - /node_modules/@headlessui/vue/dist/hooks/use-inert-others.esm.js ($id_a091c5e1)
+// - /node_modules/@headlessui/vue/dist/internal/stack-context.esm.js ($id_ff41f596)
+// - /node_modules/@headlessui/vue/dist/internal/portal-force-root.esm.js ($id_c65cbc73)
+// - /node_modules/@headlessui/vue/dist/components/portal/portal.esm.js ($id_6fee7f5c)
+// - /node_modules/@headlessui/vue/dist/components/description/description.esm.js ($id_35d2303d)
+// - /node_modules/@headlessui/vue/dist/utils/dom.esm.js ($id_2c50d6d0)
+// - /node_modules/@headlessui/vue/dist/internal/open-closed.esm.js ($id_11ac5a62)
+// --------------------
+const $id_f5f9290d = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/match.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/keyboard.esm.js");
+
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-id.esm.js");
+
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js");
+
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/internal/dom-containers.esm.js");
+
+const __vite_ssr_import_8__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-focus-trap.esm.js");
+
+const __vite_ssr_import_9__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-inert-others.esm.js");
+
+const __vite_ssr_import_10__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/internal/stack-context.esm.js");
+
+const __vite_ssr_import_11__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/internal/portal-force-root.esm.js");
+
+const __vite_ssr_import_12__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/portal/portal.esm.js");
+
+const __vite_ssr_import_13__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/description/description.esm.js");
+
+const __vite_ssr_import_14__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/dom.esm.js");
+
+const __vite_ssr_import_15__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/internal/open-closed.esm.js");
+
+
+var DialogStates;
+
+(function (DialogStates) {
+  DialogStates[DialogStates["Open"] = 0] = "Open";
+  DialogStates[DialogStates["Closed"] = 1] = "Closed";
+})(DialogStates || (DialogStates = {}));
+
+var DialogContext = /*#__PURE__*/Symbol('DialogContext');
+
+function useDialogContext(component) {
+  var context = __vite_ssr_import_1__.inject(DialogContext, null);
+
+  if (context === null) {
+    var err = new Error("<" + component + " /> is missing a parent <Dialog /> component.");
+    if (Error.captureStackTrace) Error.captureStackTrace(err, useDialogContext);
+    throw err;
+  }
+
+  return context;
+} // ---
+
+
+var Missing = 'DC8F892D-2EBD-447C-A4C8-A03058436FF4';
+var Dialog = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'Dialog',
+  inheritAttrs: false,
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    },
+    "static": {
+      type: Boolean,
+      "default": false
+    },
+    unmount: {
+      type: Boolean,
+      "default": true
+    },
+    open: {
+      type: [Boolean, String],
+      "default": Missing
+    },
+    initialFocus: {
+      type: Object,
+      "default": null
+    }
+  },
+  emits: {
+    close: function close(_close) {
+      return true;
+    }
+  },
+  render: function render$1() {
+    var _this = this;
+
+    var propsWeControl = __vite_ssr_import_0__.extends({}, this.$attrs, {
+      ref: 'el',
+      id: this.id,
+      role: 'dialog',
+      'aria-modal': this.dialogState === DialogStates.Open ? true : undefined,
+      'aria-labelledby': this.titleId,
+      'aria-describedby': this.describedby,
+      onClick: this.handleClick
+    });
+
+    var _this$$props = this.$props,
+        passThroughProps = __vite_ssr_import_0__.objectWithoutPropertiesLoose(_this$$props, ["open", "initialFocus"]);
+
+    var slot = {
+      open: this.dialogState === DialogStates.Open
+    };
+    return __vite_ssr_import_1__.h(__vite_ssr_import_11__.ForcePortalRoot, {
+      force: true
+    }, function () {
+      return __vite_ssr_import_1__.h(__vite_ssr_import_12__.Portal, function () {
+        return __vite_ssr_import_1__.h(__vite_ssr_import_12__.PortalGroup, {
+          target: _this.dialogRef
+        }, function () {
+          return __vite_ssr_import_1__.h(__vite_ssr_import_11__.ForcePortalRoot, {
+            force: false
+          }, function () {
+            return __vite_ssr_import_3__.render({
+              props: __vite_ssr_import_0__.extends({}, passThroughProps, propsWeControl),
+              slot: slot,
+              attrs: _this.$attrs,
+              slots: _this.$slots,
+              visible: _this.visible,
+              features: __vite_ssr_import_3__.Features.RenderStrategy | __vite_ssr_import_3__.Features.Static,
+              name: 'Dialog'
+            });
+          });
+        });
+      });
+    });
+  },
+  setup: function setup(props, _ref) {
+    var emit = _ref.emit;
+    var containers = __vite_ssr_import_1__.ref(new Set());
+    var usesOpenClosedState = __vite_ssr_import_15__.useOpenClosed();
+    var open = __vite_ssr_import_1__.computed(function () {
+      if (props.open === Missing && usesOpenClosedState !== null) {
+        var _match;
+
+        // Update the `open` prop based on the open closed state
+        return __vite_ssr_import_2__.match(usesOpenClosedState.value, (_match = {}, _match[__vite_ssr_import_15__.State.Open] = true, _match[__vite_ssr_import_15__.State.Closed] = false, _match));
+      }
+
+      return props.open;
+    }); // Validations
+
+    var hasOpen = props.open !== Missing || usesOpenClosedState !== null;
+
+    if (!hasOpen) {
+      throw new Error("You forgot to provide an `open` prop to the `Dialog`.");
+    }
+
+    if (typeof open.value !== 'boolean') {
+      throw new Error("You provided an `open` prop to the `Dialog`, but the value is not a boolean. Received: " + (open.value === Missing ? undefined : props.open));
+    }
+
+    var dialogState = __vite_ssr_import_1__.computed(function () {
+      return props.open ? DialogStates.Open : DialogStates.Closed;
+    });
+    var visible = __vite_ssr_import_1__.computed(function () {
+      if (usesOpenClosedState !== null) {
+        return usesOpenClosedState.value === __vite_ssr_import_15__.State.Open;
+      }
+
+      return dialogState.value === DialogStates.Open;
+    });
+    var internalDialogRef = __vite_ssr_import_1__.ref(null);
+    var enabled = __vite_ssr_import_1__.ref(dialogState.value === DialogStates.Open);
+    __vite_ssr_import_1__.onUpdated(function () {
+      enabled.value = dialogState.value === DialogStates.Open;
+    });
+    var id = "headlessui-dialog-" + __vite_ssr_import_5__.useId();
+    var focusTrapOptions = __vite_ssr_import_1__.computed(function () {
+      return {
+        initialFocus: props.initialFocus
+      };
+    });
+    __vite_ssr_import_8__.useFocusTrap(containers, enabled, focusTrapOptions);
+    __vite_ssr_import_9__.useInertOthers(internalDialogRef, enabled);
+    __vite_ssr_import_10__.useStackProvider(function (message, element) {
+      var _match2;
+
+      return __vite_ssr_import_2__.match(message, (_match2 = {}, _match2[__vite_ssr_import_10__.StackMessage.AddElement] = function () {
+        containers.value.add(element);
+      }, _match2[__vite_ssr_import_10__.StackMessage.RemoveElement] = function () {
+        containers.value["delete"](element);
+      }, _match2));
+    });
+    var describedby = __vite_ssr_import_13__.useDescriptions({
+      name: 'DialogDescription',
+      slot: __vite_ssr_import_1__.computed(function () {
+        return {
+          open: open.value
+        };
+      })
+    });
+    var titleId = __vite_ssr_import_1__.ref(null);
+    var api = {
+      titleId: titleId,
+      dialogState: dialogState,
+      setTitleId: function setTitleId(id) {
+        if (titleId.value === id) return;
+        titleId.value = id;
+      },
+      close: function close() {
+        emit('close', false);
+      }
+    };
+    __vite_ssr_import_1__.provide(DialogContext, api); // Handle outside click
+
+    __vite_ssr_import_6__.useWindowEvent('mousedown', function (event) {
+      var target = event.target;
+      if (dialogState.value !== DialogStates.Open) return;
+      if (containers.value.size !== 1) return;
+      if (__vite_ssr_import_7__.contains(containers.value, target)) return;
+      api.close();
+      __vite_ssr_import_1__.nextTick(function () {
+        return target == null ? void 0 : target.focus();
+      });
+    }); // Handle `Escape` to close
+
+    __vite_ssr_import_6__.useWindowEvent('keydown', function (event) {
+      if (event.key !== __vite_ssr_import_4__.Keys.Escape) return;
+      if (dialogState.value !== DialogStates.Open) return;
+      if (containers.value.size > 1) return; // 1 is myself, otherwise other elements in the Stack
+
+      event.preventDefault();
+      event.stopPropagation();
+      api.close();
+    }); // Scroll lock
+
+    __vite_ssr_import_1__.watchEffect(function (onInvalidate) {
+      if (dialogState.value !== DialogStates.Open) return;
+      var overflow = document.documentElement.style.overflow;
+      var paddingRight = document.documentElement.style.paddingRight;
+      var scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
+      document.documentElement.style.overflow = 'hidden';
+      document.documentElement.style.paddingRight = scrollbarWidth + "px";
+      onInvalidate(function () {
+        document.documentElement.style.overflow = overflow;
+        document.documentElement.style.paddingRight = paddingRight;
+      });
+    }); // Trigger close when the FocusTrap gets hidden
+
+    __vite_ssr_import_1__.watchEffect(function (onInvalidate) {
+      if (dialogState.value !== DialogStates.Open) return;
+      var container = __vite_ssr_import_14__.dom(internalDialogRef);
+      if (!container) return;
+      var observer = new IntersectionObserver(function (entries) {
+        for (var _iterator = __vite_ssr_import_0__.createForOfIteratorHelperLoose(entries), _step; !(_step = _iterator()).done;) {
+          var entry = _step.value;
+
+          if (entry.boundingClientRect.x === 0 && entry.boundingClientRect.y === 0 && entry.boundingClientRect.width === 0 && entry.boundingClientRect.height === 0) {
+            api.close();
+          }
+        }
+      });
+      observer.observe(container);
+      onInvalidate(function () {
+        return observer.disconnect();
+      });
+    });
+    return {
+      id: id,
+      el: internalDialogRef,
+      dialogRef: internalDialogRef,
+      containers: containers,
+      dialogState: dialogState,
+      titleId: titleId,
+      describedby: describedby,
+      visible: visible,
+      open: open,
+      handleClick: function handleClick(event) {
+        event.stopPropagation();
+      }
+    };
+  }
+}); // ---
+
+var DialogOverlay = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'DialogOverlay',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    }
+  },
+  render: function render$1() {
+    var api = useDialogContext('DialogOverlay');
+    var propsWeControl = {
+      ref: 'el',
+      id: this.id,
+      'aria-hidden': true,
+      onClick: this.handleClick
+    };
+    var passThroughProps = this.$props;
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, passThroughProps, propsWeControl),
+      slot: {
+        open: api.dialogState.value === DialogStates.Open
+      },
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'DialogOverlay'
+    });
+  },
+  setup: function setup() {
+    var api = useDialogContext('DialogOverlay');
+    var id = "headlessui-dialog-overlay-" + __vite_ssr_import_5__.useId();
+    return {
+      id: id,
+      handleClick: function handleClick(event) {
+        if (event.target !== event.currentTarget) return;
+        event.preventDefault();
+        event.stopPropagation();
+        api.close();
+      }
+    };
+  }
+}); // ---
+
+var DialogTitle = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'DialogTitle',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'h2'
+    }
+  },
+  render: function render$1() {
+    var api = useDialogContext('DialogTitle');
+    var propsWeControl = {
+      id: this.id
+    };
+    var passThroughProps = this.$props;
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, passThroughProps, propsWeControl),
+      slot: {
+        open: api.dialogState.value === DialogStates.Open
+      },
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'DialogTitle'
+    });
+  },
+  setup: function setup() {
+    var api = useDialogContext('DialogTitle');
+    var id = "headlessui-dialog-title-" + __vite_ssr_import_5__.useId();
+    __vite_ssr_import_1__.onMounted(function () {
+      api.setTitleId(id);
+      __vite_ssr_import_1__.onUnmounted(function () {
+        return api.setTitleId(null);
+      });
+    });
+    return {
+      id: id
+    };
+  }
+}); // ---
+
+var DialogDescription = __vite_ssr_import_13__.Description;
+
+
+Object.defineProperty(__vite_ssr_exports__, "Dialog", { enumerable: true, configurable: true, get(){ return Dialog }});
+Object.defineProperty(__vite_ssr_exports__, "DialogDescription", { enumerable: true, configurable: true, get(){ return DialogDescription }});
+Object.defineProperty(__vite_ssr_exports__, "DialogOverlay", { enumerable: true, configurable: true, get(){ return DialogOverlay }});
+Object.defineProperty(__vite_ssr_exports__, "DialogTitle", { enumerable: true, configurable: true, get(){ return DialogTitle }});
+//# sourceMappingURL=dialog.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/keyboard.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/hooks/use-focus-trap.esm.js ($id_ad390bd9)
+// - /node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js ($id_658d32c3)
+// - /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js ($id_aeffb558)
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// - /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js ($id_a655584d)
+// - /node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js ($id_f293a83d)
+// - /node_modules/@headlessui/vue/dist/components/switch/switch.esm.js ($id_4ec2ab7a)
+// - /node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js ($id_f55023ef)
+// Dependencies: 
+
+// --------------------
+const $id_851f9aee = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+// TODO: This must already exist somewhere, right? 🤔
+// Ref: https://www.w3.org/TR/uievents-key/#named-key-attribute-values
+var Keys;
+
+(function (Keys) {
+  Keys["Space"] = " ";
+  Keys["Enter"] = "Enter";
+  Keys["Escape"] = "Escape";
+  Keys["Backspace"] = "Backspace";
+  Keys["ArrowLeft"] = "ArrowLeft";
+  Keys["ArrowUp"] = "ArrowUp";
+  Keys["ArrowRight"] = "ArrowRight";
+  Keys["ArrowDown"] = "ArrowDown";
+  Keys["Home"] = "Home";
+  Keys["End"] = "End";
+  Keys["PageUp"] = "PageUp";
+  Keys["PageDown"] = "PageDown";
+  Keys["Tab"] = "Tab";
+})(Keys || (Keys = {}));
+
+
+Object.defineProperty(__vite_ssr_exports__, "Keys", { enumerable: true, configurable: true, get(){ return Keys }});
+//# sourceMappingURL=keyboard.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/hooks/use-id.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/components/description/description.esm.js ($id_35d2303d)
+// - /node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js ($id_658d32c3)
+// - /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js ($id_aeffb558)
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// - /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js ($id_a655584d)
+// - /node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js ($id_f293a83d)
+// - /node_modules/@headlessui/vue/dist/components/label/label.esm.js ($id_b1e73183)
+// - /node_modules/@headlessui/vue/dist/components/switch/switch.esm.js ($id_4ec2ab7a)
+// - /node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js ($id_f55023ef)
+// - /node_modules/@headlessui/vue/dist/components/transitions/transition.esm.js ($id_bf02b578)
+// Dependencies: 
+
+// --------------------
+const $id_91b75316 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+var id = 0;
+
+function generateId() {
+  return ++id;
+}
+
+function useId() {
+  return generateId();
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "useId", { enumerable: true, configurable: true, get(){ return useId }});
+//# sourceMappingURL=use-id.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/hooks/use-focus-trap.esm.js ($id_ad390bd9)
+// - /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js ($id_aeffb558)
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// - /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js ($id_a655584d)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// --------------------
+const $id_d16ea418 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+
+function useWindowEvent(type, listener, options) {
+  if ("undefined" === 'undefined') return;
+  __vite_ssr_import_0__.watchEffect(function (onInvalidate) {
+    window.addEventListener(type, listener, options);
+    onInvalidate(function () {
+      window.removeEventListener(type, listener, options);
+    });
+  });
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "useWindowEvent", { enumerable: true, configurable: true, get(){ return useWindowEvent }});
+//# sourceMappingURL=use-window-event.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/internal/dom-containers.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/hooks/use-focus-trap.esm.js ($id_ad390bd9)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// --------------------
+const $id_66dd9b95 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+
+function contains(containers, element) {
+  for (var _iterator = __vite_ssr_import_0__.createForOfIteratorHelperLoose(containers), _step; !(_step = _iterator()).done;) {
+    var container = _step.value;
+    if (container.contains(element)) return true;
+  }
+
+  return false;
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "contains", { enumerable: true, configurable: true, get(){ return contains }});
+//# sourceMappingURL=dom-containers.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/hooks/use-focus-trap.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/components/focus-trap/focus-trap.esm.js ($id_12d79ec1)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/keyboard.esm.js ($id_851f9aee)
+// - /node_modules/@headlessui/vue/dist/utils/focus-management.esm.js ($id_bcffe35d)
+// - /node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js ($id_d16ea418)
+// - /node_modules/@headlessui/vue/dist/internal/dom-containers.esm.js ($id_66dd9b95)
+// --------------------
+const $id_ad390bd9 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/keyboard.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/focus-management.esm.js");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js");
+
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/internal/dom-containers.esm.js");
+
+
+function useFocusTrap(containers, enabled, options) {
+  if (enabled === void 0) {
+    enabled = __vite_ssr_import_1__.ref(true);
+  }
+
+  if (options === void 0) {
+    options = __vite_ssr_import_1__.ref({});
+  }
+
+  var restoreElement = __vite_ssr_import_1__.ref("undefined" !== 'undefined' ? document.activeElement : null);
+  var previousActiveElement = __vite_ssr_import_1__.ref(null);
+
+  function handleFocus() {
+    if (!enabled.value) return;
+    if (containers.value.size !== 1) return;
+    var initialFocus = options.value.initialFocus;
+    var activeElement = document.activeElement;
+
+    if (initialFocus) {
+      if (initialFocus === activeElement) {
+        return; // Initial focus ref is already the active element
+      }
+    } else if (__vite_ssr_import_5__.contains(containers.value, activeElement)) {
+      return; // Already focused within Dialog
+    }
+
+    restoreElement.value = activeElement; // Try to focus the initialFocus ref
+
+    if (initialFocus) {
+      __vite_ssr_import_3__.focusElement(initialFocus);
+    } else {
+      var couldFocus = false;
+
+      for (var _iterator = __vite_ssr_import_0__.createForOfIteratorHelperLoose(containers.value), _step; !(_step = _iterator()).done;) {
+        var container = _step.value;
+        var result = __vite_ssr_import_3__.focusIn(container, __vite_ssr_import_3__.Focus.First);
+
+        if (result === __vite_ssr_import_3__.FocusResult.Success) {
+          couldFocus = true;
+          break;
+        }
+      }
+
+      if (!couldFocus) console.warn('There are no focusable elements inside the <FocusTrap />');
+    }
+
+    previousActiveElement.value = document.activeElement;
+  } // Restore when `enabled` becomes false
+
+
+  function restore() {
+    __vite_ssr_import_3__.focusElement(restoreElement.value);
+    restoreElement.value = null;
+    previousActiveElement.value = null;
+  } // Handle initial focus
+
+
+  __vite_ssr_import_1__.watchEffect(handleFocus);
+  __vite_ssr_import_1__.onUpdated(function () {
+    enabled.value ? handleFocus() : restore();
+  });
+  __vite_ssr_import_1__.onUnmounted(restore); // Handle Tab & Shift+Tab keyboard events
+
+  __vite_ssr_import_4__.useWindowEvent('keydown', function (event) {
+    if (!enabled.value) return;
+    if (event.key !== __vite_ssr_import_2__.Keys.Tab) return;
+    if (!document.activeElement) return;
+    if (containers.value.size !== 1) return;
+    event.preventDefault();
+
+    for (var _iterator2 = __vite_ssr_import_0__.createForOfIteratorHelperLoose(containers.value), _step2; !(_step2 = _iterator2()).done;) {
+      var element = _step2.value;
+      var result = __vite_ssr_import_3__.focusIn(element, (event.shiftKey ? __vite_ssr_import_3__.Focus.Previous : __vite_ssr_import_3__.Focus.Next) | __vite_ssr_import_3__.Focus.WrapAround);
+
+      if (result === __vite_ssr_import_3__.FocusResult.Success) {
+        previousActiveElement.value = document.activeElement;
+        break;
+      }
+    }
+  }); // Prevent programmatically escaping
+
+  __vite_ssr_import_4__.useWindowEvent('focus', function (event) {
+    if (!enabled.value) return;
+    if (containers.value.size !== 1) return;
+    var previous = previousActiveElement.value;
+    if (!previous) return;
+    var toElement = event.target;
+
+    if (toElement && toElement instanceof HTMLElement) {
+      if (!__vite_ssr_import_5__.contains(containers.value, toElement)) {
+        event.preventDefault();
+        event.stopPropagation();
+        __vite_ssr_import_3__.focusElement(previous);
+      } else {
+        previousActiveElement.value = toElement;
+        __vite_ssr_import_3__.focusElement(toElement);
+      }
+    } else {
+      __vite_ssr_import_3__.focusElement(previousActiveElement.value);
+    }
+  }, true);
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "useFocusTrap", { enumerable: true, configurable: true, get(){ return useFocusTrap }});
+//# sourceMappingURL=use-focus-trap.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/utils/focus-management.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/hooks/use-focus-trap.esm.js ($id_ad390bd9)
+// - /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js ($id_a655584d)
+// - /node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js ($id_f293a83d)
+// - /node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js ($id_f55023ef)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/utils/match.esm.js ($id_a504e9df)
+// --------------------
+const $id_bcffe35d = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/match.esm.js");
+
+
+//  - https://stackoverflow.com/a/30753870
+
+var focusableSelector = /*#__PURE__*/['[contentEditable=true]', '[tabindex]', 'a[href]', 'area[href]', 'button:not([disabled])', 'iframe', 'input:not([disabled])', 'select:not([disabled])', 'textarea:not([disabled])'].map(process.env.NODE_ENV === 'test' ? // TODO: Remove this once JSDOM fixes the issue where an element that is
+// "hidden" can be the document.activeElement, because this is not possible
+// in real browsers.
+// TODO: Remove this once JSDOM fixes the issue where an element that is
+function (selector) {
+  return selector + ":not([tabindex='-1']):not([style*='display: none'])";
+} : function (selector) {
+  return selector + ":not([tabindex='-1'])";
+}).join(',');
+var Focus;
+
+(function (Focus) {
+  /** Focus the first non-disabled element */
+  Focus[Focus["First"] = 1] = "First";
+  /** Focus the previous non-disabled element */
+
+  Focus[Focus["Previous"] = 2] = "Previous";
+  /** Focus the next non-disabled element */
+
+  Focus[Focus["Next"] = 4] = "Next";
+  /** Focus the last non-disabled element */
+
+  Focus[Focus["Last"] = 8] = "Last";
+  /** Wrap tab around */
+
+  Focus[Focus["WrapAround"] = 16] = "WrapAround";
+  /** Prevent scrolling the focusable elements into view */
+
+  Focus[Focus["NoScroll"] = 32] = "NoScroll";
+})(Focus || (Focus = {}));
+
+var FocusResult;
+
+(function (FocusResult) {
+  FocusResult[FocusResult["Error"] = 0] = "Error";
+  FocusResult[FocusResult["Overflow"] = 1] = "Overflow";
+  FocusResult[FocusResult["Success"] = 2] = "Success";
+  FocusResult[FocusResult["Underflow"] = 3] = "Underflow";
+})(FocusResult || (FocusResult = {}));
+
+var Direction;
+
+(function (Direction) {
+  Direction[Direction["Previous"] = -1] = "Previous";
+  Direction[Direction["Next"] = 1] = "Next";
+})(Direction || (Direction = {}));
+
+function getFocusableElements(container) {
+  if (container === void 0) {
+    container = document.body;
+  }
+
+  if (container == null) return [];
+  return Array.from(container.querySelectorAll(focusableSelector));
+}
+var FocusableMode;
+
+(function (FocusableMode) {
+  /** The element itself must be focusable. */
+  FocusableMode[FocusableMode["Strict"] = 0] = "Strict";
+  /** The element should be inside of a focusable element. */
+
+  FocusableMode[FocusableMode["Loose"] = 1] = "Loose";
+})(FocusableMode || (FocusableMode = {}));
+
+function isFocusableElement(element, mode) {
+  var _match;
+
+  if (mode === void 0) {
+    mode = FocusableMode.Strict;
+  }
+
+  if (element === document.body) return false;
+  return __vite_ssr_import_0__.match(mode, (_match = {}, _match[FocusableMode.Strict] = function () {
+    return element.matches(focusableSelector);
+  }, _match[FocusableMode.Loose] = function () {
+    var next = element;
+
+    while (next !== null) {
+      if (next.matches(focusableSelector)) return true;
+      next = next.parentElement;
+    }
+
+    return false;
+  }, _match));
+}
+function focusElement(element) {
+  element == null ? void 0 : element.focus({
+    preventScroll: true
+  });
+}
+function focusIn(container, focus) {
+  var elements = Array.isArray(container) ? container.slice().sort(function (a, b) {
+    var position = a.compareDocumentPosition(b);
+    if (position & Node.DOCUMENT_POSITION_FOLLOWING) return -1;
+    if (position & Node.DOCUMENT_POSITION_PRECEDING) return 1;
+    return 0;
+  }) : getFocusableElements(container);
+  var active = document.activeElement;
+
+  var direction = function () {
+    if (focus & (Focus.First | Focus.Next)) return Direction.Next;
+    if (focus & (Focus.Previous | Focus.Last)) return Direction.Previous;
+    throw new Error('Missing Focus.First, Focus.Previous, Focus.Next or Focus.Last');
+  }();
+
+  var startIndex = function () {
+    if (focus & Focus.First) return 0;
+    if (focus & Focus.Previous) return Math.max(0, elements.indexOf(active)) - 1;
+    if (focus & Focus.Next) return Math.max(0, elements.indexOf(active)) + 1;
+    if (focus & Focus.Last) return elements.length - 1;
+    throw new Error('Missing Focus.First, Focus.Previous, Focus.Next or Focus.Last');
+  }();
+
+  var focusOptions = focus & Focus.NoScroll ? {
+    preventScroll: true
+  } : {};
+  var offset = 0;
+  var total = elements.length;
+  var next = undefined;
+
+  do {
+    var _next;
+
+    // Guard against infinite loops
+    if (offset >= total || offset + total <= 0) return FocusResult.Error;
+    var nextIdx = startIndex + offset;
+
+    if (focus & Focus.WrapAround) {
+      nextIdx = (nextIdx + total) % total;
+    } else {
+      if (nextIdx < 0) return FocusResult.Underflow;
+      if (nextIdx >= total) return FocusResult.Overflow;
+    }
+
+    next = elements[nextIdx]; // Try the focus the next element, might not work if it is "hidden" to the user.
+
+    (_next = next) == null ? void 0 : _next.focus(focusOptions); // Try the next one in line
+
+    offset += direction;
+  } while (next !== document.activeElement); // This is a little weird, but let me try and explain: There are a few scenario's
+  // in chrome for example where a focused `<a>` tag does not get the default focus
+  // styles and sometimes they do. This highly depends on whether you started by
+  // clicking or by using your keyboard. When you programmatically add focus `anchor.focus()`
+  // then the active element (document.activeElement) is this anchor, which is expected.
+  // However in that case the default focus styles are not applied *unless* you
+  // also add this tabindex.
+
+
+  if (!next.hasAttribute('tabindex')) next.setAttribute('tabindex', '0');
+  return FocusResult.Success;
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "Focus", { enumerable: true, configurable: true, get(){ return Focus }});
+Object.defineProperty(__vite_ssr_exports__, "FocusResult", { enumerable: true, configurable: true, get(){ return FocusResult }});
+Object.defineProperty(__vite_ssr_exports__, "FocusableMode", { enumerable: true, configurable: true, get(){ return FocusableMode }});
+Object.defineProperty(__vite_ssr_exports__, "focusElement", { enumerable: true, configurable: true, get(){ return focusElement }});
+Object.defineProperty(__vite_ssr_exports__, "focusIn", { enumerable: true, configurable: true, get(){ return focusIn }});
+Object.defineProperty(__vite_ssr_exports__, "getFocusableElements", { enumerable: true, configurable: true, get(){ return getFocusableElements }});
+Object.defineProperty(__vite_ssr_exports__, "isFocusableElement", { enumerable: true, configurable: true, get(){ return isFocusableElement }});
+//# sourceMappingURL=focus-management.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/hooks/use-inert-others.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// --------------------
+const $id_a091c5e1 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+
+var CHILDREN_SELECTOR = process.env.NODE_ENV === 'test' ? '[data-v-app=""] > *' : 'body > *';
+var interactables = /*#__PURE__*/new Set();
+var originals = /*#__PURE__*/new Map();
+
+function inert(element) {
+  element.setAttribute('aria-hidden', 'true'); // @ts-expect-error `inert` does not exist on HTMLElement (yet!)
+
+  element.inert = true;
+}
+
+function restore(element) {
+  var original = originals.get(element);
+  if (!original) return;
+  if (original['aria-hidden'] === null) element.removeAttribute('aria-hidden');else element.setAttribute('aria-hidden', original['aria-hidden']); // @ts-expect-error `inert` does not exist on HTMLElement (yet!)
+
+  element.inert = original.inert;
+}
+
+function useInertOthers(container, enabled) {
+  if (enabled === void 0) {
+    enabled = __vite_ssr_import_1__.ref(true);
+  }
+
+  __vite_ssr_import_1__.watchEffect(function (onInvalidate) {
+    if (!enabled.value) return;
+    if (!container.value) return;
+    var element = container.value; // Mark myself as an interactable element
+
+    interactables.add(element); // Restore elements that now contain an interactable child
+
+    for (var _iterator = __vite_ssr_import_0__.createForOfIteratorHelperLoose(originals.keys()), _step; !(_step = _iterator()).done;) {
+      var original = _step.value;
+
+      if (original.contains(element)) {
+        restore(original);
+        originals["delete"](original);
+      }
+    } // Collect direct children of the body
+
+
+    document.querySelectorAll(CHILDREN_SELECTOR).forEach(function (child) {
+      if (!(child instanceof HTMLElement)) return; // Skip non-HTMLElements
+      // Skip the interactables, and the parents of the interactables
+
+      for (var _iterator2 = __vite_ssr_import_0__.createForOfIteratorHelperLoose(interactables), _step2; !(_step2 = _iterator2()).done;) {
+        var interactable = _step2.value;
+        if (child.contains(interactable)) return;
+      } // Keep track of the elements
+
+
+      if (interactables.size === 1) {
+        originals.set(child, {
+          'aria-hidden': child.getAttribute('aria-hidden'),
+          // @ts-expect-error `inert` does not exist on HTMLElement (yet!)
+          inert: child.inert
+        }); // Mutate the element
+
+        inert(child);
+      }
+    });
+    onInvalidate(function () {
+      // Inert is disabled on the current element
+      interactables["delete"](element); // We still have interactable elements, therefore this one and its parent
+      // will become inert as well.
+
+      if (interactables.size > 0) {
+        // Collect direct children of the body
+        document.querySelectorAll(CHILDREN_SELECTOR).forEach(function (child) {
+          if (!(child instanceof HTMLElement)) return; // Skip non-HTMLElements
+          // Skip already inert parents
+
+          if (originals.has(child)) return; // Skip the interactables, and the parents of the interactables
+
+          for (var _iterator3 = __vite_ssr_import_0__.createForOfIteratorHelperLoose(interactables), _step3; !(_step3 = _iterator3()).done;) {
+            var interactable = _step3.value;
+            if (child.contains(interactable)) return;
+          }
+
+          originals.set(child, {
+            'aria-hidden': child.getAttribute('aria-hidden'),
+            // @ts-expect-error `inert` does not exist on HTMLElement (yet!)
+            inert: child.inert
+          }); // Mutate the element
+
+          inert(child);
+        });
+      } else {
+        for (var _iterator4 = __vite_ssr_import_0__.createForOfIteratorHelperLoose(originals.keys()), _step4; !(_step4 = _iterator4()).done;) {
+          var _element = _step4.value;
+          // Restore
+          restore(_element); // Cleanup
+
+          originals["delete"](_element);
+        }
+      }
+    });
+  });
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "useInertOthers", { enumerable: true, configurable: true, get(){ return useInertOthers }});
+//# sourceMappingURL=use-inert-others.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/description/description.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js ($id_f293a83d)
+// - /node_modules/@headlessui/vue/dist/components/switch/switch.esm.js ($id_4ec2ab7a)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/hooks/use-id.esm.js ($id_91b75316)
+// --------------------
+const $id_35d2303d = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-id.esm.js");
+
+
+var DescriptionContext = /*#__PURE__*/Symbol('DescriptionContext');
+
+function useDescriptionContext() {
+  var context = __vite_ssr_import_1__.inject(DescriptionContext, null);
+
+  if (context === null) {
+    throw new Error('Missing parent');
+  }
+
+  return context;
+}
+
+function useDescriptions(_temp) {
+  var _ref = _temp === void 0 ? {} : _temp,
+      _ref$slot = _ref.slot,
+      slot = _ref$slot === void 0 ? __vite_ssr_import_1__.ref({}) : _ref$slot,
+      _ref$name = _ref.name,
+      name = _ref$name === void 0 ? 'Description' : _ref$name,
+      _ref$props = _ref.props,
+      props = _ref$props === void 0 ? {} : _ref$props;
+
+  var descriptionIds = __vite_ssr_import_1__.ref([]);
+
+  function register(value) {
+    descriptionIds.value.push(value);
+    return function () {
+      var idx = descriptionIds.value.indexOf(value);
+      if (idx === -1) return;
+      descriptionIds.value.splice(idx, 1);
+    };
+  }
+
+  __vite_ssr_import_1__.provide(DescriptionContext, {
+    register: register,
+    slot: slot,
+    name: name,
+    props: props
+  }); // The actual id's as string or undefined.
+
+  return __vite_ssr_import_1__.computed(function () {
+    return descriptionIds.value.length > 0 ? descriptionIds.value.join(' ') : undefined;
+  });
+} // ---
+
+var Description = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'Description',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'p'
+    }
+  },
+  render: function render$1() {
+    var _this$context = this.context,
+        _this$context$name = _this$context.name,
+        name = _this$context$name === void 0 ? 'Description' : _this$context$name,
+        _this$context$slot = _this$context.slot,
+        slot = _this$context$slot === void 0 ? __vite_ssr_import_1__.ref({}) : _this$context$slot,
+        _this$context$props = _this$context.props,
+        props = _this$context$props === void 0 ? {} : _this$context$props;
+    var passThroughProps = this.$props;
+
+    var propsWeControl = __vite_ssr_import_0__.extends({}, Object.entries(props).reduce(function (acc, _ref2) {
+      var _Object$assign;
+
+      var key = _ref2[0],
+          value = _ref2[1];
+      return Object.assign(acc, (_Object$assign = {}, _Object$assign[key] = __vite_ssr_import_1__.unref(value), _Object$assign));
+    }, {}), {
+      id: this.id
+    });
+
+    return __vite_ssr_import_2__.render({
+      props: __vite_ssr_import_0__.extends({}, passThroughProps, propsWeControl),
+      slot: slot.value,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: name
+    });
+  },
+  setup: function setup() {
+    var context = useDescriptionContext();
+    var id = "headlessui-description-" + __vite_ssr_import_3__.useId();
+    __vite_ssr_import_1__.onMounted(function () {
+      return __vite_ssr_import_1__.onUnmounted(context.register(id));
+    });
+    return {
+      id: id,
+      context: context
+    };
+  }
+});
+
+
+Object.defineProperty(__vite_ssr_exports__, "Description", { enumerable: true, configurable: true, get(){ return Description }});
+Object.defineProperty(__vite_ssr_exports__, "useDescriptions", { enumerable: true, configurable: true, get(){ return useDescriptions }});
+//# sourceMappingURL=description.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/utils/dom.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js ($id_658d32c3)
+// - /node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js ($id_05706002)
+// - /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js ($id_aeffb558)
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// - /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js ($id_a655584d)
+// - /node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js ($id_f293a83d)
+// - /node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js ($id_f55023ef)
+// - /node_modules/@headlessui/vue/dist/components/transitions/transition.esm.js ($id_bf02b578)
+// Dependencies: 
+
+// --------------------
+const $id_2c50d6d0 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+function dom(ref) {
+  var _ref$value$$el;
+
+  if (ref == null) return null;
+  if (ref.value == null) return null;
+  return (_ref$value$$el = ref.value.$el) != null ? _ref$value$$el : ref.value;
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "dom", { enumerable: true, configurable: true, get(){ return dom }});
+//# sourceMappingURL=dom.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/internal/open-closed.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js ($id_f5f9290d)
+// - /node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js ($id_658d32c3)
+// - /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js ($id_aeffb558)
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// - /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js ($id_a655584d)
+// - /node_modules/@headlessui/vue/dist/components/transitions/transition.esm.js ($id_bf02b578)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// --------------------
+const $id_11ac5a62 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+
+var Context = /*#__PURE__*/Symbol('Context');
+var State;
+
+(function (State) {
+  State[State["Open"] = 0] = "Open";
+  State[State["Closed"] = 1] = "Closed";
+})(State || (State = {}));
+
+function hasOpenClosed() {
+  return useOpenClosed() !== null;
+}
+function useOpenClosed() {
+  return __vite_ssr_import_0__.inject(Context, null);
+}
+function useOpenClosedProvider(value) {
+  __vite_ssr_import_0__.provide(Context, value);
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "State", { enumerable: true, configurable: true, get(){ return State }});
+Object.defineProperty(__vite_ssr_exports__, "hasOpenClosed", { enumerable: true, configurable: true, get(){ return hasOpenClosed }});
+Object.defineProperty(__vite_ssr_exports__, "useOpenClosed", { enumerable: true, configurable: true, get(){ return useOpenClosed }});
+Object.defineProperty(__vite_ssr_exports__, "useOpenClosedProvider", { enumerable: true, configurable: true, get(){ return useOpenClosedProvider }});
+//# sourceMappingURL=open-closed.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/match.esm.js ($id_a504e9df)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/keyboard.esm.js ($id_851f9aee)
+// - /node_modules/@headlessui/vue/dist/hooks/use-id.esm.js ($id_91b75316)
+// - /node_modules/@headlessui/vue/dist/utils/dom.esm.js ($id_2c50d6d0)
+// - /node_modules/@headlessui/vue/dist/internal/open-closed.esm.js ($id_11ac5a62)
+// - /node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js ($id_05706002)
+// --------------------
+const $id_658d32c3 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/match.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/keyboard.esm.js");
+
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-id.esm.js");
+
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/dom.esm.js");
+
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/internal/open-closed.esm.js");
+
+const __vite_ssr_import_8__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js");
+
+
+var DisclosureStates;
+
+(function (DisclosureStates) {
+  DisclosureStates[DisclosureStates["Open"] = 0] = "Open";
+  DisclosureStates[DisclosureStates["Closed"] = 1] = "Closed";
+})(DisclosureStates || (DisclosureStates = {}));
+
+var DisclosureContext = /*#__PURE__*/Symbol('DisclosureContext');
+
+function useDisclosureContext(component) {
+  var context = __vite_ssr_import_1__.inject(DisclosureContext, null);
+
+  if (context === null) {
+    var err = new Error("<" + component + " /> is missing a parent <Disclosure /> component.");
+    if (Error.captureStackTrace) Error.captureStackTrace(err, useDisclosureContext);
+    throw err;
+  }
+
+  return context;
+}
+
+var DisclosurePanelContext = /*#__PURE__*/Symbol('DisclosurePanelContext');
+
+function useDisclosurePanelContext() {
+  return __vite_ssr_import_1__.inject(DisclosurePanelContext, null);
+} // ---
+
+
+var Disclosure = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'Disclosure',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'template'
+    },
+    defaultOpen: {
+      type: [Boolean],
+      "default": false
+    }
+  },
+  setup: function setup(props, _ref) {
+    var slots = _ref.slots,
+        attrs = _ref.attrs;
+    var buttonId = "headlessui-disclosure-button-" + __vite_ssr_import_5__.useId();
+    var panelId = "headlessui-disclosure-panel-" + __vite_ssr_import_5__.useId();
+    var disclosureState = __vite_ssr_import_1__.ref(props.defaultOpen ? DisclosureStates.Open : DisclosureStates.Closed);
+    var panelRef = __vite_ssr_import_1__.ref(null);
+    var buttonRef = __vite_ssr_import_1__.ref(null);
+    var api = {
+      buttonId: buttonId,
+      panelId: panelId,
+      disclosureState: disclosureState,
+      panel: panelRef,
+      button: buttonRef,
+      toggleDisclosure: function toggleDisclosure() {
+        var _match;
+
+        disclosureState.value = __vite_ssr_import_2__.match(disclosureState.value, (_match = {}, _match[DisclosureStates.Open] = DisclosureStates.Closed, _match[DisclosureStates.Closed] = DisclosureStates.Open, _match));
+      },
+      closeDisclosure: function closeDisclosure() {
+        if (disclosureState.value === DisclosureStates.Closed) return;
+        disclosureState.value = DisclosureStates.Closed;
+      },
+      close: function close(focusableElement) {
+        api.closeDisclosure();
+
+        var restoreElement = function () {
+          if (!focusableElement) return __vite_ssr_import_6__.dom(api.button);
+          if (focusableElement instanceof HTMLElement) return focusableElement;
+          if (focusableElement.value instanceof HTMLElement) return __vite_ssr_import_6__.dom(focusableElement);
+          return __vite_ssr_import_6__.dom(api.button);
+        }();
+
+        restoreElement == null ? void 0 : restoreElement.focus();
+      }
+    };
+    __vite_ssr_import_1__.provide(DisclosureContext, api);
+    __vite_ssr_import_7__.useOpenClosedProvider(__vite_ssr_import_1__.computed(function () {
+      var _match2;
+
+      return __vite_ssr_import_2__.match(disclosureState.value, (_match2 = {}, _match2[DisclosureStates.Open] = __vite_ssr_import_7__.State.Open, _match2[DisclosureStates.Closed] = __vite_ssr_import_7__.State.Closed, _match2));
+    }));
+    return function () {
+      var passThroughProps = __vite_ssr_import_0__.objectWithoutPropertiesLoose(props, ["defaultOpen"]);
+
+      var slot = {
+        open: disclosureState.value === DisclosureStates.Open,
+        close: api.close
+      };
+      return __vite_ssr_import_3__.render({
+        props: passThroughProps,
+        slot: slot,
+        slots: slots,
+        attrs: attrs,
+        name: 'Disclosure'
+      });
+    };
+  }
+}); // ---
+
+var DisclosureButton = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'DisclosureButton',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'button'
+    },
+    disabled: {
+      type: [Boolean],
+      "default": false
+    }
+  },
+  render: function render$1() {
+    var api = useDisclosureContext('DisclosureButton');
+    var slot = {
+      open: api.disclosureState.value === DisclosureStates.Open
+    };
+    var propsWeControl = this.isWithinPanel ? {
+      ref: 'el',
+      type: this.type,
+      onClick: this.handleClick,
+      onKeydown: this.handleKeyDown
+    } : {
+      id: this.id,
+      ref: 'el',
+      type: this.type,
+      'aria-expanded': this.$props.disabled ? undefined : api.disclosureState.value === DisclosureStates.Open,
+      'aria-controls': __vite_ssr_import_6__.dom(api.panel) ? api.panelId : undefined,
+      disabled: this.$props.disabled ? true : undefined,
+      onClick: this.handleClick,
+      onKeydown: this.handleKeyDown,
+      onKeyup: this.handleKeyUp
+    };
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, this.$props, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'DisclosureButton'
+    });
+  },
+  setup: function setup(props, _ref2) {
+    var attrs = _ref2.attrs;
+    var api = useDisclosureContext('DisclosureButton');
+    var panelContext = useDisclosurePanelContext();
+    var isWithinPanel = panelContext === null ? false : panelContext === api.panelId;
+    var elementRef = __vite_ssr_import_1__.ref(null);
+
+    if (!isWithinPanel) {
+      __vite_ssr_import_1__.watchEffect(function () {
+        api.button.value = elementRef.value;
+      });
+    }
+
+    return {
+      isWithinPanel: isWithinPanel,
+      id: api.buttonId,
+      el: elementRef,
+      type: __vite_ssr_import_8__.useResolveButtonType(__vite_ssr_import_1__.computed(function () {
+        return {
+          as: props.as,
+          type: attrs.type
+        };
+      }), elementRef),
+      handleClick: function handleClick() {
+        if (props.disabled) return;
+
+        if (isWithinPanel) {
+          var _dom;
+
+          api.toggleDisclosure();
+          (_dom = __vite_ssr_import_6__.dom(api.button)) == null ? void 0 : _dom.focus();
+        } else {
+          api.toggleDisclosure();
+        }
+      },
+      handleKeyDown: function handleKeyDown(event) {
+        var _dom2;
+
+        if (props.disabled) return;
+
+        if (isWithinPanel) {
+          switch (event.key) {
+            case __vite_ssr_import_4__.Keys.Space:
+            case __vite_ssr_import_4__.Keys.Enter:
+              event.preventDefault();
+              event.stopPropagation();
+              api.toggleDisclosure();
+              (_dom2 = __vite_ssr_import_6__.dom(api.button)) == null ? void 0 : _dom2.focus();
+              break;
+          }
+        } else {
+          switch (event.key) {
+            case __vite_ssr_import_4__.Keys.Space:
+            case __vite_ssr_import_4__.Keys.Enter:
+              event.preventDefault();
+              event.stopPropagation();
+              api.toggleDisclosure();
+              break;
+          }
+        }
+      },
+      handleKeyUp: function handleKeyUp(event) {
+        switch (event.key) {
+          case __vite_ssr_import_4__.Keys.Space:
+            // Required for firefox, event.preventDefault() in handleKeyDown for
+            // the Space key doesn't cancel the handleKeyUp, which in turn
+            // triggers a *click*.
+            event.preventDefault();
+            break;
+        }
+      }
+    };
+  }
+}); // ---
+
+var DisclosurePanel = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'DisclosurePanel',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    },
+    "static": {
+      type: Boolean,
+      "default": false
+    },
+    unmount: {
+      type: Boolean,
+      "default": true
+    }
+  },
+  render: function render$1() {
+    var api = useDisclosureContext('DisclosurePanel');
+    var slot = {
+      open: api.disclosureState.value === DisclosureStates.Open,
+      close: api.close
+    };
+    var propsWeControl = {
+      id: this.id,
+      ref: 'el'
+    };
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, this.$props, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      features: __vite_ssr_import_3__.Features.RenderStrategy | __vite_ssr_import_3__.Features.Static,
+      visible: this.visible,
+      name: 'DisclosurePanel'
+    });
+  },
+  setup: function setup() {
+    var api = useDisclosureContext('DisclosurePanel');
+    __vite_ssr_import_1__.provide(DisclosurePanelContext, api.panelId);
+    var usesOpenClosedState = __vite_ssr_import_7__.useOpenClosed();
+    var visible = __vite_ssr_import_1__.computed(function () {
+      if (usesOpenClosedState !== null) {
+        return usesOpenClosedState.value === __vite_ssr_import_7__.State.Open;
+      }
+
+      return api.disclosureState.value === DisclosureStates.Open;
+    });
+    return {
+      id: api.panelId,
+      el: api.panel,
+      visible: visible
+    };
+  }
+});
+
+
+Object.defineProperty(__vite_ssr_exports__, "Disclosure", { enumerable: true, configurable: true, get(){ return Disclosure }});
+Object.defineProperty(__vite_ssr_exports__, "DisclosureButton", { enumerable: true, configurable: true, get(){ return DisclosureButton }});
+Object.defineProperty(__vite_ssr_exports__, "DisclosurePanel", { enumerable: true, configurable: true, get(){ return DisclosurePanel }});
+//# sourceMappingURL=disclosure.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js ($id_658d32c3)
+// - /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js ($id_aeffb558)
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// - /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js ($id_a655584d)
+// - /node_modules/@headlessui/vue/dist/components/switch/switch.esm.js ($id_4ec2ab7a)
+// - /node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js ($id_f55023ef)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/dom.esm.js ($id_2c50d6d0)
+// --------------------
+const $id_05706002 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/dom.esm.js");
+
+
+function resolveType(type, as) {
+  if (type) return type;
+  var tag = as != null ? as : 'button';
+  if (typeof tag === 'string' && tag.toLowerCase() === 'button') return 'button';
+  return undefined;
+}
+
+function useResolveButtonType(data, refElement) {
+  var type = __vite_ssr_import_0__.ref(resolveType(data.value.type, data.value.as));
+  __vite_ssr_import_0__.onMounted(function () {
+    type.value = resolveType(data.value.type, data.value.as);
+  });
+  __vite_ssr_import_0__.watchEffect(function () {
+    var _dom;
+
+    if (type.value) return;
+    if (!__vite_ssr_import_1__.dom(refElement)) return;
+
+    if (__vite_ssr_import_1__.dom(refElement) instanceof HTMLButtonElement && !((_dom = __vite_ssr_import_1__.dom(refElement)) == null ? void 0 : _dom.hasAttribute('type'))) {
+      type.value = 'button';
+    }
+  });
+  return type;
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "useResolveButtonType", { enumerable: true, configurable: true, get(){ return useResolveButtonType }});
+//# sourceMappingURL=use-resolve-button-type.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/focus-trap/focus-trap.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/hooks/use-focus-trap.esm.js ($id_ad390bd9)
+// --------------------
+const $id_12d79ec1 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-focus-trap.esm.js");
+
+
+var FocusTrap = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'FocusTrap',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    },
+    initialFocus: {
+      type: Object,
+      "default": null
+    }
+  },
+  render: function render$1() {
+    var slot = {};
+    var propsWeControl = {
+      ref: 'el'
+    };
+
+    var _this$$props = this.$props,
+        passThroughProps = __vite_ssr_import_0__.objectWithoutPropertiesLoose(_this$$props, ["initialFocus"]);
+
+    return __vite_ssr_import_2__.render({
+      props: __vite_ssr_import_0__.extends({}, passThroughProps, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'FocusTrap'
+    });
+  },
+  setup: function setup(props) {
+    var containers = __vite_ssr_import_1__.ref(new Set());
+    var container = __vite_ssr_import_1__.ref(null);
+    var enabled = __vite_ssr_import_1__.ref(true);
+    var focusTrapOptions = __vite_ssr_import_1__.computed(function () {
+      return {
+        initialFocus: props.initialFocus
+      };
+    });
+    __vite_ssr_import_1__.onMounted(function () {
+      if (!container.value) return;
+      containers.value.add(container.value);
+      __vite_ssr_import_3__.useFocusTrap(containers, enabled, focusTrapOptions);
+    });
+    __vite_ssr_import_1__.onUnmounted(function () {
+      enabled.value = false;
+    });
+    return {
+      el: container
+    };
+  }
+});
+
+
+Object.defineProperty(__vite_ssr_exports__, "FocusTrap", { enumerable: true, configurable: true, get(){ return FocusTrap }});
+//# sourceMappingURL=focus-trap.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/match.esm.js ($id_a504e9df)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/keyboard.esm.js ($id_851f9aee)
+// - /node_modules/@headlessui/vue/dist/hooks/use-id.esm.js ($id_91b75316)
+// - /node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js ($id_d16ea418)
+// - /node_modules/@headlessui/vue/dist/utils/dom.esm.js ($id_2c50d6d0)
+// - /node_modules/@headlessui/vue/dist/internal/open-closed.esm.js ($id_11ac5a62)
+// - /node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js ($id_05706002)
+// - /node_modules/@headlessui/vue/dist/utils/calculate-active-index.esm.js ($id_0063dbca)
+// --------------------
+const $id_aeffb558 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/match.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/keyboard.esm.js");
+
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-id.esm.js");
+
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js");
+
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/dom.esm.js");
+
+const __vite_ssr_import_8__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/internal/open-closed.esm.js");
+
+const __vite_ssr_import_9__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js");
+
+const __vite_ssr_import_10__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/calculate-active-index.esm.js");
+
+
+var ListboxStates;
+
+(function (ListboxStates) {
+  ListboxStates[ListboxStates["Open"] = 0] = "Open";
+  ListboxStates[ListboxStates["Closed"] = 1] = "Closed";
+})(ListboxStates || (ListboxStates = {}));
+
+function nextFrame(cb) {
+  requestAnimationFrame(function () {
+    return requestAnimationFrame(cb);
+  });
+}
+
+var ListboxContext = /*#__PURE__*/Symbol('ListboxContext');
+
+function useListboxContext(component) {
+  var context = __vite_ssr_import_1__.inject(ListboxContext, null);
+
+  if (context === null) {
+    var err = new Error("<" + component + " /> is missing a parent <Listbox /> component.");
+    if (Error.captureStackTrace) Error.captureStackTrace(err, useListboxContext);
+    throw err;
+  }
+
+  return context;
+} // ---
+
+
+var Listbox = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'Listbox',
+  emits: {
+    'update:modelValue': function updateModelValue(_value) {
+      return true;
+    }
+  },
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'template'
+    },
+    disabled: {
+      type: [Boolean],
+      "default": false
+    },
+    horizontal: {
+      type: [Boolean],
+      "default": false
+    },
+    modelValue: {
+      type: [Object, String, Number, Boolean]
+    }
+  },
+  setup: function setup(props, _ref) {
+    var slots = _ref.slots,
+        attrs = _ref.attrs,
+        emit = _ref.emit;
+    var listboxState = __vite_ssr_import_1__.ref(ListboxStates.Closed);
+    var labelRef = __vite_ssr_import_1__.ref(null);
+    var buttonRef = __vite_ssr_import_1__.ref(null);
+    var optionsRef = __vite_ssr_import_1__.ref(null);
+    var options = __vite_ssr_import_1__.ref([]);
+    var searchQuery = __vite_ssr_import_1__.ref('');
+    var activeOptionIndex = __vite_ssr_import_1__.ref(null);
+    var value = __vite_ssr_import_1__.computed(function () {
+      return props.modelValue;
+    });
+    var api = {
+      listboxState: listboxState,
+      value: value,
+      orientation: __vite_ssr_import_1__.computed(function () {
+        return props.horizontal ? 'horizontal' : 'vertical';
+      }),
+      labelRef: labelRef,
+      buttonRef: buttonRef,
+      optionsRef: optionsRef,
+      disabled: __vite_ssr_import_1__.computed(function () {
+        return props.disabled;
+      }),
+      options: options,
+      searchQuery: searchQuery,
+      activeOptionIndex: activeOptionIndex,
+      closeListbox: function closeListbox() {
+        if (props.disabled) return;
+        if (listboxState.value === ListboxStates.Closed) return;
+        listboxState.value = ListboxStates.Closed;
+        activeOptionIndex.value = null;
+      },
+      openListbox: function openListbox() {
+        if (props.disabled) return;
+        if (listboxState.value === ListboxStates.Open) return;
+        listboxState.value = ListboxStates.Open;
+      },
+      goToOption: function goToOption(focus, id) {
+        if (props.disabled) return;
+        if (listboxState.value === ListboxStates.Closed) return;
+        var nextActiveOptionIndex = __vite_ssr_import_10__.calculateActiveIndex(focus === __vite_ssr_import_10__.Focus.Specific ? {
+          focus: __vite_ssr_import_10__.Focus.Specific,
+          id: id
+        } : {
+          focus: focus
+        }, {
+          resolveItems: function resolveItems() {
+            return options.value;
+          },
+          resolveActiveIndex: function resolveActiveIndex() {
+            return activeOptionIndex.value;
+          },
+          resolveId: function resolveId(option) {
+            return option.id;
+          },
+          resolveDisabled: function resolveDisabled(option) {
+            return option.dataRef.disabled;
+          }
+        });
+        if (searchQuery.value === '' && activeOptionIndex.value === nextActiveOptionIndex) return;
+        searchQuery.value = '';
+        activeOptionIndex.value = nextActiveOptionIndex;
+      },
+      search: function search(value) {
+        if (props.disabled) return;
+        if (listboxState.value === ListboxStates.Closed) return;
+        searchQuery.value += value.toLowerCase();
+        var match = options.value.findIndex(function (option) {
+          return !option.dataRef.disabled && option.dataRef.textValue.startsWith(searchQuery.value);
+        });
+        if (match === -1 || match === activeOptionIndex.value) return;
+        activeOptionIndex.value = match;
+      },
+      clearSearch: function clearSearch() {
+        if (props.disabled) return;
+        if (listboxState.value === ListboxStates.Closed) return;
+        if (searchQuery.value === '') return;
+        searchQuery.value = '';
+      },
+      registerOption: function registerOption(id, dataRef) {
+        // @ts-expect-error The expected type comes from property 'dataRef' which is declared here on type '{ id: string; dataRef: { textValue: string; disabled: boolean; }; }'
+        options.value.push({
+          id: id,
+          dataRef: dataRef
+        });
+      },
+      unregisterOption: function unregisterOption(id) {
+        var nextOptions = options.value.slice();
+        var currentActiveOption = activeOptionIndex.value !== null ? nextOptions[activeOptionIndex.value] : null;
+        var idx = nextOptions.findIndex(function (a) {
+          return a.id === id;
+        });
+        if (idx !== -1) nextOptions.splice(idx, 1);
+        options.value = nextOptions;
+
+        activeOptionIndex.value = function () {
+          if (idx === activeOptionIndex.value) return null;
+          if (currentActiveOption === null) return null; // If we removed the option before the actual active index, then it would be out of sync. To
+          // fix this, we will find the correct (new) index position.
+
+          return nextOptions.indexOf(currentActiveOption);
+        }();
+      },
+      select: function select(value) {
+        if (props.disabled) return;
+        emit('update:modelValue', value);
+      }
+    };
+    __vite_ssr_import_6__.useWindowEvent('mousedown', function (event) {
+      var _dom, _dom2, _dom3;
+
+      var target = event.target;
+      var active = document.activeElement;
+      if (listboxState.value !== ListboxStates.Open) return;
+      if ((_dom = __vite_ssr_import_7__.dom(buttonRef)) == null ? void 0 : _dom.contains(target)) return;
+      if (!((_dom2 = __vite_ssr_import_7__.dom(optionsRef)) == null ? void 0 : _dom2.contains(target))) api.closeListbox();
+      if (active !== document.body && (active == null ? void 0 : active.contains(target))) return; // Keep focus on newly clicked/focused element
+
+      if (!event.defaultPrevented) (_dom3 = __vite_ssr_import_7__.dom(buttonRef)) == null ? void 0 : _dom3.focus({
+        preventScroll: true
+      });
+    }); // @ts-expect-error Types of property 'dataRef' are incompatible.
+
+    __vite_ssr_import_1__.provide(ListboxContext, api);
+    __vite_ssr_import_8__.useOpenClosedProvider(__vite_ssr_import_1__.computed(function () {
+      var _match;
+
+      return __vite_ssr_import_2__.match(listboxState.value, (_match = {}, _match[ListboxStates.Open] = __vite_ssr_import_8__.State.Open, _match[ListboxStates.Closed] = __vite_ssr_import_8__.State.Closed, _match));
+    }));
+    return function () {
+      var slot = {
+        open: listboxState.value === ListboxStates.Open,
+        disabled: props.disabled
+      };
+      return __vite_ssr_import_3__.render({
+        props: __vite_ssr_import_3__.omit(props, ['modelValue', 'onUpdate:modelValue', 'disabled', 'horizontal']),
+        slot: slot,
+        slots: slots,
+        attrs: attrs,
+        name: 'Listbox'
+      });
+    };
+  }
+}); // ---
+
+var ListboxLabel = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'ListboxLabel',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'label'
+    }
+  },
+  render: function render$1() {
+    var api = useListboxContext('ListboxLabel');
+    var slot = {
+      open: api.listboxState.value === ListboxStates.Open,
+      disabled: api.disabled.value
+    };
+    var propsWeControl = {
+      id: this.id,
+      ref: 'el',
+      onClick: this.handleClick
+    };
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, this.$props, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'ListboxLabel'
+    });
+  },
+  setup: function setup() {
+    var api = useListboxContext('ListboxLabel');
+    var id = "headlessui-listbox-label-" + __vite_ssr_import_5__.useId();
+    return {
+      id: id,
+      el: api.labelRef,
+      handleClick: function handleClick() {
+        var _dom4;
+
+        (_dom4 = __vite_ssr_import_7__.dom(api.buttonRef)) == null ? void 0 : _dom4.focus({
+          preventScroll: true
+        });
+      }
+    };
+  }
+}); // ---
+
+var ListboxButton = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'ListboxButton',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'button'
+    }
+  },
+  render: function render$1() {
+    var _dom5, _dom6;
+
+    var api = useListboxContext('ListboxButton');
+    var slot = {
+      open: api.listboxState.value === ListboxStates.Open,
+      disabled: api.disabled.value
+    };
+    var propsWeControl = {
+      ref: 'el',
+      id: this.id,
+      type: this.type,
+      'aria-haspopup': true,
+      'aria-controls': (_dom5 = __vite_ssr_import_7__.dom(api.optionsRef)) == null ? void 0 : _dom5.id,
+      'aria-expanded': api.disabled.value ? undefined : api.listboxState.value === ListboxStates.Open,
+      'aria-labelledby': api.labelRef.value ? [(_dom6 = __vite_ssr_import_7__.dom(api.labelRef)) == null ? void 0 : _dom6.id, this.id].join(' ') : undefined,
+      disabled: api.disabled.value === true ? true : undefined,
+      onKeydown: this.handleKeyDown,
+      onKeyup: this.handleKeyUp,
+      onClick: this.handleClick
+    };
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, this.$props, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'ListboxButton'
+    });
+  },
+  setup: function setup(props, _ref2) {
+    var attrs = _ref2.attrs;
+    var api = useListboxContext('ListboxButton');
+    var id = "headlessui-listbox-button-" + __vite_ssr_import_5__.useId();
+
+    function handleKeyDown(event) {
+      switch (event.key) {
+        // Ref: https://www.w3.org/TR/wai-aria-practices-1.2/#keyboard-interaction-13
+        case __vite_ssr_import_4__.Keys.Space:
+        case __vite_ssr_import_4__.Keys.Enter:
+        case __vite_ssr_import_4__.Keys.ArrowDown:
+          event.preventDefault();
+          api.openListbox();
+          __vite_ssr_import_1__.nextTick(function () {
+            var _dom7;
+
+            (_dom7 = __vite_ssr_import_7__.dom(api.optionsRef)) == null ? void 0 : _dom7.focus({
+              preventScroll: true
+            });
+            if (!api.value.value) api.goToOption(__vite_ssr_import_10__.Focus.First);
+          });
+          break;
+
+        case __vite_ssr_import_4__.Keys.ArrowUp:
+          event.preventDefault();
+          api.openListbox();
+          __vite_ssr_import_1__.nextTick(function () {
+            var _dom8;
+
+            (_dom8 = __vite_ssr_import_7__.dom(api.optionsRef)) == null ? void 0 : _dom8.focus({
+              preventScroll: true
+            });
+            if (!api.value.value) api.goToOption(__vite_ssr_import_10__.Focus.Last);
+          });
+          break;
+      }
+    }
+
+    function handleKeyUp(event) {
+      switch (event.key) {
+        case __vite_ssr_import_4__.Keys.Space:
+          // Required for firefox, event.preventDefault() in handleKeyDown for
+          // the Space key doesn't cancel the handleKeyUp, which in turn
+          // triggers a *click*.
+          event.preventDefault();
+          break;
+      }
+    }
+
+    function handleClick(event) {
+      if (api.disabled.value) return;
+
+      if (api.listboxState.value === ListboxStates.Open) {
+        api.closeListbox();
+        __vite_ssr_import_1__.nextTick(function () {
+          var _dom9;
+
+          return (_dom9 = __vite_ssr_import_7__.dom(api.buttonRef)) == null ? void 0 : _dom9.focus({
+            preventScroll: true
+          });
+        });
+      } else {
+        event.preventDefault();
+        api.openListbox();
+        nextFrame(function () {
+          var _dom10;
+
+          return (_dom10 = __vite_ssr_import_7__.dom(api.optionsRef)) == null ? void 0 : _dom10.focus({
+            preventScroll: true
+          });
+        });
+      }
+    }
+
+    return {
+      id: id,
+      el: api.buttonRef,
+      type: __vite_ssr_import_9__.useResolveButtonType(__vite_ssr_import_1__.computed(function () {
+        return {
+          as: props.as,
+          type: attrs.type
+        };
+      }), api.buttonRef),
+      handleKeyDown: handleKeyDown,
+      handleKeyUp: handleKeyUp,
+      handleClick: handleClick
+    };
+  }
+}); // ---
+
+var ListboxOptions = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'ListboxOptions',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'ul'
+    },
+    "static": {
+      type: Boolean,
+      "default": false
+    },
+    unmount: {
+      type: Boolean,
+      "default": true
+    }
+  },
+  render: function render$1() {
+    var _api$options$value$ap, _dom$id, _dom11, _dom12;
+
+    var api = useListboxContext('ListboxOptions');
+    var slot = {
+      open: api.listboxState.value === ListboxStates.Open
+    };
+    var propsWeControl = {
+      'aria-activedescendant': api.activeOptionIndex.value === null ? undefined : (_api$options$value$ap = api.options.value[api.activeOptionIndex.value]) == null ? void 0 : _api$options$value$ap.id,
+      'aria-labelledby': (_dom$id = (_dom11 = __vite_ssr_import_7__.dom(api.labelRef)) == null ? void 0 : _dom11.id) != null ? _dom$id : (_dom12 = __vite_ssr_import_7__.dom(api.buttonRef)) == null ? void 0 : _dom12.id,
+      'aria-orientation': api.orientation.value,
+      id: this.id,
+      onKeydown: this.handleKeyDown,
+      role: 'listbox',
+      tabIndex: 0,
+      ref: 'el'
+    };
+    var passThroughProps = this.$props;
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, passThroughProps, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      features: __vite_ssr_import_3__.Features.RenderStrategy | __vite_ssr_import_3__.Features.Static,
+      visible: this.visible,
+      name: 'ListboxOptions'
+    });
+  },
+  setup: function setup() {
+    var api = useListboxContext('ListboxOptions');
+    var id = "headlessui-listbox-options-" + __vite_ssr_import_5__.useId();
+    var searchDebounce = __vite_ssr_import_1__.ref(null);
+
+    function handleKeyDown(event) {
+      if (searchDebounce.value) clearTimeout(searchDebounce.value);
+
+      switch (event.key) {
+        // Ref: https://www.w3.org/TR/wai-aria-practices-1.2/#keyboard-interaction-12
+        // @ts-expect-error Fallthrough is expected here
+        case __vite_ssr_import_4__.Keys.Space:
+          if (api.searchQuery.value !== '') {
+            event.preventDefault();
+            event.stopPropagation();
+            return api.search(event.key);
+          }
+
+        // When in type ahead mode, fallthrough
+
+        case __vite_ssr_import_4__.Keys.Enter:
+          event.preventDefault();
+          event.stopPropagation();
+
+          if (api.activeOptionIndex.value !== null) {
+            var dataRef = api.options.value[api.activeOptionIndex.value].dataRef;
+            api.select(dataRef.value);
+          }
+
+          api.closeListbox();
+          __vite_ssr_import_1__.nextTick(function () {
+            var _dom13;
+
+            return (_dom13 = __vite_ssr_import_7__.dom(api.buttonRef)) == null ? void 0 : _dom13.focus({
+              preventScroll: true
+            });
+          });
+          break;
+
+        case __vite_ssr_import_2__.match(api.orientation.value, {
+          vertical: __vite_ssr_import_4__.Keys.ArrowDown,
+          horizontal: __vite_ssr_import_4__.Keys.ArrowRight
+        }):
+          event.preventDefault();
+          event.stopPropagation();
+          return api.goToOption(__vite_ssr_import_10__.Focus.Next);
+
+        case __vite_ssr_import_2__.match(api.orientation.value, {
+          vertical: __vite_ssr_import_4__.Keys.ArrowUp,
+          horizontal: __vite_ssr_import_4__.Keys.ArrowLeft
+        }):
+          event.preventDefault();
+          event.stopPropagation();
+          return api.goToOption(__vite_ssr_import_10__.Focus.Previous);
+
+        case __vite_ssr_import_4__.Keys.Home:
+        case __vite_ssr_import_4__.Keys.PageUp:
+          event.preventDefault();
+          event.stopPropagation();
+          return api.goToOption(__vite_ssr_import_10__.Focus.First);
+
+        case __vite_ssr_import_4__.Keys.End:
+        case __vite_ssr_import_4__.Keys.PageDown:
+          event.preventDefault();
+          event.stopPropagation();
+          return api.goToOption(__vite_ssr_import_10__.Focus.Last);
+
+        case __vite_ssr_import_4__.Keys.Escape:
+          event.preventDefault();
+          event.stopPropagation();
+          api.closeListbox();
+          __vite_ssr_import_1__.nextTick(function () {
+            var _dom14;
+
+            return (_dom14 = __vite_ssr_import_7__.dom(api.buttonRef)) == null ? void 0 : _dom14.focus({
+              preventScroll: true
+            });
+          });
+          break;
+
+        case __vite_ssr_import_4__.Keys.Tab:
+          event.preventDefault();
+          event.stopPropagation();
+          break;
+
+        default:
+          if (event.key.length === 1) {
+            api.search(event.key);
+            searchDebounce.value = setTimeout(function () {
+              return api.clearSearch();
+            }, 350);
+          }
+
+          break;
+      }
+    }
+
+    var usesOpenClosedState = __vite_ssr_import_8__.useOpenClosed();
+    var visible = __vite_ssr_import_1__.computed(function () {
+      if (usesOpenClosedState !== null) {
+        return usesOpenClosedState.value === __vite_ssr_import_8__.State.Open;
+      }
+
+      return api.listboxState.value === ListboxStates.Open;
+    });
+    return {
+      id: id,
+      el: api.optionsRef,
+      handleKeyDown: handleKeyDown,
+      visible: visible
+    };
+  }
+});
+var ListboxOption = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'ListboxOption',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'li'
+    },
+    value: {
+      type: [Object, String, Number, Boolean]
+    },
+    disabled: {
+      type: Boolean,
+      "default": false
+    }
+  },
+  setup: function setup(props, _ref3) {
+    var slots = _ref3.slots,
+        attrs = _ref3.attrs;
+    var api = useListboxContext('ListboxOption');
+    var id = "headlessui-listbox-option-" + __vite_ssr_import_5__.useId();
+    var active = __vite_ssr_import_1__.computed(function () {
+      return api.activeOptionIndex.value !== null ? api.options.value[api.activeOptionIndex.value].id === id : false;
+    });
+    var selected = __vite_ssr_import_1__.computed(function () {
+      return __vite_ssr_import_1__.toRaw(api.value.value) === __vite_ssr_import_1__.toRaw(props.value);
+    });
+    var dataRef = __vite_ssr_import_1__.ref({
+      disabled: props.disabled,
+      value: props.value,
+      textValue: ''
+    });
+    __vite_ssr_import_1__.onMounted(function () {
+      var _document$getElementB, _document$getElementB2;
+
+      var textValue = (_document$getElementB = document.getElementById(id)) == null ? void 0 : (_document$getElementB2 = _document$getElementB.textContent) == null ? void 0 : _document$getElementB2.toLowerCase().trim();
+      if (textValue !== undefined) dataRef.value.textValue = textValue;
+    });
+    __vite_ssr_import_1__.onMounted(function () {
+      return api.registerOption(id, dataRef);
+    });
+    __vite_ssr_import_1__.onUnmounted(function () {
+      return api.unregisterOption(id);
+    });
+    __vite_ssr_import_1__.onMounted(function () {
+      __vite_ssr_import_1__.watch([api.listboxState, selected], function () {
+        var _document$getElementB3;
+
+        if (api.listboxState.value !== ListboxStates.Open) return;
+        if (!selected.value) return;
+        api.goToOption(__vite_ssr_import_10__.Focus.Specific, id);
+        (_document$getElementB3 = document.getElementById(id)) == null ? void 0 : _document$getElementB3.focus == null ? void 0 : _document$getElementB3.focus();
+      }, {
+        immediate: true
+      });
+    });
+    __vite_ssr_import_1__.watchEffect(function () {
+      if (api.listboxState.value !== ListboxStates.Open) return;
+      if (!active.value) return;
+      __vite_ssr_import_1__.nextTick(function () {
+        var _document$getElementB4;
+
+        return (_document$getElementB4 = document.getElementById(id)) == null ? void 0 : _document$getElementB4.scrollIntoView == null ? void 0 : _document$getElementB4.scrollIntoView({
+          block: 'nearest'
+        });
+      });
+    });
+
+    function handleClick(event) {
+      if (props.disabled) return event.preventDefault();
+      api.select(props.value);
+      api.closeListbox();
+      __vite_ssr_import_1__.nextTick(function () {
+        var _dom15;
+
+        return (_dom15 = __vite_ssr_import_7__.dom(api.buttonRef)) == null ? void 0 : _dom15.focus({
+          preventScroll: true
+        });
+      });
+    }
+
+    function handleFocus() {
+      if (props.disabled) return api.goToOption(__vite_ssr_import_10__.Focus.Nothing);
+      api.goToOption(__vite_ssr_import_10__.Focus.Specific, id);
+    }
+
+    function handleMove() {
+      if (props.disabled) return;
+      if (active.value) return;
+      api.goToOption(__vite_ssr_import_10__.Focus.Specific, id);
+    }
+
+    function handleLeave() {
+      if (props.disabled) return;
+      if (!active.value) return;
+      api.goToOption(__vite_ssr_import_10__.Focus.Nothing);
+    }
+
+    return function () {
+      var disabled = props.disabled;
+      var slot = {
+        active: active.value,
+        selected: selected.value,
+        disabled: disabled
+      };
+      var propsWeControl = {
+        id: id,
+        role: 'option',
+        tabIndex: disabled === true ? undefined : -1,
+        'aria-disabled': disabled === true ? true : undefined,
+        'aria-selected': selected.value === true ? selected.value : undefined,
+        disabled: undefined,
+        onClick: handleClick,
+        onFocus: handleFocus,
+        onPointermove: handleMove,
+        onMousemove: handleMove,
+        onPointerleave: handleLeave,
+        onMouseleave: handleLeave
+      };
+      return __vite_ssr_import_3__.render({
+        props: __vite_ssr_import_0__.extends({}, props, propsWeControl),
+        slot: slot,
+        attrs: attrs,
+        slots: slots,
+        name: 'ListboxOption'
+      });
+    };
+  }
+});
+
+
+Object.defineProperty(__vite_ssr_exports__, "Listbox", { enumerable: true, configurable: true, get(){ return Listbox }});
+Object.defineProperty(__vite_ssr_exports__, "ListboxButton", { enumerable: true, configurable: true, get(){ return ListboxButton }});
+Object.defineProperty(__vite_ssr_exports__, "ListboxLabel", { enumerable: true, configurable: true, get(){ return ListboxLabel }});
+Object.defineProperty(__vite_ssr_exports__, "ListboxOption", { enumerable: true, configurable: true, get(){ return ListboxOption }});
+Object.defineProperty(__vite_ssr_exports__, "ListboxOptions", { enumerable: true, configurable: true, get(){ return ListboxOptions }});
+//# sourceMappingURL=listbox.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/utils/calculate-active-index.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js ($id_aeffb558)
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// Dependencies: 
+
+// --------------------
+const $id_0063dbca = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+function assertNever(x) {
+  throw new Error('Unexpected object: ' + x);
+}
+
+var Focus;
+
+(function (Focus) {
+  /** Focus the first non-disabled item. */
+  Focus[Focus["First"] = 0] = "First";
+  /** Focus the previous non-disabled item. */
+
+  Focus[Focus["Previous"] = 1] = "Previous";
+  /** Focus the next non-disabled item. */
+
+  Focus[Focus["Next"] = 2] = "Next";
+  /** Focus the last non-disabled item. */
+
+  Focus[Focus["Last"] = 3] = "Last";
+  /** Focus a specific item based on the `id` of the item. */
+
+  Focus[Focus["Specific"] = 4] = "Specific";
+  /** Focus no items at all. */
+
+  Focus[Focus["Nothing"] = 5] = "Nothing";
+})(Focus || (Focus = {}));
+
+function calculateActiveIndex(action, resolvers) {
+  var items = resolvers.resolveItems();
+  if (items.length <= 0) return null;
+  var currentActiveIndex = resolvers.resolveActiveIndex();
+  var activeIndex = currentActiveIndex != null ? currentActiveIndex : -1;
+
+  var nextActiveIndex = function () {
+    switch (action.focus) {
+      case Focus.First:
+        return items.findIndex(function (item) {
+          return !resolvers.resolveDisabled(item);
+        });
+
+      case Focus.Previous:
+        {
+          var idx = items.slice().reverse().findIndex(function (item, idx, all) {
+            if (activeIndex !== -1 && all.length - idx - 1 >= activeIndex) return false;
+            return !resolvers.resolveDisabled(item);
+          });
+          if (idx === -1) return idx;
+          return items.length - 1 - idx;
+        }
+
+      case Focus.Next:
+        return items.findIndex(function (item, idx) {
+          if (idx <= activeIndex) return false;
+          return !resolvers.resolveDisabled(item);
+        });
+
+      case Focus.Last:
+        {
+          var _idx = items.slice().reverse().findIndex(function (item) {
+            return !resolvers.resolveDisabled(item);
+          });
+
+          if (_idx === -1) return _idx;
+          return items.length - 1 - _idx;
+        }
+
+      case Focus.Specific:
+        return items.findIndex(function (item) {
+          return resolvers.resolveId(item) === action.id;
+        });
+
+      case Focus.Nothing:
+        return null;
+
+      default:
+        assertNever(action);
+    }
+  }();
+
+  return nextActiveIndex === -1 ? currentActiveIndex : nextActiveIndex;
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "Focus", { enumerable: true, configurable: true, get(){ return Focus }});
+Object.defineProperty(__vite_ssr_exports__, "calculateActiveIndex", { enumerable: true, configurable: true, get(){ return calculateActiveIndex }});
+//# sourceMappingURL=calculate-active-index.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/match.esm.js ($id_a504e9df)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/keyboard.esm.js ($id_851f9aee)
+// - /node_modules/@headlessui/vue/dist/hooks/use-id.esm.js ($id_91b75316)
+// - /node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js ($id_d16ea418)
+// - /node_modules/@headlessui/vue/dist/utils/dom.esm.js ($id_2c50d6d0)
+// - /node_modules/@headlessui/vue/dist/internal/open-closed.esm.js ($id_11ac5a62)
+// - /node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js ($id_05706002)
+// - /node_modules/@headlessui/vue/dist/utils/calculate-active-index.esm.js ($id_0063dbca)
+// - /node_modules/@headlessui/vue/dist/hooks/use-tree-walker.esm.js ($id_8f79cfee)
+// --------------------
+const $id_228e9881 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/match.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/keyboard.esm.js");
+
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-id.esm.js");
+
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js");
+
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/dom.esm.js");
+
+const __vite_ssr_import_8__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/internal/open-closed.esm.js");
+
+const __vite_ssr_import_9__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js");
+
+const __vite_ssr_import_10__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/calculate-active-index.esm.js");
+
+const __vite_ssr_import_11__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-tree-walker.esm.js");
+
+
+var MenuStates;
+
+(function (MenuStates) {
+  MenuStates[MenuStates["Open"] = 0] = "Open";
+  MenuStates[MenuStates["Closed"] = 1] = "Closed";
+})(MenuStates || (MenuStates = {}));
+
+function nextFrame(cb) {
+  requestAnimationFrame(function () {
+    return requestAnimationFrame(cb);
+  });
+}
+
+var MenuContext = /*#__PURE__*/Symbol('MenuContext');
+
+function useMenuContext(component) {
+  var context = __vite_ssr_import_1__.inject(MenuContext, null);
+
+  if (context === null) {
+    var err = new Error("<" + component + " /> is missing a parent <Menu /> component.");
+    if (Error.captureStackTrace) Error.captureStackTrace(err, useMenuContext);
+    throw err;
+  }
+
+  return context;
+}
+
+var Menu = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'Menu',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'template'
+    }
+  },
+  setup: function setup(props, _ref) {
+    var slots = _ref.slots,
+        attrs = _ref.attrs;
+    var menuState = __vite_ssr_import_1__.ref(MenuStates.Closed);
+    var buttonRef = __vite_ssr_import_1__.ref(null);
+    var itemsRef = __vite_ssr_import_1__.ref(null);
+    var items = __vite_ssr_import_1__.ref([]);
+    var searchQuery = __vite_ssr_import_1__.ref('');
+    var activeItemIndex = __vite_ssr_import_1__.ref(null);
+    var api = {
+      menuState: menuState,
+      buttonRef: buttonRef,
+      itemsRef: itemsRef,
+      items: items,
+      searchQuery: searchQuery,
+      activeItemIndex: activeItemIndex,
+      closeMenu: function closeMenu() {
+        menuState.value = MenuStates.Closed;
+        activeItemIndex.value = null;
+      },
+      openMenu: function openMenu() {
+        return menuState.value = MenuStates.Open;
+      },
+      goToItem: function goToItem(focus, id) {
+        var nextActiveItemIndex = __vite_ssr_import_10__.calculateActiveIndex(focus === __vite_ssr_import_10__.Focus.Specific ? {
+          focus: __vite_ssr_import_10__.Focus.Specific,
+          id: id
+        } : {
+          focus: focus
+        }, {
+          resolveItems: function resolveItems() {
+            return items.value;
+          },
+          resolveActiveIndex: function resolveActiveIndex() {
+            return activeItemIndex.value;
+          },
+          resolveId: function resolveId(item) {
+            return item.id;
+          },
+          resolveDisabled: function resolveDisabled(item) {
+            return item.dataRef.disabled;
+          }
+        });
+        if (searchQuery.value === '' && activeItemIndex.value === nextActiveItemIndex) return;
+        searchQuery.value = '';
+        activeItemIndex.value = nextActiveItemIndex;
+      },
+      search: function search(value) {
+        searchQuery.value += value.toLowerCase();
+        var match = items.value.findIndex(function (item) {
+          return item.dataRef.textValue.startsWith(searchQuery.value) && !item.dataRef.disabled;
+        });
+        if (match === -1 || match === activeItemIndex.value) return;
+        activeItemIndex.value = match;
+      },
+      clearSearch: function clearSearch() {
+        searchQuery.value = '';
+      },
+      registerItem: function registerItem(id, dataRef) {
+        // @ts-expect-error The expected type comes from property 'dataRef' which is declared here on type '{ id: string; dataRef: { textValue: string; disabled: boolean; }; }'
+        items.value.push({
+          id: id,
+          dataRef: dataRef
+        });
+      },
+      unregisterItem: function unregisterItem(id) {
+        var nextItems = items.value.slice();
+        var currentActiveItem = activeItemIndex.value !== null ? nextItems[activeItemIndex.value] : null;
+        var idx = nextItems.findIndex(function (a) {
+          return a.id === id;
+        });
+        if (idx !== -1) nextItems.splice(idx, 1);
+        items.value = nextItems;
+
+        activeItemIndex.value = function () {
+          if (idx === activeItemIndex.value) return null;
+          if (currentActiveItem === null) return null; // If we removed the item before the actual active index, then it would be out of sync. To
+          // fix this, we will find the correct (new) index position.
+
+          return nextItems.indexOf(currentActiveItem);
+        }();
+      }
+    };
+    __vite_ssr_import_6__.useWindowEvent('mousedown', function (event) {
+      var _dom, _dom2, _dom3;
+
+      var target = event.target;
+      var active = document.activeElement;
+      if (menuState.value !== MenuStates.Open) return;
+      if ((_dom = __vite_ssr_import_7__.dom(buttonRef)) == null ? void 0 : _dom.contains(target)) return;
+      if (!((_dom2 = __vite_ssr_import_7__.dom(itemsRef)) == null ? void 0 : _dom2.contains(target))) api.closeMenu();
+      if (active !== document.body && (active == null ? void 0 : active.contains(target))) return; // Keep focus on newly clicked/focused element
+
+      if (!event.defaultPrevented) (_dom3 = __vite_ssr_import_7__.dom(buttonRef)) == null ? void 0 : _dom3.focus({
+        preventScroll: true
+      });
+    }); // @ts-expect-error Types of property 'dataRef' are incompatible.
+
+    __vite_ssr_import_1__.provide(MenuContext, api);
+    __vite_ssr_import_8__.useOpenClosedProvider(__vite_ssr_import_1__.computed(function () {
+      var _match;
+
+      return __vite_ssr_import_2__.match(menuState.value, (_match = {}, _match[MenuStates.Open] = __vite_ssr_import_8__.State.Open, _match[MenuStates.Closed] = __vite_ssr_import_8__.State.Closed, _match));
+    }));
+    return function () {
+      var slot = {
+        open: menuState.value === MenuStates.Open
+      };
+      return __vite_ssr_import_3__.render({
+        props: props,
+        slot: slot,
+        slots: slots,
+        attrs: attrs,
+        name: 'Menu'
+      });
+    };
+  }
+});
+var MenuButton = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'MenuButton',
+  props: {
+    disabled: {
+      type: Boolean,
+      "default": false
+    },
+    as: {
+      type: [Object, String],
+      "default": 'button'
+    }
+  },
+  render: function render$1() {
+    var _dom4;
+
+    var api = useMenuContext('MenuButton');
+    var slot = {
+      open: api.menuState.value === MenuStates.Open
+    };
+    var propsWeControl = {
+      ref: 'el',
+      id: this.id,
+      type: this.type,
+      'aria-haspopup': true,
+      'aria-controls': (_dom4 = __vite_ssr_import_7__.dom(api.itemsRef)) == null ? void 0 : _dom4.id,
+      'aria-expanded': this.$props.disabled ? undefined : api.menuState.value === MenuStates.Open,
+      onKeydown: this.handleKeyDown,
+      onKeyup: this.handleKeyUp,
+      onClick: this.handleClick
+    };
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, this.$props, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'MenuButton'
+    });
+  },
+  setup: function setup(props, _ref2) {
+    var attrs = _ref2.attrs;
+    var api = useMenuContext('MenuButton');
+    var id = "headlessui-menu-button-" + __vite_ssr_import_5__.useId();
+
+    function handleKeyDown(event) {
+      switch (event.key) {
+        // Ref: https://www.w3.org/TR/wai-aria-practices-1.2/#keyboard-interaction-13
+        case __vite_ssr_import_4__.Keys.Space:
+        case __vite_ssr_import_4__.Keys.Enter:
+        case __vite_ssr_import_4__.Keys.ArrowDown:
+          event.preventDefault();
+          event.stopPropagation();
+          api.openMenu();
+          __vite_ssr_import_1__.nextTick(function () {
+            var _dom5;
+
+            (_dom5 = __vite_ssr_import_7__.dom(api.itemsRef)) == null ? void 0 : _dom5.focus({
+              preventScroll: true
+            });
+            api.goToItem(__vite_ssr_import_10__.Focus.First);
+          });
+          break;
+
+        case __vite_ssr_import_4__.Keys.ArrowUp:
+          event.preventDefault();
+          event.stopPropagation();
+          api.openMenu();
+          __vite_ssr_import_1__.nextTick(function () {
+            var _dom6;
+
+            (_dom6 = __vite_ssr_import_7__.dom(api.itemsRef)) == null ? void 0 : _dom6.focus({
+              preventScroll: true
+            });
+            api.goToItem(__vite_ssr_import_10__.Focus.Last);
+          });
+          break;
+      }
+    }
+
+    function handleKeyUp(event) {
+      switch (event.key) {
+        case __vite_ssr_import_4__.Keys.Space:
+          // Required for firefox, event.preventDefault() in handleKeyDown for
+          // the Space key doesn't cancel the handleKeyUp, which in turn
+          // triggers a *click*.
+          event.preventDefault();
+          break;
+      }
+    }
+
+    function handleClick(event) {
+      if (props.disabled) return;
+
+      if (api.menuState.value === MenuStates.Open) {
+        api.closeMenu();
+        __vite_ssr_import_1__.nextTick(function () {
+          var _dom7;
+
+          return (_dom7 = __vite_ssr_import_7__.dom(api.buttonRef)) == null ? void 0 : _dom7.focus({
+            preventScroll: true
+          });
+        });
+      } else {
+        event.preventDefault();
+        event.stopPropagation();
+        api.openMenu();
+        nextFrame(function () {
+          var _dom8;
+
+          return (_dom8 = __vite_ssr_import_7__.dom(api.itemsRef)) == null ? void 0 : _dom8.focus({
+            preventScroll: true
+          });
+        });
+      }
+    }
+
+    return {
+      id: id,
+      el: api.buttonRef,
+      type: __vite_ssr_import_9__.useResolveButtonType(__vite_ssr_import_1__.computed(function () {
+        return {
+          as: props.as,
+          type: attrs.type
+        };
+      }), api.buttonRef),
+      handleKeyDown: handleKeyDown,
+      handleKeyUp: handleKeyUp,
+      handleClick: handleClick
+    };
+  }
+});
+var MenuItems = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'MenuItems',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    },
+    "static": {
+      type: Boolean,
+      "default": false
+    },
+    unmount: {
+      type: Boolean,
+      "default": true
+    }
+  },
+  render: function render$1() {
+    var _api$items$value$api$, _dom9;
+
+    var api = useMenuContext('MenuItems');
+    var slot = {
+      open: api.menuState.value === MenuStates.Open
+    };
+    var propsWeControl = {
+      'aria-activedescendant': api.activeItemIndex.value === null ? undefined : (_api$items$value$api$ = api.items.value[api.activeItemIndex.value]) == null ? void 0 : _api$items$value$api$.id,
+      'aria-labelledby': (_dom9 = __vite_ssr_import_7__.dom(api.buttonRef)) == null ? void 0 : _dom9.id,
+      id: this.id,
+      onKeydown: this.handleKeyDown,
+      onKeyup: this.handleKeyUp,
+      role: 'menu',
+      tabIndex: 0,
+      ref: 'el'
+    };
+    var passThroughProps = this.$props;
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, passThroughProps, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      features: __vite_ssr_import_3__.Features.RenderStrategy | __vite_ssr_import_3__.Features.Static,
+      visible: this.visible,
+      name: 'MenuItems'
+    });
+  },
+  setup: function setup() {
+    var api = useMenuContext('MenuItems');
+    var id = "headlessui-menu-items-" + __vite_ssr_import_5__.useId();
+    var searchDebounce = __vite_ssr_import_1__.ref(null);
+    __vite_ssr_import_11__.useTreeWalker({
+      container: __vite_ssr_import_1__.computed(function () {
+        return __vite_ssr_import_7__.dom(api.itemsRef);
+      }),
+      enabled: __vite_ssr_import_1__.computed(function () {
+        return api.menuState.value === MenuStates.Open;
+      }),
+      accept: function accept(node) {
+        if (node.getAttribute('role') === 'menuitem') return NodeFilter.FILTER_REJECT;
+        if (node.hasAttribute('role')) return NodeFilter.FILTER_SKIP;
+        return NodeFilter.FILTER_ACCEPT;
+      },
+      walk: function walk(node) {
+        node.setAttribute('role', 'none');
+      }
+    });
+
+    function handleKeyDown(event) {
+      if (searchDebounce.value) clearTimeout(searchDebounce.value);
+
+      switch (event.key) {
+        // Ref: https://www.w3.org/TR/wai-aria-practices-1.2/#keyboard-interaction-12
+        // @ts-expect-error Fallthrough is expected here
+        case __vite_ssr_import_4__.Keys.Space:
+          if (api.searchQuery.value !== '') {
+            event.preventDefault();
+            event.stopPropagation();
+            return api.search(event.key);
+          }
+
+        // When in type ahead mode, fallthrough
+
+        case __vite_ssr_import_4__.Keys.Enter:
+          event.preventDefault();
+          event.stopPropagation();
+
+          if (api.activeItemIndex.value !== null) {
+            var _document$getElementB;
+
+            var _id = api.items.value[api.activeItemIndex.value].id;
+            (_document$getElementB = document.getElementById(_id)) == null ? void 0 : _document$getElementB.click();
+          }
+
+          api.closeMenu();
+          __vite_ssr_import_1__.nextTick(function () {
+            var _dom10;
+
+            return (_dom10 = __vite_ssr_import_7__.dom(api.buttonRef)) == null ? void 0 : _dom10.focus({
+              preventScroll: true
+            });
+          });
+          break;
+
+        case __vite_ssr_import_4__.Keys.ArrowDown:
+          event.preventDefault();
+          event.stopPropagation();
+          return api.goToItem(__vite_ssr_import_10__.Focus.Next);
+
+        case __vite_ssr_import_4__.Keys.ArrowUp:
+          event.preventDefault();
+          event.stopPropagation();
+          return api.goToItem(__vite_ssr_import_10__.Focus.Previous);
+
+        case __vite_ssr_import_4__.Keys.Home:
+        case __vite_ssr_import_4__.Keys.PageUp:
+          event.preventDefault();
+          event.stopPropagation();
+          return api.goToItem(__vite_ssr_import_10__.Focus.First);
+
+        case __vite_ssr_import_4__.Keys.End:
+        case __vite_ssr_import_4__.Keys.PageDown:
+          event.preventDefault();
+          event.stopPropagation();
+          return api.goToItem(__vite_ssr_import_10__.Focus.Last);
+
+        case __vite_ssr_import_4__.Keys.Escape:
+          event.preventDefault();
+          event.stopPropagation();
+          api.closeMenu();
+          __vite_ssr_import_1__.nextTick(function () {
+            var _dom11;
+
+            return (_dom11 = __vite_ssr_import_7__.dom(api.buttonRef)) == null ? void 0 : _dom11.focus({
+              preventScroll: true
+            });
+          });
+          break;
+
+        case __vite_ssr_import_4__.Keys.Tab:
+          event.preventDefault();
+          event.stopPropagation();
+          break;
+
+        default:
+          if (event.key.length === 1) {
+            api.search(event.key);
+            searchDebounce.value = setTimeout(function () {
+              return api.clearSearch();
+            }, 350);
+          }
+
+          break;
+      }
+    }
+
+    function handleKeyUp(event) {
+      switch (event.key) {
+        case __vite_ssr_import_4__.Keys.Space:
+          // Required for firefox, event.preventDefault() in handleKeyDown for
+          // the Space key doesn't cancel the handleKeyUp, which in turn
+          // triggers a *click*.
+          event.preventDefault();
+          break;
+      }
+    }
+
+    var usesOpenClosedState = __vite_ssr_import_8__.useOpenClosed();
+    var visible = __vite_ssr_import_1__.computed(function () {
+      if (usesOpenClosedState !== null) {
+        return usesOpenClosedState.value === __vite_ssr_import_8__.State.Open;
+      }
+
+      return api.menuState.value === MenuStates.Open;
+    });
+    return {
+      id: id,
+      el: api.itemsRef,
+      handleKeyDown: handleKeyDown,
+      handleKeyUp: handleKeyUp,
+      visible: visible
+    };
+  }
+});
+var MenuItem = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'MenuItem',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'template'
+    },
+    disabled: {
+      type: Boolean,
+      "default": false
+    }
+  },
+  setup: function setup(props, _ref3) {
+    var slots = _ref3.slots,
+        attrs = _ref3.attrs;
+    var api = useMenuContext('MenuItem');
+    var id = "headlessui-menu-item-" + __vite_ssr_import_5__.useId();
+    var active = __vite_ssr_import_1__.computed(function () {
+      return api.activeItemIndex.value !== null ? api.items.value[api.activeItemIndex.value].id === id : false;
+    });
+    var dataRef = __vite_ssr_import_1__.ref({
+      disabled: props.disabled,
+      textValue: ''
+    });
+    __vite_ssr_import_1__.onMounted(function () {
+      var _document$getElementB2, _document$getElementB3;
+
+      var textValue = (_document$getElementB2 = document.getElementById(id)) == null ? void 0 : (_document$getElementB3 = _document$getElementB2.textContent) == null ? void 0 : _document$getElementB3.toLowerCase().trim();
+      if (textValue !== undefined) dataRef.value.textValue = textValue;
+    });
+    __vite_ssr_import_1__.onMounted(function () {
+      return api.registerItem(id, dataRef);
+    });
+    __vite_ssr_import_1__.onUnmounted(function () {
+      return api.unregisterItem(id);
+    });
+    __vite_ssr_import_1__.watchEffect(function () {
+      if (api.menuState.value !== MenuStates.Open) return;
+      if (!active.value) return;
+      __vite_ssr_import_1__.nextTick(function () {
+        var _document$getElementB4;
+
+        return (_document$getElementB4 = document.getElementById(id)) == null ? void 0 : _document$getElementB4.scrollIntoView == null ? void 0 : _document$getElementB4.scrollIntoView({
+          block: 'nearest'
+        });
+      });
+    });
+
+    function handleClick(event) {
+      if (props.disabled) return event.preventDefault();
+      api.closeMenu();
+      __vite_ssr_import_1__.nextTick(function () {
+        var _dom12;
+
+        return (_dom12 = __vite_ssr_import_7__.dom(api.buttonRef)) == null ? void 0 : _dom12.focus({
+          preventScroll: true
+        });
+      });
+    }
+
+    function handleFocus() {
+      if (props.disabled) return api.goToItem(__vite_ssr_import_10__.Focus.Nothing);
+      api.goToItem(__vite_ssr_import_10__.Focus.Specific, id);
+    }
+
+    function handleMove() {
+      if (props.disabled) return;
+      if (active.value) return;
+      api.goToItem(__vite_ssr_import_10__.Focus.Specific, id);
+    }
+
+    function handleLeave() {
+      if (props.disabled) return;
+      if (!active.value) return;
+      api.goToItem(__vite_ssr_import_10__.Focus.Nothing);
+    }
+
+    return function () {
+      var disabled = props.disabled;
+      var slot = {
+        active: active.value,
+        disabled: disabled
+      };
+      var propsWeControl = {
+        id: id,
+        role: 'menuitem',
+        tabIndex: disabled === true ? undefined : -1,
+        'aria-disabled': disabled === true ? true : undefined,
+        onClick: handleClick,
+        onFocus: handleFocus,
+        onPointermove: handleMove,
+        onMousemove: handleMove,
+        onPointerleave: handleLeave,
+        onMouseleave: handleLeave
+      };
+      return __vite_ssr_import_3__.render({
+        props: __vite_ssr_import_0__.extends({}, props, propsWeControl),
+        slot: slot,
+        attrs: attrs,
+        slots: slots,
+        name: 'MenuItem'
+      });
+    };
+  }
+});
+
+
+Object.defineProperty(__vite_ssr_exports__, "Menu", { enumerable: true, configurable: true, get(){ return Menu }});
+Object.defineProperty(__vite_ssr_exports__, "MenuButton", { enumerable: true, configurable: true, get(){ return MenuButton }});
+Object.defineProperty(__vite_ssr_exports__, "MenuItem", { enumerable: true, configurable: true, get(){ return MenuItem }});
+Object.defineProperty(__vite_ssr_exports__, "MenuItems", { enumerable: true, configurable: true, get(){ return MenuItems }});
+//# sourceMappingURL=menu.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/hooks/use-tree-walker.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/menu/menu.esm.js ($id_228e9881)
+// - /node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js ($id_f293a83d)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// --------------------
+const $id_8f79cfee = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+
+function useTreeWalker(_ref) {
+  var container = _ref.container,
+      accept = _ref.accept,
+      walk = _ref.walk,
+      enabled = _ref.enabled;
+  __vite_ssr_import_0__.watchEffect(function () {
+    var root = container.value;
+    if (!root) return;
+    if (enabled !== undefined && !enabled.value) return;
+    var acceptNode = Object.assign(function (node) {
+      return accept(node);
+    }, {
+      acceptNode: accept
+    });
+    var walker = document.createTreeWalker(root, NodeFilter.SHOW_ELEMENT, acceptNode, false);
+
+    while (walker.nextNode()) {
+      walk(walker.currentNode);
+    }
+  });
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "useTreeWalker", { enumerable: true, configurable: true, get(){ return useTreeWalker }});
+//# sourceMappingURL=use-tree-walker.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/popover/popover.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/match.esm.js ($id_a504e9df)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/keyboard.esm.js ($id_851f9aee)
+// - /node_modules/@headlessui/vue/dist/hooks/use-id.esm.js ($id_91b75316)
+// - /node_modules/@headlessui/vue/dist/utils/focus-management.esm.js ($id_bcffe35d)
+// - /node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js ($id_d16ea418)
+// - /node_modules/@headlessui/vue/dist/utils/dom.esm.js ($id_2c50d6d0)
+// - /node_modules/@headlessui/vue/dist/internal/open-closed.esm.js ($id_11ac5a62)
+// - /node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js ($id_05706002)
+// --------------------
+const $id_a655584d = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/match.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/keyboard.esm.js");
+
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-id.esm.js");
+
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/focus-management.esm.js");
+
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js");
+
+const __vite_ssr_import_8__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/dom.esm.js");
+
+const __vite_ssr_import_9__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/internal/open-closed.esm.js");
+
+const __vite_ssr_import_10__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js");
+
+
+var PopoverStates;
+
+(function (PopoverStates) {
+  PopoverStates[PopoverStates["Open"] = 0] = "Open";
+  PopoverStates[PopoverStates["Closed"] = 1] = "Closed";
+})(PopoverStates || (PopoverStates = {}));
+
+var PopoverContext = /*#__PURE__*/Symbol('PopoverContext');
+
+function usePopoverContext(component) {
+  var context = __vite_ssr_import_1__.inject(PopoverContext, null);
+
+  if (context === null) {
+    var err = new Error("<" + component + " /> is missing a parent <" + Popover.name + " /> component.");
+    if (Error.captureStackTrace) Error.captureStackTrace(err, usePopoverContext);
+    throw err;
+  }
+
+  return context;
+}
+
+var PopoverGroupContext = /*#__PURE__*/Symbol('PopoverGroupContext');
+
+function usePopoverGroupContext() {
+  return __vite_ssr_import_1__.inject(PopoverGroupContext, null);
+}
+
+var PopoverPanelContext = /*#__PURE__*/Symbol('PopoverPanelContext');
+
+function usePopoverPanelContext() {
+  return __vite_ssr_import_1__.inject(PopoverPanelContext, null);
+} // ---
+
+
+var Popover = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'Popover',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    }
+  },
+  setup: function setup(props, _ref) {
+    var slots = _ref.slots,
+        attrs = _ref.attrs;
+    var buttonId = "headlessui-popover-button-" + __vite_ssr_import_5__.useId();
+    var panelId = "headlessui-popover-panel-" + __vite_ssr_import_5__.useId();
+    var popoverState = __vite_ssr_import_1__.ref(PopoverStates.Closed);
+    var button = __vite_ssr_import_1__.ref(null);
+    var panel = __vite_ssr_import_1__.ref(null);
+    var api = {
+      popoverState: popoverState,
+      buttonId: buttonId,
+      panelId: panelId,
+      panel: panel,
+      button: button,
+      togglePopover: function togglePopover() {
+        var _match;
+
+        popoverState.value = __vite_ssr_import_2__.match(popoverState.value, (_match = {}, _match[PopoverStates.Open] = PopoverStates.Closed, _match[PopoverStates.Closed] = PopoverStates.Open, _match));
+      },
+      closePopover: function closePopover() {
+        if (popoverState.value === PopoverStates.Closed) return;
+        popoverState.value = PopoverStates.Closed;
+      },
+      close: function close(focusableElement) {
+        api.closePopover();
+
+        var restoreElement = function () {
+          if (!focusableElement) return __vite_ssr_import_8__.dom(api.button);
+          if (focusableElement instanceof HTMLElement) return focusableElement;
+          if (focusableElement.value instanceof HTMLElement) return __vite_ssr_import_8__.dom(focusableElement);
+          return __vite_ssr_import_8__.dom(api.button);
+        }();
+
+        restoreElement == null ? void 0 : restoreElement.focus();
+      }
+    };
+    __vite_ssr_import_1__.provide(PopoverContext, api);
+    __vite_ssr_import_9__.useOpenClosedProvider(__vite_ssr_import_1__.computed(function () {
+      var _match2;
+
+      return __vite_ssr_import_2__.match(popoverState.value, (_match2 = {}, _match2[PopoverStates.Open] = __vite_ssr_import_9__.State.Open, _match2[PopoverStates.Closed] = __vite_ssr_import_9__.State.Closed, _match2));
+    }));
+    var registerBag = {
+      buttonId: buttonId,
+      panelId: panelId,
+      close: function close() {
+        api.closePopover();
+      }
+    };
+    var groupContext = usePopoverGroupContext();
+    var registerPopover = groupContext == null ? void 0 : groupContext.registerPopover;
+
+    function isFocusWithinPopoverGroup() {
+      var _groupContext$isFocus, _dom, _dom2;
+
+      return (_groupContext$isFocus = groupContext == null ? void 0 : groupContext.isFocusWithinPopoverGroup()) != null ? _groupContext$isFocus : ((_dom = __vite_ssr_import_8__.dom(button)) == null ? void 0 : _dom.contains(document.activeElement)) || ((_dom2 = __vite_ssr_import_8__.dom(panel)) == null ? void 0 : _dom2.contains(document.activeElement));
+    }
+
+    __vite_ssr_import_1__.watchEffect(function () {
+      return registerPopover == null ? void 0 : registerPopover(registerBag);
+    }); // Handle focus out
+
+    __vite_ssr_import_7__.useWindowEvent('focus', function () {
+      if (popoverState.value !== PopoverStates.Open) return;
+      if (isFocusWithinPopoverGroup()) return;
+      if (!button) return;
+      if (!panel) return;
+      api.closePopover();
+    }, true); // Handle outside click
+
+    __vite_ssr_import_7__.useWindowEvent('mousedown', function (event) {
+      var _dom3, _dom4;
+
+      var target = event.target;
+      if (popoverState.value !== PopoverStates.Open) return;
+      if ((_dom3 = __vite_ssr_import_8__.dom(button)) == null ? void 0 : _dom3.contains(target)) return;
+      if ((_dom4 = __vite_ssr_import_8__.dom(panel)) == null ? void 0 : _dom4.contains(target)) return;
+      api.closePopover();
+
+      if (!__vite_ssr_import_6__.isFocusableElement(target, __vite_ssr_import_6__.FocusableMode.Loose)) {
+        var _dom5;
+
+        event.preventDefault();
+        (_dom5 = __vite_ssr_import_8__.dom(button)) == null ? void 0 : _dom5.focus();
+      }
+    });
+    return function () {
+      var slot = {
+        open: popoverState.value === PopoverStates.Open,
+        close: api.close
+      };
+      return __vite_ssr_import_3__.render({
+        props: props,
+        slot: slot,
+        slots: slots,
+        attrs: attrs,
+        name: 'Popover'
+      });
+    };
+  }
+}); // ---
+
+var PopoverButton = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'PopoverButton',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'button'
+    },
+    disabled: {
+      type: [Boolean],
+      "default": false
+    }
+  },
+  render: function render$1() {
+    var api = usePopoverContext('PopoverButton');
+    var slot = {
+      open: api.popoverState.value === PopoverStates.Open
+    };
+    var propsWeControl = this.isWithinPanel ? {
+      ref: 'el',
+      type: this.type,
+      onKeydown: this.handleKeyDown,
+      onClick: this.handleClick
+    } : {
+      ref: 'el',
+      id: api.buttonId,
+      type: this.type,
+      'aria-expanded': this.$props.disabled ? undefined : api.popoverState.value === PopoverStates.Open,
+      'aria-controls': __vite_ssr_import_8__.dom(api.panel) ? api.panelId : undefined,
+      disabled: this.$props.disabled ? true : undefined,
+      onKeydown: this.handleKeyDown,
+      onKeyup: this.handleKeyUp,
+      onClick: this.handleClick
+    };
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, this.$props, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'PopoverButton'
+    });
+  },
+  setup: function setup(props, _ref2) {
+    var attrs = _ref2.attrs;
+    var api = usePopoverContext('PopoverButton');
+    var groupContext = usePopoverGroupContext();
+    var closeOthers = groupContext == null ? void 0 : groupContext.closeOthers;
+    var panelContext = usePopoverPanelContext();
+    var isWithinPanel = panelContext === null ? false : panelContext === api.panelId; // TODO: Revisit when handling Tab/Shift+Tab when using Portal's
+
+    var activeElementRef = __vite_ssr_import_1__.ref(null);
+    var previousActiveElementRef = __vite_ssr_import_1__.ref("undefined" === 'undefined' ? null : document.activeElement);
+    __vite_ssr_import_7__.useWindowEvent('focus', function () {
+      previousActiveElementRef.value = activeElementRef.value;
+      activeElementRef.value = document.activeElement;
+    }, true);
+    var elementRef = __vite_ssr_import_1__.ref(null);
+
+    if (!isWithinPanel) {
+      __vite_ssr_import_1__.watchEffect(function () {
+        api.button.value = elementRef.value;
+      });
+    }
+
+    return {
+      isWithinPanel: isWithinPanel,
+      el: elementRef,
+      type: __vite_ssr_import_10__.useResolveButtonType(__vite_ssr_import_1__.computed(function () {
+        return {
+          as: props.as,
+          type: attrs.type
+        };
+      }), elementRef),
+      handleKeyDown: function handleKeyDown(event) {
+        var _dom6, _dom7;
+
+        if (isWithinPanel) {
+          if (api.popoverState.value === PopoverStates.Closed) return;
+
+          switch (event.key) {
+            case __vite_ssr_import_4__.Keys.Space:
+            case __vite_ssr_import_4__.Keys.Enter:
+              event.preventDefault(); // Prevent triggering a *click* event
+
+              event.stopPropagation();
+              api.closePopover();
+              (_dom6 = __vite_ssr_import_8__.dom(api.button)) == null ? void 0 : _dom6.focus(); // Re-focus the original opening Button
+
+              break;
+          }
+        } else {
+          switch (event.key) {
+            case __vite_ssr_import_4__.Keys.Space:
+            case __vite_ssr_import_4__.Keys.Enter:
+              event.preventDefault(); // Prevent triggering a *click* event
+
+              event.stopPropagation();
+              if (api.popoverState.value === PopoverStates.Closed) closeOthers == null ? void 0 : closeOthers(api.buttonId);
+              api.togglePopover();
+              break;
+
+            case __vite_ssr_import_4__.Keys.Escape:
+              if (api.popoverState.value !== PopoverStates.Open) return closeOthers == null ? void 0 : closeOthers(api.buttonId);
+              if (!__vite_ssr_import_8__.dom(api.button)) return;
+              if (!((_dom7 = __vite_ssr_import_8__.dom(api.button)) == null ? void 0 : _dom7.contains(document.activeElement))) return;
+              event.preventDefault();
+              event.stopPropagation();
+              api.closePopover();
+              break;
+
+            case __vite_ssr_import_4__.Keys.Tab:
+              if (api.popoverState.value !== PopoverStates.Open) return;
+              if (!api.panel) return;
+              if (!api.button) return; // TODO: Revisit when handling Tab/Shift+Tab when using Portal's
+
+              if (event.shiftKey) {
+                var _dom8, _dom9;
+
+                // Check if the last focused element exists, and check that it is not inside button or panel itself
+                if (!previousActiveElementRef.value) return;
+                if ((_dom8 = __vite_ssr_import_8__.dom(api.button)) == null ? void 0 : _dom8.contains(previousActiveElementRef.value)) return;
+                if ((_dom9 = __vite_ssr_import_8__.dom(api.panel)) == null ? void 0 : _dom9.contains(previousActiveElementRef.value)) return; // Check if the last focused element is *after* the button in the DOM
+
+                var focusableElements = __vite_ssr_import_6__.getFocusableElements();
+                var previousIdx = focusableElements.indexOf(previousActiveElementRef.value);
+                var buttonIdx = focusableElements.indexOf(__vite_ssr_import_8__.dom(api.button));
+                if (buttonIdx > previousIdx) return;
+                event.preventDefault();
+                event.stopPropagation();
+                __vite_ssr_import_6__.focusIn(__vite_ssr_import_8__.dom(api.panel), __vite_ssr_import_6__.Focus.Last);
+              } else {
+                event.preventDefault();
+                event.stopPropagation();
+                __vite_ssr_import_6__.focusIn(__vite_ssr_import_8__.dom(api.panel), __vite_ssr_import_6__.Focus.First);
+              }
+
+              break;
+          }
+        }
+      },
+      handleKeyUp: function handleKeyUp(event) {
+        var _dom10, _dom11;
+
+        if (isWithinPanel) return;
+
+        if (event.key === __vite_ssr_import_4__.Keys.Space) {
+          // Required for firefox, event.preventDefault() in handleKeyDown for
+          // the Space key doesn't cancel the handleKeyUp, which in turn
+          // triggers a *click*.
+          event.preventDefault();
+        }
+
+        if (api.popoverState.value !== PopoverStates.Open) return;
+        if (!api.panel) return;
+        if (!api.button) return; // TODO: Revisit when handling Tab/Shift+Tab when using Portal's
+
+        switch (event.key) {
+          case __vite_ssr_import_4__.Keys.Tab:
+            // Check if the last focused element exists, and check that it is not inside button or panel itself
+            if (!previousActiveElementRef.value) return;
+            if ((_dom10 = __vite_ssr_import_8__.dom(api.button)) == null ? void 0 : _dom10.contains(previousActiveElementRef.value)) return;
+            if ((_dom11 = __vite_ssr_import_8__.dom(api.panel)) == null ? void 0 : _dom11.contains(previousActiveElementRef.value)) return; // Check if the last focused element is *after* the button in the DOM
+
+            var focusableElements = __vite_ssr_import_6__.getFocusableElements();
+            var previousIdx = focusableElements.indexOf(previousActiveElementRef.value);
+            var buttonIdx = focusableElements.indexOf(__vite_ssr_import_8__.dom(api.button));
+            if (buttonIdx > previousIdx) return;
+            event.preventDefault();
+            event.stopPropagation();
+            __vite_ssr_import_6__.focusIn(__vite_ssr_import_8__.dom(api.panel), __vite_ssr_import_6__.Focus.Last);
+            break;
+        }
+      },
+      handleClick: function handleClick() {
+        if (props.disabled) return;
+
+        if (isWithinPanel) {
+          var _dom12;
+
+          api.closePopover();
+          (_dom12 = __vite_ssr_import_8__.dom(api.button)) == null ? void 0 : _dom12.focus(); // Re-focus the original opening Button
+        } else {
+          var _dom13;
+
+          if (api.popoverState.value === PopoverStates.Closed) closeOthers == null ? void 0 : closeOthers(api.buttonId);
+          (_dom13 = __vite_ssr_import_8__.dom(api.button)) == null ? void 0 : _dom13.focus();
+          api.togglePopover();
+        }
+      }
+    };
+  }
+}); // ---
+
+var PopoverOverlay = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'PopoverOverlay',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    },
+    "static": {
+      type: Boolean,
+      "default": false
+    },
+    unmount: {
+      type: Boolean,
+      "default": true
+    }
+  },
+  render: function render$1() {
+    var api = usePopoverContext('PopoverOverlay');
+    var slot = {
+      open: api.popoverState.value === PopoverStates.Open
+    };
+    var propsWeControl = {
+      id: this.id,
+      ref: 'el',
+      'aria-hidden': true,
+      onClick: this.handleClick
+    };
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, this.$props, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      features: __vite_ssr_import_3__.Features.RenderStrategy | __vite_ssr_import_3__.Features.Static,
+      visible: this.visible,
+      name: 'PopoverOverlay'
+    });
+  },
+  setup: function setup() {
+    var api = usePopoverContext('PopoverOverlay');
+    var usesOpenClosedState = __vite_ssr_import_9__.useOpenClosed();
+    var visible = __vite_ssr_import_1__.computed(function () {
+      if (usesOpenClosedState !== null) {
+        return usesOpenClosedState.value === __vite_ssr_import_9__.State.Open;
+      }
+
+      return api.popoverState.value === PopoverStates.Open;
+    });
+    return {
+      id: "headlessui-popover-overlay-" + __vite_ssr_import_5__.useId(),
+      handleClick: function handleClick() {
+        api.closePopover();
+      },
+      visible: visible
+    };
+  }
+}); // ---
+
+var PopoverPanel = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'PopoverPanel',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    },
+    "static": {
+      type: Boolean,
+      "default": false
+    },
+    unmount: {
+      type: Boolean,
+      "default": true
+    },
+    focus: {
+      type: Boolean,
+      "default": false
+    }
+  },
+  render: function render$1() {
+    var api = usePopoverContext('PopoverPanel');
+    var slot = {
+      open: api.popoverState.value === PopoverStates.Open,
+      close: api.close
+    };
+    var propsWeControl = {
+      ref: 'el',
+      id: this.id,
+      onKeydown: this.handleKeyDown
+    };
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, this.$props, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      features: __vite_ssr_import_3__.Features.RenderStrategy | __vite_ssr_import_3__.Features.Static,
+      visible: this.visible,
+      name: 'PopoverPanel'
+    });
+  },
+  setup: function setup(props) {
+    var focus = props.focus;
+    var api = usePopoverContext('PopoverPanel');
+    __vite_ssr_import_1__.provide(PopoverPanelContext, api.panelId);
+    __vite_ssr_import_1__.onUnmounted(function () {
+      api.panel.value = null;
+    }); // Move focus within panel
+
+    __vite_ssr_import_1__.watchEffect(function () {
+      var _dom14;
+
+      if (!focus) return;
+      if (api.popoverState.value !== PopoverStates.Open) return;
+      if (!api.panel) return;
+      var activeElement = document.activeElement;
+      if ((_dom14 = __vite_ssr_import_8__.dom(api.panel)) == null ? void 0 : _dom14.contains(activeElement)) return; // Already focused within Dialog
+
+      __vite_ssr_import_6__.focusIn(__vite_ssr_import_8__.dom(api.panel), __vite_ssr_import_6__.Focus.First);
+    }); // Handle Tab / Shift+Tab focus positioning
+
+    __vite_ssr_import_7__.useWindowEvent('keydown', function (event) {
+      var _dom15;
+
+      if (api.popoverState.value !== PopoverStates.Open) return;
+      if (!__vite_ssr_import_8__.dom(api.panel)) return;
+      if (event.key !== __vite_ssr_import_4__.Keys.Tab) return;
+      if (!document.activeElement) return;
+      if (!((_dom15 = __vite_ssr_import_8__.dom(api.panel)) == null ? void 0 : _dom15.contains(document.activeElement))) return; // We will take-over the default tab behaviour so that we have a bit
+      // control over what is focused next. It will behave exactly the same,
+      // but it will also "fix" some issues based on whether you are using a
+      // Portal or not.
+
+      event.preventDefault();
+      var result = __vite_ssr_import_6__.focusIn(__vite_ssr_import_8__.dom(api.panel), event.shiftKey ? __vite_ssr_import_6__.Focus.Previous : __vite_ssr_import_6__.Focus.Next);
+
+      if (result === __vite_ssr_import_6__.FocusResult.Underflow) {
+        var _dom16;
+
+        return (_dom16 = __vite_ssr_import_8__.dom(api.button)) == null ? void 0 : _dom16.focus();
+      } else if (result === __vite_ssr_import_6__.FocusResult.Overflow) {
+        if (!__vite_ssr_import_8__.dom(api.button)) return;
+        var elements = __vite_ssr_import_6__.getFocusableElements();
+        var buttonIdx = elements.indexOf(__vite_ssr_import_8__.dom(api.button));
+        var nextElements = elements.splice(buttonIdx + 1) // Elements after button
+        .filter(function (element) {
+          var _dom17;
+
+          return !((_dom17 = __vite_ssr_import_8__.dom(api.panel)) == null ? void 0 : _dom17.contains(element));
+        }); // Ignore items in panel
+        // Try to focus the next element, however it could fail if we are in a
+        // Portal that happens to be the very last one in the DOM. In that
+        // case we would Error (because nothing after the button is
+        // focusable). Therefore we will try and focus the very first item in
+        // the document.body.
+
+        if (__vite_ssr_import_6__.focusIn(nextElements, __vite_ssr_import_6__.Focus.First) === __vite_ssr_import_6__.FocusResult.Error) {
+          __vite_ssr_import_6__.focusIn(document.body, __vite_ssr_import_6__.Focus.First);
+        }
+      }
+    }); // Handle focus out when we are in special "focus" mode
+
+    __vite_ssr_import_7__.useWindowEvent('focus', function () {
+      var _dom18;
+
+      if (!focus) return;
+      if (api.popoverState.value !== PopoverStates.Open) return;
+      if (!__vite_ssr_import_8__.dom(api.panel)) return;
+      if ((_dom18 = __vite_ssr_import_8__.dom(api.panel)) == null ? void 0 : _dom18.contains(document.activeElement)) return;
+      api.closePopover();
+    }, true);
+    var usesOpenClosedState = __vite_ssr_import_9__.useOpenClosed();
+    var visible = __vite_ssr_import_1__.computed(function () {
+      if (usesOpenClosedState !== null) {
+        return usesOpenClosedState.value === __vite_ssr_import_9__.State.Open;
+      }
+
+      return api.popoverState.value === PopoverStates.Open;
+    });
+    return {
+      id: api.panelId,
+      el: api.panel,
+      handleKeyDown: function handleKeyDown(event) {
+        var _dom19, _dom20;
+
+        switch (event.key) {
+          case __vite_ssr_import_4__.Keys.Escape:
+            if (api.popoverState.value !== PopoverStates.Open) return;
+            if (!__vite_ssr_import_8__.dom(api.panel)) return;
+            if (!((_dom19 = __vite_ssr_import_8__.dom(api.panel)) == null ? void 0 : _dom19.contains(document.activeElement))) return;
+            event.preventDefault();
+            event.stopPropagation();
+            api.closePopover();
+            (_dom20 = __vite_ssr_import_8__.dom(api.button)) == null ? void 0 : _dom20.focus();
+            break;
+        }
+      },
+      visible: visible
+    };
+  }
+}); // ---
+
+var PopoverGroup = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'PopoverGroup',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    }
+  },
+  render: function render$1() {
+    var propsWeControl = {
+      ref: 'el'
+    };
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, this.$props, propsWeControl),
+      slot: {},
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'PopoverGroup'
+    });
+  },
+  setup: function setup() {
+    var groupRef = __vite_ssr_import_1__.ref(null);
+    var popovers = __vite_ssr_import_1__.ref([]);
+
+    function unregisterPopover(registerBag) {
+      var idx = popovers.value.indexOf(registerBag);
+      if (idx !== -1) popovers.value.splice(idx, 1);
+    }
+
+    function registerPopover(registerBag) {
+      popovers.value.push(registerBag);
+      return function () {
+        unregisterPopover(registerBag);
+      };
+    }
+
+    function isFocusWithinPopoverGroup() {
+      var _dom21;
+
+      var element = document.activeElement;
+      if ((_dom21 = __vite_ssr_import_8__.dom(groupRef)) == null ? void 0 : _dom21.contains(element)) return true; // Check if the focus is in one of the button or panel elements. This is important in case you are rendering inside a Portal.
+
+      return popovers.value.some(function (bag) {
+        var _document$getElementB, _document$getElementB2;
+
+        return ((_document$getElementB = document.getElementById(bag.buttonId)) == null ? void 0 : _document$getElementB.contains(element)) || ((_document$getElementB2 = document.getElementById(bag.panelId)) == null ? void 0 : _document$getElementB2.contains(element));
+      });
+    }
+
+    function closeOthers(buttonId) {
+      for (var _iterator = __vite_ssr_import_0__.createForOfIteratorHelperLoose(popovers.value), _step; !(_step = _iterator()).done;) {
+        var popover = _step.value;
+        if (popover.buttonId !== buttonId) popover.close();
+      }
+    }
+
+    __vite_ssr_import_1__.provide(PopoverGroupContext, {
+      registerPopover: registerPopover,
+      unregisterPopover: unregisterPopover,
+      isFocusWithinPopoverGroup: isFocusWithinPopoverGroup,
+      closeOthers: closeOthers
+    });
+    return {
+      el: groupRef
+    };
+  }
+});
+
+
+Object.defineProperty(__vite_ssr_exports__, "Popover", { enumerable: true, configurable: true, get(){ return Popover }});
+Object.defineProperty(__vite_ssr_exports__, "PopoverButton", { enumerable: true, configurable: true, get(){ return PopoverButton }});
+Object.defineProperty(__vite_ssr_exports__, "PopoverGroup", { enumerable: true, configurable: true, get(){ return PopoverGroup }});
+Object.defineProperty(__vite_ssr_exports__, "PopoverOverlay", { enumerable: true, configurable: true, get(){ return PopoverOverlay }});
+Object.defineProperty(__vite_ssr_exports__, "PopoverPanel", { enumerable: true, configurable: true, get(){ return PopoverPanel }});
+//# sourceMappingURL=popover.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/keyboard.esm.js ($id_851f9aee)
+// - /node_modules/@headlessui/vue/dist/hooks/use-id.esm.js ($id_91b75316)
+// - /node_modules/@headlessui/vue/dist/utils/focus-management.esm.js ($id_bcffe35d)
+// - /node_modules/@headlessui/vue/dist/components/description/description.esm.js ($id_35d2303d)
+// - /node_modules/@headlessui/vue/dist/utils/dom.esm.js ($id_2c50d6d0)
+// - /node_modules/@headlessui/vue/dist/hooks/use-tree-walker.esm.js ($id_8f79cfee)
+// - /node_modules/@headlessui/vue/dist/components/label/label.esm.js ($id_b1e73183)
+// --------------------
+const $id_f293a83d = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/keyboard.esm.js");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-id.esm.js");
+
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/focus-management.esm.js");
+
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/description/description.esm.js");
+
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/dom.esm.js");
+
+const __vite_ssr_import_8__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-tree-walker.esm.js");
+
+const __vite_ssr_import_9__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/label/label.esm.js");
+
+
+var RadioGroupContext = /*#__PURE__*/Symbol('RadioGroupContext');
+
+function useRadioGroupContext(component) {
+  var context = __vite_ssr_import_1__.inject(RadioGroupContext, null);
+
+  if (context === null) {
+    var err = new Error("<" + component + " /> is missing a parent <RadioGroup /> component.");
+    if (Error.captureStackTrace) Error.captureStackTrace(err, useRadioGroupContext);
+    throw err;
+  }
+
+  return context;
+} // ---
+
+
+var RadioGroup = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'RadioGroup',
+  emits: {
+    'update:modelValue': function updateModelValue(_value) {
+      return true;
+    }
+  },
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    },
+    disabled: {
+      type: [Boolean],
+      "default": false
+    },
+    modelValue: {
+      type: [Object, String, Number, Boolean]
+    }
+  },
+  render: function render$1() {
+    var _this$$props = this.$props,
+        passThroughProps = __vite_ssr_import_0__.objectWithoutPropertiesLoose(_this$$props, ["modelValue", "disabled"]);
+
+    var propsWeControl = {
+      ref: 'el',
+      id: this.id,
+      role: 'radiogroup',
+      'aria-labelledby': this.labelledby,
+      'aria-describedby': this.describedby,
+      onKeydown: this.handleKeyDown
+    };
+    return __vite_ssr_import_2__.render({
+      props: __vite_ssr_import_0__.extends({}, passThroughProps, propsWeControl),
+      slot: {},
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'RadioGroup'
+    });
+  },
+  setup: function setup(props, _ref) {
+    var emit = _ref.emit;
+    var radioGroupRef = __vite_ssr_import_1__.ref(null);
+    var options = __vite_ssr_import_1__.ref([]);
+    var labelledby = __vite_ssr_import_9__.useLabels({
+      name: 'RadioGroupLabel'
+    });
+    var describedby = __vite_ssr_import_6__.useDescriptions({
+      name: 'RadioGroupDescription'
+    });
+    var value = __vite_ssr_import_1__.computed(function () {
+      return props.modelValue;
+    });
+    var api = {
+      options: options,
+      value: value,
+      disabled: __vite_ssr_import_1__.computed(function () {
+        return props.disabled;
+      }),
+      firstOption: __vite_ssr_import_1__.computed(function () {
+        return options.value.find(function (option) {
+          if (option.propsRef.disabled) return false;
+          return true;
+        });
+      }),
+      containsCheckedOption: __vite_ssr_import_1__.computed(function () {
+        return options.value.some(function (option) {
+          return __vite_ssr_import_1__.toRaw(option.propsRef.value) === __vite_ssr_import_1__.toRaw(props.modelValue);
+        });
+      }),
+      change: function change(nextValue) {
+        var _options$value$find;
+
+        if (props.disabled) return false;
+        if (value.value === nextValue) return false;
+        var nextOption = (_options$value$find = options.value.find(function (option) {
+          return __vite_ssr_import_1__.toRaw(option.propsRef.value) === __vite_ssr_import_1__.toRaw(nextValue);
+        })) == null ? void 0 : _options$value$find.propsRef;
+        if (nextOption == null ? void 0 : nextOption.disabled) return false;
+        emit('update:modelValue', nextValue);
+        return true;
+      },
+      registerOption: function registerOption(action) {
+        var _radioGroupRef$value;
+
+        var orderMap = Array.from((_radioGroupRef$value = radioGroupRef.value) == null ? void 0 : _radioGroupRef$value.querySelectorAll('[id^="headlessui-radiogroup-option-"]')).reduce(function (lookup, element, index) {
+          var _Object$assign;
+
+          return Object.assign(lookup, (_Object$assign = {}, _Object$assign[element.id] = index, _Object$assign));
+        }, {});
+        options.value.push(action);
+        options.value.sort(function (a, z) {
+          return orderMap[a.id] - orderMap[z.id];
+        });
+      },
+      unregisterOption: function unregisterOption(id) {
+        var idx = options.value.findIndex(function (radio) {
+          return radio.id === id;
+        });
+        if (idx === -1) return;
+        options.value.splice(idx, 1);
+      }
+    }; // @ts-expect-error ...
+
+    __vite_ssr_import_1__.provide(RadioGroupContext, api);
+    __vite_ssr_import_8__.useTreeWalker({
+      container: __vite_ssr_import_1__.computed(function () {
+        return __vite_ssr_import_7__.dom(radioGroupRef);
+      }),
+      accept: function accept(node) {
+        if (node.getAttribute('role') === 'radio') return NodeFilter.FILTER_REJECT;
+        if (node.hasAttribute('role')) return NodeFilter.FILTER_SKIP;
+        return NodeFilter.FILTER_ACCEPT;
+      },
+      walk: function walk(node) {
+        node.setAttribute('role', 'none');
+      }
+    });
+
+    function handleKeyDown(event) {
+      if (!radioGroupRef.value) return;
+      if (!radioGroupRef.value.contains(event.target)) return;
+      var all = options.value.filter(function (option) {
+        return option.propsRef.disabled === false;
+      }).map(function (radio) {
+        return radio.element;
+      });
+
+      switch (event.key) {
+        case __vite_ssr_import_3__.Keys.ArrowLeft:
+        case __vite_ssr_import_3__.Keys.ArrowUp:
+          {
+            event.preventDefault();
+            event.stopPropagation();
+            var result = __vite_ssr_import_5__.focusIn(all, __vite_ssr_import_5__.Focus.Previous | __vite_ssr_import_5__.Focus.WrapAround);
+
+            if (result === __vite_ssr_import_5__.FocusResult.Success) {
+              var activeOption = options.value.find(function (option) {
+                return option.element === document.activeElement;
+              });
+              if (activeOption) api.change(activeOption.propsRef.value);
+            }
+          }
+          break;
+
+        case __vite_ssr_import_3__.Keys.ArrowRight:
+        case __vite_ssr_import_3__.Keys.ArrowDown:
+          {
+            event.preventDefault();
+            event.stopPropagation();
+
+            var _result = __vite_ssr_import_5__.focusIn(all, __vite_ssr_import_5__.Focus.Next | __vite_ssr_import_5__.Focus.WrapAround);
+
+            if (_result === __vite_ssr_import_5__.FocusResult.Success) {
+              var _activeOption = options.value.find(function (option) {
+                return option.element === document.activeElement;
+              });
+
+              if (_activeOption) api.change(_activeOption.propsRef.value);
+            }
+          }
+          break;
+
+        case __vite_ssr_import_3__.Keys.Space:
+          {
+            event.preventDefault();
+            event.stopPropagation();
+
+            var _activeOption2 = options.value.find(function (option) {
+              return option.element === document.activeElement;
+            });
+
+            if (_activeOption2) api.change(_activeOption2.propsRef.value);
+          }
+          break;
+      }
+    }
+
+    var id = "headlessui-radiogroup-" + __vite_ssr_import_4__.useId();
+    return {
+      id: id,
+      labelledby: labelledby,
+      describedby: describedby,
+      el: radioGroupRef,
+      handleKeyDown: handleKeyDown
+    };
+  }
+}); // ---
+
+var OptionState;
+
+(function (OptionState) {
+  OptionState[OptionState["Empty"] = 1] = "Empty";
+  OptionState[OptionState["Active"] = 2] = "Active";
+})(OptionState || (OptionState = {}));
+
+var RadioGroupOption = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'RadioGroupOption',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    },
+    value: {
+      type: [Object, String, Number, Boolean]
+    },
+    disabled: {
+      type: Boolean,
+      "default": false
+    }
+  },
+  render: function render$1() {
+    var _this$$props2 = this.$props,
+        passThroughProps = __vite_ssr_import_0__.objectWithoutPropertiesLoose(_this$$props2, ["value", "disabled"]);
+
+    var slot = {
+      checked: this.checked,
+      disabled: this.disabled,
+      active: Boolean(this.state & OptionState.Active)
+    };
+    var propsWeControl = {
+      id: this.id,
+      ref: 'el',
+      role: 'radio',
+      'aria-checked': this.checked ? 'true' : 'false',
+      'aria-labelledby': this.labelledby,
+      'aria-describedby': this.describedby,
+      'aria-disabled': this.disabled ? true : undefined,
+      tabIndex: this.tabIndex,
+      onClick: this.disabled ? undefined : this.handleClick,
+      onFocus: this.disabled ? undefined : this.handleFocus,
+      onBlur: this.disabled ? undefined : this.handleBlur
+    };
+    return __vite_ssr_import_2__.render({
+      props: __vite_ssr_import_0__.extends({}, passThroughProps, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'RadioGroupOption'
+    });
+  },
+  setup: function setup(props) {
+    var api = useRadioGroupContext('RadioGroupOption');
+    var id = "headlessui-radiogroup-option-" + __vite_ssr_import_4__.useId();
+    var labelledby = __vite_ssr_import_9__.useLabels({
+      name: 'RadioGroupLabel'
+    });
+    var describedby = __vite_ssr_import_6__.useDescriptions({
+      name: 'RadioGroupDescription'
+    });
+    var optionRef = __vite_ssr_import_1__.ref(null);
+    var propsRef = __vite_ssr_import_1__.computed(function () {
+      return {
+        value: props.value,
+        disabled: props.disabled
+      };
+    });
+    var state = __vite_ssr_import_1__.ref(OptionState.Empty);
+    __vite_ssr_import_1__.onMounted(function () {
+      return api.registerOption({
+        id: id,
+        element: optionRef,
+        propsRef: propsRef
+      });
+    });
+    __vite_ssr_import_1__.onUnmounted(function () {
+      return api.unregisterOption(id);
+    });
+    var isFirstOption = __vite_ssr_import_1__.computed(function () {
+      var _api$firstOption$valu;
+
+      return ((_api$firstOption$valu = api.firstOption.value) == null ? void 0 : _api$firstOption$valu.id) === id;
+    });
+    var disabled = __vite_ssr_import_1__.computed(function () {
+      return api.disabled.value || props.disabled;
+    });
+    var checked = __vite_ssr_import_1__.computed(function () {
+      return __vite_ssr_import_1__.toRaw(api.value.value) === __vite_ssr_import_1__.toRaw(props.value);
+    });
+    return {
+      id: id,
+      el: optionRef,
+      labelledby: labelledby,
+      describedby: describedby,
+      state: state,
+      disabled: disabled,
+      checked: checked,
+      tabIndex: __vite_ssr_import_1__.computed(function () {
+        if (disabled.value) return -1;
+        if (checked.value) return 0;
+        if (!api.containsCheckedOption.value && isFirstOption.value) return 0;
+        return -1;
+      }),
+      handleClick: function handleClick() {
+        var _optionRef$value;
+
+        if (!api.change(props.value)) return;
+        state.value |= OptionState.Active;
+        (_optionRef$value = optionRef.value) == null ? void 0 : _optionRef$value.focus();
+      },
+      handleFocus: function handleFocus() {
+        state.value |= OptionState.Active;
+      },
+      handleBlur: function handleBlur() {
+        state.value &= ~OptionState.Active;
+      }
+    };
+  }
+}); // ---
+
+var RadioGroupLabel = __vite_ssr_import_9__.Label;
+var RadioGroupDescription = __vite_ssr_import_6__.Description;
+
+
+Object.defineProperty(__vite_ssr_exports__, "RadioGroup", { enumerable: true, configurable: true, get(){ return RadioGroup }});
+Object.defineProperty(__vite_ssr_exports__, "RadioGroupDescription", { enumerable: true, configurable: true, get(){ return RadioGroupDescription }});
+Object.defineProperty(__vite_ssr_exports__, "RadioGroupLabel", { enumerable: true, configurable: true, get(){ return RadioGroupLabel }});
+Object.defineProperty(__vite_ssr_exports__, "RadioGroupOption", { enumerable: true, configurable: true, get(){ return RadioGroupOption }});
+//# sourceMappingURL=radio-group.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/label/label.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js ($id_f293a83d)
+// - /node_modules/@headlessui/vue/dist/components/switch/switch.esm.js ($id_4ec2ab7a)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/hooks/use-id.esm.js ($id_91b75316)
+// --------------------
+const $id_b1e73183 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-id.esm.js");
+
+
+var LabelContext = /*#__PURE__*/Symbol('LabelContext');
+
+function useLabelContext() {
+  var context = __vite_ssr_import_1__.inject(LabelContext, null);
+
+  if (context === null) {
+    var err = new Error('You used a <Label /> component, but it is not inside a parent.');
+    if (Error.captureStackTrace) Error.captureStackTrace(err, useLabelContext);
+    throw err;
+  }
+
+  return context;
+}
+
+function useLabels(_temp) {
+  var _ref = _temp === void 0 ? {} : _temp,
+      _ref$slot = _ref.slot,
+      slot = _ref$slot === void 0 ? {} : _ref$slot,
+      _ref$name = _ref.name,
+      name = _ref$name === void 0 ? 'Label' : _ref$name,
+      _ref$props = _ref.props,
+      props = _ref$props === void 0 ? {} : _ref$props;
+
+  var labelIds = __vite_ssr_import_1__.ref([]);
+
+  function register(value) {
+    labelIds.value.push(value);
+    return function () {
+      var idx = labelIds.value.indexOf(value);
+      if (idx === -1) return;
+      labelIds.value.splice(idx, 1);
+    };
+  }
+
+  __vite_ssr_import_1__.provide(LabelContext, {
+    register: register,
+    slot: slot,
+    name: name,
+    props: props
+  }); // The actual id's as string or undefined.
+
+  return __vite_ssr_import_1__.computed(function () {
+    return labelIds.value.length > 0 ? labelIds.value.join(' ') : undefined;
+  });
+} // ---
+
+var Label = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'Label',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'label'
+    },
+    passive: {
+      type: [Boolean],
+      "default": false
+    }
+  },
+  render: function render$1() {
+    var _this$context = this.context,
+        _this$context$name = _this$context.name,
+        name = _this$context$name === void 0 ? 'Label' : _this$context$name,
+        _this$context$slot = _this$context.slot,
+        slot = _this$context$slot === void 0 ? {} : _this$context$slot,
+        _this$context$props = _this$context.props,
+        props = _this$context$props === void 0 ? {} : _this$context$props;
+
+    var _this$$props = this.$props,
+        passive = _this$$props.passive,
+        passThroughProps = __vite_ssr_import_0__.objectWithoutPropertiesLoose(_this$$props, ["passive"]);
+
+    var propsWeControl = __vite_ssr_import_0__.extends({}, Object.entries(props).reduce(function (acc, _ref2) {
+      var _Object$assign;
+
+      var key = _ref2[0],
+          value = _ref2[1];
+      return Object.assign(acc, (_Object$assign = {}, _Object$assign[key] = __vite_ssr_import_1__.unref(value), _Object$assign));
+    }, {}), {
+      id: this.id
+    });
+
+    var allProps = __vite_ssr_import_0__.extends({}, passThroughProps, propsWeControl); // @ts-expect-error props are dynamic via context, some components will
+    //                  provide an onClick then we can delete it.
+
+
+    if (passive) delete allProps['onClick'];
+    return __vite_ssr_import_2__.render({
+      props: allProps,
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: name
+    });
+  },
+  setup: function setup() {
+    var context = useLabelContext();
+    var id = "headlessui-label-" + __vite_ssr_import_3__.useId();
+    __vite_ssr_import_1__.onMounted(function () {
+      return __vite_ssr_import_1__.onUnmounted(context.register(id));
+    });
+    return {
+      id: id,
+      context: context
+    };
+  }
+});
+
+
+Object.defineProperty(__vite_ssr_exports__, "Label", { enumerable: true, configurable: true, get(){ return Label }});
+Object.defineProperty(__vite_ssr_exports__, "useLabels", { enumerable: true, configurable: true, get(){ return useLabels }});
+//# sourceMappingURL=label.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/switch/switch.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/keyboard.esm.js ($id_851f9aee)
+// - /node_modules/@headlessui/vue/dist/hooks/use-id.esm.js ($id_91b75316)
+// - /node_modules/@headlessui/vue/dist/components/description/description.esm.js ($id_35d2303d)
+// - /node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js ($id_05706002)
+// - /node_modules/@headlessui/vue/dist/components/label/label.esm.js ($id_b1e73183)
+// --------------------
+const $id_4ec2ab7a = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/keyboard.esm.js");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-id.esm.js");
+
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/description/description.esm.js");
+
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js");
+
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/label/label.esm.js");
+
+
+var GroupContext = /*#__PURE__*/Symbol('GroupContext'); // ---
+
+var SwitchGroup = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'SwitchGroup',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'template'
+    }
+  },
+  setup: function setup(props, _ref) {
+    var slots = _ref.slots,
+        attrs = _ref.attrs;
+    var switchRef = __vite_ssr_import_1__.ref(null);
+    var labelledby = __vite_ssr_import_7__.useLabels({
+      name: 'SwitchLabel',
+      props: {
+        onClick: function onClick() {
+          if (!switchRef.value) return;
+          switchRef.value.click();
+          switchRef.value.focus({
+            preventScroll: true
+          });
+        }
+      }
+    });
+    var describedby = __vite_ssr_import_5__.useDescriptions({
+      name: 'SwitchDescription'
+    });
+    var api = {
+      switchRef: switchRef,
+      labelledby: labelledby,
+      describedby: describedby
+    };
+    __vite_ssr_import_1__.provide(GroupContext, api);
+    return function () {
+      return __vite_ssr_import_2__.render({
+        props: props,
+        slot: {},
+        slots: slots,
+        attrs: attrs,
+        name: 'SwitchGroup'
+      });
+    };
+  }
+}); // ---
+
+var Switch = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'Switch',
+  emits: {
+    'update:modelValue': function updateModelValue(_value) {
+      return true;
+    }
+  },
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'button'
+    },
+    modelValue: {
+      type: Boolean,
+      "default": false
+    }
+  },
+  render: function render$1() {
+    var slot = {
+      checked: this.$props.modelValue
+    };
+    var propsWeControl = {
+      id: this.id,
+      ref: 'el',
+      role: 'switch',
+      type: this.type,
+      tabIndex: 0,
+      'aria-checked': this.$props.modelValue,
+      'aria-labelledby': this.labelledby,
+      'aria-describedby': this.describedby,
+      onClick: this.handleClick,
+      onKeyup: this.handleKeyUp,
+      onKeypress: this.handleKeyPress
+    };
+    return __vite_ssr_import_2__.render({
+      props: __vite_ssr_import_0__.extends({}, this.$props, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'Switch'
+    });
+  },
+  setup: function setup(props, _ref2) {
+    var emit = _ref2.emit,
+        attrs = _ref2.attrs;
+    var api = __vite_ssr_import_1__.inject(GroupContext, null);
+    var id = "headlessui-switch-" + __vite_ssr_import_4__.useId();
+
+    function toggle() {
+      emit('update:modelValue', !props.modelValue);
+    }
+
+    var internalSwitchRef = __vite_ssr_import_1__.ref(null);
+    var switchRef = api === null ? internalSwitchRef : api.switchRef;
+    return {
+      id: id,
+      el: switchRef,
+      type: __vite_ssr_import_6__.useResolveButtonType(__vite_ssr_import_1__.computed(function () {
+        return {
+          as: props.as,
+          type: attrs.type
+        };
+      }), switchRef),
+      labelledby: api == null ? void 0 : api.labelledby,
+      describedby: api == null ? void 0 : api.describedby,
+      handleClick: function handleClick(event) {
+        event.preventDefault();
+        toggle();
+      },
+      handleKeyUp: function handleKeyUp(event) {
+        if (event.key !== __vite_ssr_import_3__.Keys.Tab) event.preventDefault();
+        if (event.key === __vite_ssr_import_3__.Keys.Space) toggle();
+      },
+      // This is needed so that we can "cancel" the click event when we use the `Enter` key on a button.
+      handleKeyPress: function handleKeyPress(event) {
+        event.preventDefault();
+      }
+    };
+  }
+}); // ---
+
+var SwitchLabel = __vite_ssr_import_7__.Label;
+var SwitchDescription = __vite_ssr_import_5__.Description;
+
+
+Object.defineProperty(__vite_ssr_exports__, "Switch", { enumerable: true, configurable: true, get(){ return Switch }});
+Object.defineProperty(__vite_ssr_exports__, "SwitchDescription", { enumerable: true, configurable: true, get(){ return SwitchDescription }});
+Object.defineProperty(__vite_ssr_exports__, "SwitchGroup", { enumerable: true, configurable: true, get(){ return SwitchGroup }});
+Object.defineProperty(__vite_ssr_exports__, "SwitchLabel", { enumerable: true, configurable: true, get(){ return SwitchLabel }});
+//# sourceMappingURL=switch.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/match.esm.js ($id_a504e9df)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/keyboard.esm.js ($id_851f9aee)
+// - /node_modules/@headlessui/vue/dist/hooks/use-id.esm.js ($id_91b75316)
+// - /node_modules/@headlessui/vue/dist/utils/focus-management.esm.js ($id_bcffe35d)
+// - /node_modules/@headlessui/vue/dist/utils/dom.esm.js ($id_2c50d6d0)
+// - /node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js ($id_05706002)
+// --------------------
+const $id_f55023ef = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/match.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/keyboard.esm.js");
+
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-id.esm.js");
+
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/focus-management.esm.js");
+
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/dom.esm.js");
+
+const __vite_ssr_import_8__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js");
+
+
+var TabsContext = /*#__PURE__*/Symbol('TabsContext');
+
+function useTabsContext(component) {
+  var context = __vite_ssr_import_1__.inject(TabsContext, null);
+
+  if (context === null) {
+    var err = new Error("<" + component + " /> is missing a parent <TabGroup /> component.");
+    if (Error.captureStackTrace) Error.captureStackTrace(err, useTabsContext);
+    throw err;
+  }
+
+  return context;
+} // ---
+
+
+var TabGroup = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'TabGroup',
+  emits: {
+    change: function change(_index) {
+      return true;
+    }
+  },
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'template'
+    },
+    selectedIndex: {
+      type: [Number],
+      "default": null
+    },
+    defaultIndex: {
+      type: [Number],
+      "default": 0
+    },
+    vertical: {
+      type: [Boolean],
+      "default": false
+    },
+    manual: {
+      type: [Boolean],
+      "default": false
+    }
+  },
+  setup: function setup(props, _ref) {
+    var slots = _ref.slots,
+        attrs = _ref.attrs,
+        emit = _ref.emit;
+    var selectedIndex = __vite_ssr_import_1__.ref(null);
+    var tabs = __vite_ssr_import_1__.ref([]);
+    var panels = __vite_ssr_import_1__.ref([]);
+    var api = {
+      selectedIndex: selectedIndex,
+      orientation: __vite_ssr_import_1__.computed(function () {
+        return props.vertical ? 'vertical' : 'horizontal';
+      }),
+      activation: __vite_ssr_import_1__.computed(function () {
+        return props.manual ? 'manual' : 'auto';
+      }),
+      tabs: tabs,
+      panels: panels,
+      setSelectedIndex: function setSelectedIndex(index) {
+        if (selectedIndex.value === index) return;
+        selectedIndex.value = index;
+        emit('change', index);
+      },
+      registerTab: function registerTab(tab) {
+        if (!tabs.value.includes(tab)) tabs.value.push(tab);
+      },
+      unregisterTab: function unregisterTab(tab) {
+        var idx = tabs.value.indexOf(tab);
+        if (idx !== -1) tabs.value.splice(idx, 1);
+      },
+      registerPanel: function registerPanel(panel) {
+        if (!panels.value.includes(panel)) panels.value.push(panel);
+      },
+      unregisterPanel: function unregisterPanel(panel) {
+        var idx = panels.value.indexOf(panel);
+        if (idx !== -1) panels.value.splice(idx, 1);
+      }
+    };
+    __vite_ssr_import_1__.provide(TabsContext, api);
+    __vite_ssr_import_1__.watchEffect(function () {
+      var _props$selectedIndex;
+
+      if (api.tabs.value.length <= 0) return;
+      if (props.selectedIndex === null && selectedIndex.value !== null) return;
+      var tabs = api.tabs.value.map(function (tab) {
+        return __vite_ssr_import_7__.dom(tab);
+      }).filter(Boolean);
+      var focusableTabs = tabs.filter(function (tab) {
+        return !tab.hasAttribute('disabled');
+      });
+      var indexToSet = (_props$selectedIndex = props.selectedIndex) != null ? _props$selectedIndex : props.defaultIndex; // Underflow
+
+      if (indexToSet < 0) {
+        selectedIndex.value = tabs.indexOf(focusableTabs[0]);
+      } // Overflow
+      else if (indexToSet > api.tabs.value.length) {
+          selectedIndex.value = tabs.indexOf(focusableTabs[focusableTabs.length - 1]);
+        } // Middle
+        else {
+            var before = tabs.slice(0, indexToSet);
+            var after = tabs.slice(indexToSet);
+            var next = [].concat(after, before).find(function (tab) {
+              return focusableTabs.includes(tab);
+            });
+            if (!next) return;
+            selectedIndex.value = tabs.indexOf(next);
+          }
+    });
+    return function () {
+      var slot = {
+        selectedIndex: selectedIndex.value
+      };
+      return __vite_ssr_import_3__.render({
+        props: __vite_ssr_import_3__.omit(props, ['selectedIndex', 'defaultIndex', 'manual', 'vertical', 'onChange']),
+        slot: slot,
+        slots: slots,
+        attrs: attrs,
+        name: 'TabGroup'
+      });
+    };
+  }
+}); // ---
+
+var TabList = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'TabList',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    }
+  },
+  setup: function setup(props, _ref2) {
+    var attrs = _ref2.attrs,
+        slots = _ref2.slots;
+    var api = useTabsContext('TabList');
+    return function () {
+      var slot = {
+        selectedIndex: api.selectedIndex.value
+      };
+      var propsWeControl = {
+        role: 'tablist',
+        'aria-orientation': api.orientation.value
+      };
+      var passThroughProps = props;
+      return __vite_ssr_import_3__.render({
+        props: __vite_ssr_import_0__.extends({}, passThroughProps, propsWeControl),
+        slot: slot,
+        attrs: attrs,
+        slots: slots,
+        name: 'TabList'
+      });
+    };
+  }
+}); // ---
+
+var Tab = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'Tab',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'button'
+    },
+    disabled: {
+      type: [Boolean],
+      "default": false
+    }
+  },
+  render: function render$1() {
+    var _api$panels$value$thi, _api$panels$value$thi2;
+
+    var api = useTabsContext('Tab');
+    var slot = {
+      selected: this.selected
+    };
+    var propsWeControl = {
+      ref: 'el',
+      onKeydown: this.handleKeyDown,
+      onFocus: api.activation.value === 'manual' ? this.handleFocus : this.handleSelection,
+      onClick: this.handleSelection,
+      id: this.id,
+      role: 'tab',
+      type: this.type,
+      'aria-controls': (_api$panels$value$thi = api.panels.value[this.myIndex]) == null ? void 0 : (_api$panels$value$thi2 = _api$panels$value$thi.value) == null ? void 0 : _api$panels$value$thi2.id,
+      'aria-selected': this.selected,
+      tabIndex: this.selected ? 0 : -1,
+      disabled: this.$props.disabled ? true : undefined
+    };
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, this.$props, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      name: 'Tab'
+    });
+  },
+  setup: function setup(props, _ref3) {
+    var attrs = _ref3.attrs;
+    var api = useTabsContext('Tab');
+    var id = "headlessui-tabs-tab-" + __vite_ssr_import_5__.useId();
+    var tabRef = __vite_ssr_import_1__.ref();
+    __vite_ssr_import_1__.onMounted(function () {
+      return api.registerTab(tabRef);
+    });
+    __vite_ssr_import_1__.onUnmounted(function () {
+      return api.unregisterTab(tabRef);
+    });
+    var myIndex = __vite_ssr_import_1__.computed(function () {
+      return api.tabs.value.indexOf(tabRef);
+    });
+    var selected = __vite_ssr_import_1__.computed(function () {
+      return myIndex.value === api.selectedIndex.value;
+    });
+
+    function handleKeyDown(event) {
+      var list = api.tabs.value.map(function (tab) {
+        return __vite_ssr_import_7__.dom(tab);
+      }).filter(Boolean);
+
+      if (event.key === __vite_ssr_import_4__.Keys.Space || event.key === __vite_ssr_import_4__.Keys.Enter) {
+        event.preventDefault();
+        event.stopPropagation();
+        api.setSelectedIndex(myIndex.value);
+        return;
+      }
+
+      switch (event.key) {
+        case __vite_ssr_import_4__.Keys.Home:
+        case __vite_ssr_import_4__.Keys.PageUp:
+          event.preventDefault();
+          event.stopPropagation();
+          return __vite_ssr_import_6__.focusIn(list, __vite_ssr_import_6__.Focus.First);
+
+        case __vite_ssr_import_4__.Keys.End:
+        case __vite_ssr_import_4__.Keys.PageDown:
+          event.preventDefault();
+          event.stopPropagation();
+          return __vite_ssr_import_6__.focusIn(list, __vite_ssr_import_6__.Focus.Last);
+      }
+
+      return __vite_ssr_import_2__.match(api.orientation.value, {
+        vertical: function vertical() {
+          if (event.key === __vite_ssr_import_4__.Keys.ArrowUp) return __vite_ssr_import_6__.focusIn(list, __vite_ssr_import_6__.Focus.Previous | __vite_ssr_import_6__.Focus.WrapAround);
+          if (event.key === __vite_ssr_import_4__.Keys.ArrowDown) return __vite_ssr_import_6__.focusIn(list, __vite_ssr_import_6__.Focus.Next | __vite_ssr_import_6__.Focus.WrapAround);
+          return;
+        },
+        horizontal: function horizontal() {
+          if (event.key === __vite_ssr_import_4__.Keys.ArrowLeft) return __vite_ssr_import_6__.focusIn(list, __vite_ssr_import_6__.Focus.Previous | __vite_ssr_import_6__.Focus.WrapAround);
+          if (event.key === __vite_ssr_import_4__.Keys.ArrowRight) return __vite_ssr_import_6__.focusIn(list, __vite_ssr_import_6__.Focus.Next | __vite_ssr_import_6__.Focus.WrapAround);
+          return;
+        }
+      });
+    }
+
+    function handleFocus() {
+      var _dom;
+
+      (_dom = __vite_ssr_import_7__.dom(tabRef)) == null ? void 0 : _dom.focus();
+    }
+
+    function handleSelection() {
+      var _dom2;
+
+      if (props.disabled) return;
+      (_dom2 = __vite_ssr_import_7__.dom(tabRef)) == null ? void 0 : _dom2.focus();
+      api.setSelectedIndex(myIndex.value);
+    }
+
+    return {
+      el: tabRef,
+      id: id,
+      selected: selected,
+      myIndex: myIndex,
+      type: __vite_ssr_import_8__.useResolveButtonType(__vite_ssr_import_1__.computed(function () {
+        return {
+          as: props.as,
+          type: attrs.type
+        };
+      }), tabRef),
+      handleKeyDown: handleKeyDown,
+      handleFocus: handleFocus,
+      handleSelection: handleSelection
+    };
+  }
+}); // ---
+
+var TabPanels = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'TabPanels',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    }
+  },
+  setup: function setup(props, _ref4) {
+    var slots = _ref4.slots,
+        attrs = _ref4.attrs;
+    var api = useTabsContext('TabPanels');
+    return function () {
+      var slot = {
+        selectedIndex: api.selectedIndex.value
+      };
+      return __vite_ssr_import_3__.render({
+        props: props,
+        slot: slot,
+        attrs: attrs,
+        slots: slots,
+        name: 'TabPanels'
+      });
+    };
+  }
+});
+var TabPanel = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  name: 'TabPanel',
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    },
+    "static": {
+      type: Boolean,
+      "default": false
+    },
+    unmount: {
+      type: Boolean,
+      "default": true
+    }
+  },
+  render: function render$1() {
+    var _api$tabs$value$this$, _api$tabs$value$this$2;
+
+    var api = useTabsContext('TabPanel');
+    var slot = {
+      selected: this.selected
+    };
+    var propsWeControl = {
+      ref: 'el',
+      id: this.id,
+      role: 'tabpanel',
+      'aria-labelledby': (_api$tabs$value$this$ = api.tabs.value[this.myIndex]) == null ? void 0 : (_api$tabs$value$this$2 = _api$tabs$value$this$.value) == null ? void 0 : _api$tabs$value$this$2.id,
+      tabIndex: this.selected ? 0 : -1
+    };
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, this.$props, propsWeControl),
+      slot: slot,
+      attrs: this.$attrs,
+      slots: this.$slots,
+      features: __vite_ssr_import_3__.Features.Static | __vite_ssr_import_3__.Features.RenderStrategy,
+      visible: this.selected,
+      name: 'TabPanel'
+    });
+  },
+  setup: function setup() {
+    var api = useTabsContext('TabPanel');
+    var id = "headlessui-tabs-panel-" + __vite_ssr_import_5__.useId();
+    var panelRef = __vite_ssr_import_1__.ref();
+    __vite_ssr_import_1__.onMounted(function () {
+      return api.registerPanel(panelRef);
+    });
+    __vite_ssr_import_1__.onUnmounted(function () {
+      return api.unregisterPanel(panelRef);
+    });
+    var myIndex = __vite_ssr_import_1__.computed(function () {
+      return api.panels.value.indexOf(panelRef);
+    });
+    var selected = __vite_ssr_import_1__.computed(function () {
+      return myIndex.value === api.selectedIndex.value;
+    });
+    return {
+      id: id,
+      el: panelRef,
+      selected: selected,
+      myIndex: myIndex
+    };
+  }
+});
+
+
+Object.defineProperty(__vite_ssr_exports__, "Tab", { enumerable: true, configurable: true, get(){ return Tab }});
+Object.defineProperty(__vite_ssr_exports__, "TabGroup", { enumerable: true, configurable: true, get(){ return TabGroup }});
+Object.defineProperty(__vite_ssr_exports__, "TabList", { enumerable: true, configurable: true, get(){ return TabList }});
+Object.defineProperty(__vite_ssr_exports__, "TabPanel", { enumerable: true, configurable: true, get(){ return TabPanel }});
+Object.defineProperty(__vite_ssr_exports__, "TabPanels", { enumerable: true, configurable: true, get(){ return TabPanels }});
+//# sourceMappingURL=tabs.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/transitions/transition.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /node_modules/@headlessui/vue/dist/utils/match.esm.js ($id_a504e9df)
+// - /node_modules/@headlessui/vue/dist/utils/render.esm.js ($id_43adc7eb)
+// - /node_modules/@headlessui/vue/dist/hooks/use-id.esm.js ($id_91b75316)
+// - /node_modules/@headlessui/vue/dist/utils/dom.esm.js ($id_2c50d6d0)
+// - /node_modules/@headlessui/vue/dist/internal/open-closed.esm.js ($id_11ac5a62)
+// - /node_modules/@headlessui/vue/dist/components/transitions/utils/transition.esm.js ($id_083bd598)
+// --------------------
+const $id_bf02b578 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/match.esm.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/render.esm.js");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/hooks/use-id.esm.js");
+
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/dom.esm.js");
+
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/internal/open-closed.esm.js");
+
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/components/transitions/utils/transition.esm.js");
+
+
+function splitClasses(classes) {
+  if (classes === void 0) {
+    classes = '';
+  }
+
+  return classes.split(' ').filter(function (className) {
+    return className.trim().length > 1;
+  });
+}
+
+var TransitionContext = /*#__PURE__*/Symbol('TransitionContext');
+var TreeStates;
+
+(function (TreeStates) {
+  TreeStates["Visible"] = "visible";
+  TreeStates["Hidden"] = "hidden";
+})(TreeStates || (TreeStates = {}));
+
+function hasTransitionContext() {
+  return __vite_ssr_import_1__.inject(TransitionContext, null) !== null;
+}
+
+function useTransitionContext() {
+  var context = __vite_ssr_import_1__.inject(TransitionContext, null);
+
+  if (context === null) {
+    throw new Error('A <TransitionChild /> is used but it is missing a parent <TransitionRoot />.');
+  }
+
+  return context;
+}
+
+function useParentNesting() {
+  var context = __vite_ssr_import_1__.inject(NestingContext, null);
+
+  if (context === null) {
+    throw new Error('A <TransitionChild /> is used but it is missing a parent <TransitionRoot />.');
+  }
+
+  return context;
+}
+
+var NestingContext = /*#__PURE__*/Symbol('NestingContext');
+
+function hasChildren(bag) {
+  if ('children' in bag) return hasChildren(bag.children);
+  return bag.value.filter(function (_ref) {
+    var state = _ref.state;
+    return state === TreeStates.Visible;
+  }).length > 0;
+}
+
+function useNesting(done) {
+  var transitionableChildren = __vite_ssr_import_1__.ref([]);
+  var mounted = __vite_ssr_import_1__.ref(false);
+  __vite_ssr_import_1__.onMounted(function () {
+    return mounted.value = true;
+  });
+  __vite_ssr_import_1__.onUnmounted(function () {
+    return mounted.value = false;
+  });
+
+  function unregister(childId, strategy) {
+    var _match;
+
+    if (strategy === void 0) {
+      strategy = __vite_ssr_import_3__.RenderStrategy.Hidden;
+    }
+
+    var idx = transitionableChildren.value.findIndex(function (_ref2) {
+      var id = _ref2.id;
+      return id === childId;
+    });
+    if (idx === -1) return;
+    __vite_ssr_import_2__.match(strategy, (_match = {}, _match[__vite_ssr_import_3__.RenderStrategy.Unmount] = function () {
+      transitionableChildren.value.splice(idx, 1);
+    }, _match[__vite_ssr_import_3__.RenderStrategy.Hidden] = function () {
+      transitionableChildren.value[idx].state = TreeStates.Hidden;
+    }, _match));
+
+    if (!hasChildren(transitionableChildren) && mounted.value) {
+      done == null ? void 0 : done();
+    }
+  }
+
+  function register(childId) {
+    var child = transitionableChildren.value.find(function (_ref3) {
+      var id = _ref3.id;
+      return id === childId;
+    });
+
+    if (!child) {
+      transitionableChildren.value.push({
+        id: childId,
+        state: TreeStates.Visible
+      });
+    } else if (child.state !== TreeStates.Visible) {
+      child.state = TreeStates.Visible;
+    }
+
+    return function () {
+      return unregister(childId, __vite_ssr_import_3__.RenderStrategy.Unmount);
+    };
+  }
+
+  return {
+    children: transitionableChildren,
+    register: register,
+    unregister: unregister
+  };
+} // ---
+
+
+var TransitionChildRenderFeatures = __vite_ssr_import_3__.Features.RenderStrategy;
+var TransitionChild = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    },
+    show: {
+      type: [Boolean],
+      "default": null
+    },
+    unmount: {
+      type: [Boolean],
+      "default": true
+    },
+    appear: {
+      type: [Boolean],
+      "default": false
+    },
+    enter: {
+      type: [String],
+      "default": ''
+    },
+    enterFrom: {
+      type: [String],
+      "default": ''
+    },
+    enterTo: {
+      type: [String],
+      "default": ''
+    },
+    entered: {
+      type: [String],
+      "default": ''
+    },
+    leave: {
+      type: [String],
+      "default": ''
+    },
+    leaveFrom: {
+      type: [String],
+      "default": ''
+    },
+    leaveTo: {
+      type: [String],
+      "default": ''
+    }
+  },
+  emits: {
+    beforeEnter: function beforeEnter() {
+      return true;
+    },
+    afterEnter: function afterEnter() {
+      return true;
+    },
+    beforeLeave: function beforeLeave() {
+      return true;
+    },
+    afterLeave: function afterLeave() {
+      return true;
+    }
+  },
+  render: function render$1() {
+    var _this = this;
+
+    if (this.renderAsRoot) {
+      return __vite_ssr_import_1__.h(TransitionRoot, __vite_ssr_import_0__.extends({}, this.$props, {
+        onBeforeEnter: function onBeforeEnter() {
+          return _this.$emit('beforeEnter');
+        },
+        onAfterEnter: function onAfterEnter() {
+          return _this.$emit('afterEnter');
+        },
+        onBeforeLeave: function onBeforeLeave() {
+          return _this.$emit('beforeLeave');
+        },
+        onAfterLeave: function onAfterLeave() {
+          return _this.$emit('afterLeave');
+        }
+      }), this.$slots);
+    }
+
+    var _this$$props = this.$props,
+        rest = __vite_ssr_import_0__.objectWithoutPropertiesLoose(_this$$props, ["appear", "show", "enter", "enterFrom", "enterTo", "entered", "leave", "leaveFrom", "leaveTo"]);
+
+    var propsWeControl = {
+      ref: 'el'
+    };
+    var passthroughProps = rest;
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, passthroughProps, propsWeControl),
+      slot: {},
+      slots: this.$slots,
+      attrs: this.$attrs,
+      features: TransitionChildRenderFeatures,
+      visible: this.state === TreeStates.Visible,
+      name: 'TransitionChild'
+    });
+  },
+  setup: function setup(props, _ref4) {
+    var emit = _ref4.emit;
+
+    if (!hasTransitionContext() && __vite_ssr_import_6__.hasOpenClosed()) {
+      return {
+        renderAsRoot: true
+      };
+    }
+
+    var container = __vite_ssr_import_1__.ref(null);
+    var state = __vite_ssr_import_1__.ref(TreeStates.Visible);
+    var strategy = __vite_ssr_import_1__.computed(function () {
+      return props.unmount ? __vite_ssr_import_3__.RenderStrategy.Unmount : __vite_ssr_import_3__.RenderStrategy.Hidden;
+    });
+
+    var _useTransitionContext = useTransitionContext(),
+        show = _useTransitionContext.show,
+        appear = _useTransitionContext.appear;
+
+    var _useParentNesting = useParentNesting(),
+        register = _useParentNesting.register,
+        unregister = _useParentNesting.unregister;
+
+    var initial = {
+      value: true
+    };
+    var id = __vite_ssr_import_4__.useId();
+    var isTransitioning = {
+      value: false
+    };
+    var nesting = useNesting(function () {
+      // When all children have been unmounted we can only hide ourselves if and only if we are not
+      // transitioning ourselves. Otherwise we would unmount before the transitions are finished.
+      if (!isTransitioning.value) {
+        state.value = TreeStates.Hidden;
+        unregister(id);
+        emit('afterLeave');
+      }
+    });
+    __vite_ssr_import_1__.onMounted(function () {
+      var unregister = register(id);
+      __vite_ssr_import_1__.onUnmounted(unregister);
+    });
+    __vite_ssr_import_1__.watchEffect(function () {
+      var _match2;
+
+      // If we are in another mode than the Hidden mode then ignore
+      if (strategy.value !== __vite_ssr_import_3__.RenderStrategy.Hidden) return;
+      if (!id) return; // Make sure that we are visible
+
+      if (show && state.value !== TreeStates.Visible) {
+        state.value = TreeStates.Visible;
+        return;
+      }
+
+      __vite_ssr_import_2__.match(state.value, (_match2 = {}, _match2[TreeStates.Hidden] = function () {
+        return unregister(id);
+      }, _match2[TreeStates.Visible] = function () {
+        return register(id);
+      }, _match2));
+    });
+    var enterClasses = splitClasses(props.enter);
+    var enterFromClasses = splitClasses(props.enterFrom);
+    var enterToClasses = splitClasses(props.enterTo);
+    var enteredClasses = splitClasses(props.entered);
+    var leaveClasses = splitClasses(props.leave);
+    var leaveFromClasses = splitClasses(props.leaveFrom);
+    var leaveToClasses = splitClasses(props.leaveTo);
+    __vite_ssr_import_1__.onMounted(function () {
+      __vite_ssr_import_1__.watchEffect(function () {
+        if (state.value === TreeStates.Visible) {
+          var domElement = __vite_ssr_import_5__.dom(container); // When you return `null` from a component, the actual DOM reference will
+          // be an empty comment... This means that we can never check for the DOM
+          // node to be `null`. So instead we check for an empty comment.
+
+          var isEmptyDOMNode = domElement instanceof Comment && domElement.data === '';
+
+          if (isEmptyDOMNode) {
+            throw new Error('Did you forget to passthrough the `ref` to the actual DOM node?');
+          }
+        }
+      });
+    });
+
+    function executeTransition(onInvalidate) {
+      // Skipping initial transition
+      var skip = initial.value && !appear.value;
+      var node = __vite_ssr_import_5__.dom(container);
+      if (!node || !(node instanceof HTMLElement)) return;
+      if (skip) return;
+      isTransitioning.value = true;
+      if (show.value) emit('beforeEnter');
+      if (!show.value) emit('beforeLeave');
+      onInvalidate(show.value ? __vite_ssr_import_7__.transition(node, enterClasses, enterFromClasses, enterToClasses, enteredClasses, function (reason) {
+        isTransitioning.value = false;
+        if (reason === __vite_ssr_import_7__.Reason.Finished) emit('afterEnter');
+      }) : __vite_ssr_import_7__.transition(node, leaveClasses, leaveFromClasses, leaveToClasses, enteredClasses, function (reason) {
+        isTransitioning.value = false;
+        if (reason !== __vite_ssr_import_7__.Reason.Finished) return; // When we don't have children anymore we can safely unregister from the parent and hide
+        // ourselves.
+
+        if (!hasChildren(nesting)) {
+          state.value = TreeStates.Hidden;
+          unregister(id);
+          emit('afterLeave');
+        }
+      }));
+    }
+
+    __vite_ssr_import_1__.onMounted(function () {
+      __vite_ssr_import_1__.watch([show, appear], function (_oldValues, _newValues, onInvalidate) {
+        executeTransition(onInvalidate);
+        initial.value = false;
+      }, {
+        immediate: true
+      });
+    });
+    __vite_ssr_import_1__.provide(NestingContext, nesting);
+    __vite_ssr_import_6__.useOpenClosedProvider(__vite_ssr_import_1__.computed(function () {
+      var _match3;
+
+      return __vite_ssr_import_2__.match(state.value, (_match3 = {}, _match3[TreeStates.Visible] = __vite_ssr_import_6__.State.Open, _match3[TreeStates.Hidden] = __vite_ssr_import_6__.State.Closed, _match3));
+    }));
+    return {
+      el: container,
+      renderAsRoot: false,
+      state: state
+    };
+  }
+}); // ---
+
+var TransitionRoot = /*#__PURE__*/__vite_ssr_import_1__.defineComponent({
+  inheritAttrs: false,
+  props: {
+    as: {
+      type: [Object, String],
+      "default": 'div'
+    },
+    show: {
+      type: [Boolean],
+      "default": null
+    },
+    unmount: {
+      type: [Boolean],
+      "default": true
+    },
+    appear: {
+      type: [Boolean],
+      "default": false
+    },
+    enter: {
+      type: [String],
+      "default": ''
+    },
+    enterFrom: {
+      type: [String],
+      "default": ''
+    },
+    enterTo: {
+      type: [String],
+      "default": ''
+    },
+    entered: {
+      type: [String],
+      "default": ''
+    },
+    leave: {
+      type: [String],
+      "default": ''
+    },
+    leaveFrom: {
+      type: [String],
+      "default": ''
+    },
+    leaveTo: {
+      type: [String],
+      "default": ''
+    }
+  },
+  emits: {
+    beforeEnter: function beforeEnter() {
+      return true;
+    },
+    afterEnter: function afterEnter() {
+      return true;
+    },
+    beforeLeave: function beforeLeave() {
+      return true;
+    },
+    afterLeave: function afterLeave() {
+      return true;
+    }
+  },
+  render: function render$1() {
+    var _this2 = this;
+
+    var _this$$props2 = this.$props,
+        unmount = _this$$props2.unmount,
+        passThroughProps = __vite_ssr_import_0__.objectWithoutPropertiesLoose(_this$$props2, ["show", "appear", "unmount"]);
+
+    var sharedProps = {
+      unmount: unmount
+    };
+    return __vite_ssr_import_3__.render({
+      props: __vite_ssr_import_0__.extends({}, sharedProps, {
+        as: 'template'
+      }),
+      slot: {},
+      slots: __vite_ssr_import_0__.extends({}, this.$slots, {
+        "default": function _default() {
+          return [__vite_ssr_import_1__.h(TransitionChild, __vite_ssr_import_0__.extends({
+            onBeforeEnter: function onBeforeEnter() {
+              return _this2.$emit('beforeEnter');
+            },
+            onAfterEnter: function onAfterEnter() {
+              return _this2.$emit('afterEnter');
+            },
+            onBeforeLeave: function onBeforeLeave() {
+              return _this2.$emit('beforeLeave');
+            },
+            onAfterLeave: function onAfterLeave() {
+              return _this2.$emit('afterLeave');
+            }
+          }, _this2.$attrs, sharedProps, passThroughProps), _this2.$slots["default"])];
+        }
+      }),
+      attrs: {},
+      features: TransitionChildRenderFeatures,
+      visible: this.state === TreeStates.Visible,
+      name: 'Transition'
+    });
+  },
+  setup: function setup(props) {
+    var usesOpenClosedState = __vite_ssr_import_6__.useOpenClosed();
+    var show = __vite_ssr_import_1__.computed(function () {
+      if (props.show === null && usesOpenClosedState !== null) {
+        var _match4;
+
+        return __vite_ssr_import_2__.match(usesOpenClosedState.value, (_match4 = {}, _match4[__vite_ssr_import_6__.State.Open] = true, _match4[__vite_ssr_import_6__.State.Closed] = false, _match4));
+      }
+
+      return props.show;
+    });
+    __vite_ssr_import_1__.watchEffect(function () {
+      if (![true, false].includes(show.value)) {
+        throw new Error('A <Transition /> is used but it is missing a `:show="true | false"` prop.');
+      }
+    });
+    var state = __vite_ssr_import_1__.ref(show.value ? TreeStates.Visible : TreeStates.Hidden);
+    var nestingBag = useNesting(function () {
+      state.value = TreeStates.Hidden;
+    });
+    var initial = {
+      value: true
+    };
+    var transitionBag = {
+      show: show,
+      appear: __vite_ssr_import_1__.computed(function () {
+        return props.appear || !initial.value;
+      })
+    };
+    __vite_ssr_import_1__.onMounted(function () {
+      __vite_ssr_import_1__.watchEffect(function () {
+        initial.value = false;
+
+        if (show.value) {
+          state.value = TreeStates.Visible;
+        } else if (!hasChildren(nestingBag)) {
+          state.value = TreeStates.Hidden;
+        }
+      });
+    });
+    __vite_ssr_import_1__.provide(NestingContext, nestingBag);
+    __vite_ssr_import_1__.provide(TransitionContext, transitionBag);
+    return {
+      state: state,
+      show: show
+    };
+  }
+});
+
+
+Object.defineProperty(__vite_ssr_exports__, "TransitionChild", { enumerable: true, configurable: true, get(){ return TransitionChild }});
+Object.defineProperty(__vite_ssr_exports__, "TransitionRoot", { enumerable: true, configurable: true, get(){ return TransitionRoot }});
+//# sourceMappingURL=transition.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/components/transitions/utils/transition.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/transitions/transition.esm.js ($id_bf02b578)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/utils/once.esm.js ($id_e127f1bd)
+// - /node_modules/@headlessui/vue/dist/utils/disposables.esm.js ($id_bd44d12d)
+// --------------------
+const $id_083bd598 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/once.esm.js");
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/utils/disposables.esm.js");
+
+
+function addClasses(node) {
+  var _node$classList;
+
+  for (var _len = arguments.length, classes = new Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
+    classes[_key - 1] = arguments[_key];
+  }
+
+  node && classes.length > 0 && (_node$classList = node.classList).add.apply(_node$classList, classes);
+}
+
+function removeClasses(node) {
+  var _node$classList2;
+
+  for (var _len2 = arguments.length, classes = new Array(_len2 > 1 ? _len2 - 1 : 0), _key2 = 1; _key2 < _len2; _key2++) {
+    classes[_key2 - 1] = arguments[_key2];
+  }
+
+  node && classes.length > 0 && (_node$classList2 = node.classList).remove.apply(_node$classList2, classes);
+}
+
+var Reason;
+
+(function (Reason) {
+  Reason["Finished"] = "finished";
+  Reason["Cancelled"] = "cancelled";
+})(Reason || (Reason = {}));
+
+function waitForTransition(node, done) {
+  var d = __vite_ssr_import_1__.disposables();
+  if (!node) return d.dispose; // Safari returns a comma separated list of values, so let's sort them and take the highest value.
+
+  var _getComputedStyle = getComputedStyle(node),
+      transitionDuration = _getComputedStyle.transitionDuration,
+      transitionDelay = _getComputedStyle.transitionDelay;
+
+  var _map = [transitionDuration, transitionDelay].map(function (value) {
+    var _value$split$filter$m = value.split(',') // Remove falseys we can't work with
+    .filter(Boolean) // Values are returned as `0.3s` or `75ms`
+    .map(function (v) {
+      return v.includes('ms') ? parseFloat(v) : parseFloat(v) * 1000;
+    }).sort(function (a, z) {
+      return z - a;
+    }),
+        _value$split$filter$m2 = _value$split$filter$m[0],
+        resolvedValue = _value$split$filter$m2 === void 0 ? 0 : _value$split$filter$m2;
+
+    return resolvedValue;
+  }),
+      durationMs = _map[0],
+      delaysMs = _map[1]; // Waiting for the transition to end. We could use the `transitionend` event, however when no
+  // actual transition/duration is defined then the `transitionend` event is not fired.
+  //
+  // TODO: Downside is, when you slow down transitions via devtools this timeout is still using the
+  // full 100% speed instead of the 25% or 10%.
+
+
+  if (durationMs !== 0) {
+    d.setTimeout(function () {
+      return done(Reason.Finished);
+    }, durationMs + delaysMs);
+  } else {
+    // No transition is happening, so we should cleanup already. Otherwise we have to wait until we
+    // get disposed.
+    done(Reason.Finished);
+  } // If we get disposed before the timeout runs we should cleanup anyway
+
+
+  d.add(function () {
+    return done(Reason.Cancelled);
+  });
+  return d.dispose;
+}
+
+function transition(node, base, from, to, entered, done) {
+  var d = __vite_ssr_import_1__.disposables();
+
+  var _done = done !== undefined ? __vite_ssr_import_0__.once(done) : function () {};
+
+  removeClasses.apply(void 0, [node].concat(entered));
+  addClasses.apply(void 0, [node].concat(base, from));
+  d.nextFrame(function () {
+    removeClasses.apply(void 0, [node].concat(from));
+    addClasses.apply(void 0, [node].concat(to));
+    d.add(waitForTransition(node, function (reason) {
+      removeClasses.apply(void 0, [node].concat(to, base));
+      addClasses.apply(void 0, [node].concat(entered));
+      return _done(reason);
+    }));
+  }); // Once we get disposed, we should ensure that we cleanup after ourselves. In case of an unmount,
+  // the node itself will be nullified and will be a no-op. In case of a full transition the classes
+  // are already removed which is also a no-op. However if you go from enter -> leave mid-transition
+  // then we have some leftovers that should be cleaned.
+
+  d.add(function () {
+    return removeClasses.apply(void 0, [node].concat(base, from, to, entered));
+  }); // When we get disposed early, than we should also call the done method but switch the reason.
+
+  d.add(function () {
+    return _done(Reason.Cancelled);
+  });
+  return d.dispose;
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "Reason", { enumerable: true, configurable: true, get(){ return Reason }});
+Object.defineProperty(__vite_ssr_exports__, "transition", { enumerable: true, configurable: true, get(){ return transition }});
+//# sourceMappingURL=transition.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/utils/once.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/transitions/utils/transition.esm.js ($id_083bd598)
+// Dependencies: 
+
+// --------------------
+const $id_e127f1bd = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+function once(cb) {
+  var state = {
+    called: false
+  };
+  return function () {
+    if (state.called) return;
+    state.called = true;
+    return cb.apply(void 0, arguments);
+  };
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "once", { enumerable: true, configurable: true, get(){ return once }});
+//# sourceMappingURL=once.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: /node_modules/@headlessui/vue/dist/utils/disposables.esm.js
+// Parents: 
+// - /node_modules/@headlessui/vue/dist/components/transitions/utils/transition.esm.js ($id_083bd598)
+// Dependencies: 
+// - /node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js ($id_49d537e3)
+// --------------------
+const $id_bd44d12d = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js");
+
+
+function disposables() {
+  var disposables = [];
+  var api = {
+    requestAnimationFrame: function (_requestAnimationFrame) {
+      function requestAnimationFrame() {
+        return _requestAnimationFrame.apply(this, arguments);
+      }
+
+      requestAnimationFrame.toString = function () {
+        return _requestAnimationFrame.toString();
+      };
+
+      return requestAnimationFrame;
+    }(function () {
+      var raf = requestAnimationFrame.apply(void 0, arguments);
+      api.add(function () {
+        return cancelAnimationFrame(raf);
+      });
+    }),
+    nextFrame: function nextFrame() {
+      for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
+        args[_key] = arguments[_key];
+      }
+
+      api.requestAnimationFrame(function () {
+        api.requestAnimationFrame.apply(api, args);
+      });
+    },
+    setTimeout: function (_setTimeout) {
+      function setTimeout() {
+        return _setTimeout.apply(this, arguments);
+      }
+
+      setTimeout.toString = function () {
+        return _setTimeout.toString();
+      };
+
+      return setTimeout;
+    }(function () {
+      var timer = setTimeout.apply(void 0, arguments);
+      api.add(function () {
+        return clearTimeout(timer);
+      });
+    }),
+    add: function add(cb) {
+      disposables.push(cb);
+    },
+    dispose: function dispose() {
+      for (var _iterator = __vite_ssr_import_0__.createForOfIteratorHelperLoose(disposables.splice(0)), _step; !(_step = _iterator()).done;) {
+        var dispose = _step.value;
+        dispose();
+      }
+    }
+  };
+  return api;
+}
+
+
+Object.defineProperty(__vite_ssr_exports__, "disposables", { enumerable: true, configurable: true, get(){ return disposables }});
+//# sourceMappingURL=disposables.esm.js.map
+;
+}
+
+
+// --------------------
+// Request: D:/Repositories/laravel-nuxt-survey/frontend/pages/menu.vue?macro=true
+// Parents: 
+// - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/routes.mjs ($id_9d122929)
+// Dependencies: 
+
+// --------------------
+const $id_1544da3c = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+/* empty */;
+}
+
+
+// --------------------
+// Request: D:/Repositories/laravel-nuxt-survey/frontend/pages/modal.vue?macro=true
+// Parents: 
+// - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/routes.mjs ($id_9d122929)
+// Dependencies: 
+
+// --------------------
+const $id_d0fb247c = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+/* empty */;
+}
+
+
+// --------------------
+// Request: D:/Repositories/laravel-nuxt-survey/frontend/pages/pinia.vue?macro=true
+// Parents: 
+// - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/routes.mjs ($id_9d122929)
+// Dependencies: 
+
+// --------------------
+const $id_7a8ce2df = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+/* empty */;
 }
 
 
@@ -11894,253 +17969,186 @@ __vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_4__.default(_sfc_m
 // - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/routes.mjs ($id_9d122929)
 // Dependencies: 
 // - /node_modules/nuxt3/dist/pages/runtime/composables.mjs ($id_f55c9203)
-// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
-// - /store.ts ($id_05c4c624)
-// - /node_modules/@headlessui/vue/dist/headlessui.esm.js ($id_2c13895f)
+// - /node_modules/nuxt3/dist/app/index.mjs ($id_d8c2af0f)
+// - /node_modules/@headlessui/vue/dist/index.esm.js ($id_1ad98bcf)
 // - /node_modules/@heroicons/vue/outline/esm/index.js ($id_d0ea4942)
-// - /utils/api.ts ($id_da3d18cd)
+// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
 // - /node_modules/vue/server-renderer/index.js ($id_b215fa1c)
 // - /@id/plugin-vue:export-helper ($id_bbb863c1)
 // --------------------
 const $id_cca58e97 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt3/dist/pages/runtime/composables.mjs");
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
 
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/nuxt3/dist/app/index.mjs");
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/index.esm.js");
 
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/store.ts");
-
-
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@headlessui/vue/dist/headlessui.esm.js");
-
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/@heroicons/vue/outline/esm/index.js");
-
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/@heroicons/vue/outline/esm/index.js");
 
 /*#__PURE__*/ false && __vite_ssr_import_0__.definePageMeta({
-  layout: 'guest',
-})
-
-
+  layout: "guest"
+});
 const user = {
-  name: 'Tom Cook',
-  email: 'tom@example.com',
-  imageUrl:
-    'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-}
+  name: "Tom Cook",
+  email: "tom@example.com",
+  imageUrl: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+};
 const navigation = [
-  { name: 'Dashboard', href: '#', current: true },
-  { name: 'Team', href: '#', current: false },
-  { name: 'Projects', href: '#', current: false },
-  { name: 'Calendar', href: '#', current: false },
-  { name: 'Reports', href: '#', current: false },
-]
+  { name: "Dashboard", href: "#", current: true },
+  { name: "Team", href: "#", current: false },
+  { name: "Projects", href: "#", current: false },
+  { name: "Calendar", href: "#", current: false },
+  { name: "Reports", href: "#", current: false }
+];
 const userNavigation = [
-  { name: 'Your Profile', href: '#' },
-  { name: 'Settings', href: '#' },
-  { name: 'Sign out', href: '#' },
-]
-
-const __default__ = {
+  { name: "Your Profile", href: "#" },
+  { name: "Settings", href: "#" },
+  { name: "Sign out", href: "#" }
+];
+const _sfc_main = __vite_ssr_import_1__.defineNuxtComponent({
   components: {
-    Disclosure: __vite_ssr_import_3__.Disclosure,
-    DisclosureButton: __vite_ssr_import_3__.DisclosureButton,
-    DisclosurePanel: __vite_ssr_import_3__.DisclosurePanel,
-    Menu: __vite_ssr_import_3__.Menu,
-    MenuButton: __vite_ssr_import_3__.MenuButton,
-    MenuItem: __vite_ssr_import_3__.MenuItem,
-    MenuItems: __vite_ssr_import_3__.MenuItems,
-    BellIcon: __vite_ssr_import_4__.BellIcon,
-    MenuIcon: __vite_ssr_import_4__.MenuIcon,
-    XIcon: __vite_ssr_import_4__.XIcon,
+    Disclosure: __vite_ssr_import_2__.Disclosure,
+    DisclosureButton: __vite_ssr_import_2__.DisclosureButton,
+    DisclosurePanel: __vite_ssr_import_2__.DisclosurePanel,
+    Menu: __vite_ssr_import_2__.Menu,
+    MenuButton: __vite_ssr_import_2__.MenuButton,
+    MenuItem: __vite_ssr_import_2__.MenuItem,
+    MenuItems: __vite_ssr_import_2__.MenuItems,
+    BellIcon: __vite_ssr_import_3__.BellIcon,
+    MenuIcon: __vite_ssr_import_3__.MenuIcon,
+    XIcon: __vite_ssr_import_3__.XIcon
   },
   setup() {
     return {
       user,
       navigation,
       userNavigation
-    }
-  },
-  data() {
-    return {
-      store: __vite_ssr_import_2__.useStore()
-    }
+    };
   }
-}
-const __vite_ssr_import_5__ = await __vite_ssr_import__("/utils/api.ts");
+});
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
 
-
-const _sfc_main = /*#__PURE__*/Object.assign(__default__, {
-  async setup(__props, { expose }) {
-  expose();
-
-let __temp, __restore
-
-const data = (
-  ([__temp,__restore] = __vite_ssr_import_1__.withAsyncContext(() => __vite_ssr_import_5__.getRequest())),
-  __temp = await __temp,
-  __restore(),
-  __temp
-)
-
-const __returned__ = { user, navigation, userNavigation, data, useStore: __vite_ssr_import_2__.useStore, Disclosure: __vite_ssr_import_3__.Disclosure, DisclosureButton: __vite_ssr_import_3__.DisclosureButton, DisclosurePanel: __vite_ssr_import_3__.DisclosurePanel, Menu: __vite_ssr_import_3__.Menu, MenuButton: __vite_ssr_import_3__.MenuButton, MenuItem: __vite_ssr_import_3__.MenuItem, MenuItems: __vite_ssr_import_3__.MenuItems, BellIcon: __vite_ssr_import_4__.BellIcon, MenuIcon: __vite_ssr_import_4__.MenuIcon, XIcon: __vite_ssr_import_4__.XIcon, getRequest: __vite_ssr_import_5__.getRequest }
-Object.defineProperty(__returned__, '__isScriptSetup', { enumerable: false, value: true })
-return __returned__
-}
-
-})
-const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-
-const __vite_ssr_import_7__ = await __vite_ssr_import__("/node_modules/vue/server-renderer/index.js");
-
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/vue/server-renderer/index.js");
 
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
-  _push(`<div${__vite_ssr_import_7__.ssrRenderAttrs(__vite_ssr_import_6__.mergeProps({ class: "min-h-full" }, _attrs))}>`)
-  _push(__vite_ssr_import_7__.ssrRenderComponent($setup["Disclosure"], {
+  const _component_Disclosure = __vite_ssr_import_4__.resolveComponent("Disclosure");
+  const _component_BellIcon = __vite_ssr_import_4__.resolveComponent("BellIcon");
+  const _component_Menu = __vite_ssr_import_4__.resolveComponent("Menu");
+  const _component_MenuButton = __vite_ssr_import_4__.resolveComponent("MenuButton");
+  const _component_MenuItems = __vite_ssr_import_4__.resolveComponent("MenuItems");
+  const _component_MenuItem = __vite_ssr_import_4__.resolveComponent("MenuItem");
+  const _component_DisclosureButton = __vite_ssr_import_4__.resolveComponent("DisclosureButton");
+  const _component_MenuIcon = __vite_ssr_import_4__.resolveComponent("MenuIcon");
+  const _component_XIcon = __vite_ssr_import_4__.resolveComponent("XIcon");
+  const _component_DisclosurePanel = __vite_ssr_import_4__.resolveComponent("DisclosurePanel");
+  _push(`<!--[--><!--
+    This example requires updating your template:
+
+    \`\`\`
+    <html class="h-full bg-gray-100">
+    <body class="h-full">
+    \`\`\`
+  --><div${__vite_ssr_import_5__.ssrRenderAttrs(__vite_ssr_import_4__.mergeProps({ class: "min-h-full" }, _attrs))}>`);
+  _push(__vite_ssr_import_5__.ssrRenderComponent(_component_Disclosure, {
     as: "nav",
     class: "bg-gray-800"
   }, {
-    default: __vite_ssr_import_6__.withCtx(({ open }, _push, _parent, _scopeId) => {
-      if (_push) {
-        _push(`<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"${
-          _scopeId
-        }><div class="flex items-center justify-between h-16"${
-          _scopeId
-        }><div class="flex items-center"${
-          _scopeId
-        }><div class="flex-shrink-0"${
-          _scopeId
-        }><img class="h-8 w-8" src="https://tailwindui.com/img/logos/workflow-mark-indigo-500.svg" alt="Workflow"${
-          _scopeId
-        }></div><div class="hidden md:block"${
-          _scopeId
-        }><div class="ml-10 flex items-baseline space-x-4"${
-          _scopeId
-        }><!--[-->`)
-        __vite_ssr_import_7__.ssrRenderList($setup.navigation, (item) => {
-          _push(`<a${
-            __vite_ssr_import_7__.ssrRenderAttr("href", item.href)
-          } class="${
-            __vite_ssr_import_7__.ssrRenderClass([item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white', 'px-3 py-2 rounded-md text-sm font-medium'])
-          }"${
-            __vite_ssr_import_7__.ssrRenderAttr("aria-current", item.current ? 'page' : undefined)
-          }${
-            _scopeId
-          }>${
-            __vite_ssr_import_7__.ssrInterpolate(item.name)
-          }</a>`)
-        })
-        _push(`<!--]--></div></div></div><div class="hidden md:block"${
-          _scopeId
-        }><div class="ml-4 flex items-center md:ml-6"${
-          _scopeId
-        }><button type="button" class="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"${
-          _scopeId
-        }><span class="sr-only"${
-          _scopeId
-        }>View notifications</span>`)
-        _push(__vite_ssr_import_7__.ssrRenderComponent($setup["BellIcon"], {
+    default: __vite_ssr_import_4__.withCtx(({ open }, _push2, _parent2, _scopeId) => {
+      if (_push2) {
+        _push2(`<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"${_scopeId}><div class="flex items-center justify-between h-16"${_scopeId}><div class="flex items-center"${_scopeId}><div class="flex-shrink-0"${_scopeId}><img class="h-8 w-8" src="https://tailwindui.com/img/logos/workflow-mark-indigo-500.svg" alt="Workflow"${_scopeId}></div><div class="hidden md:block"${_scopeId}><div class="ml-10 flex items-baseline space-x-4"${_scopeId}><!--[-->`);
+        __vite_ssr_import_5__.ssrRenderList(_ctx.navigation, (item) => {
+          _push2(`<a${__vite_ssr_import_5__.ssrRenderAttr("href", item.href)} class="${__vite_ssr_import_5__.ssrRenderClass([item.current ? "bg-gray-900 text-white" : "text-gray-300 hover:bg-gray-700 hover:text-white", "px-3 py-2 rounded-md text-sm font-medium"])}"${__vite_ssr_import_5__.ssrRenderAttr("aria-current", item.current ? "page" : void 0)}${_scopeId}>${__vite_ssr_import_5__.ssrInterpolate(item.name)}</a>`);
+        });
+        _push2(`<!--]--></div></div></div><div class="hidden md:block"${_scopeId}><div class="ml-4 flex items-center md:ml-6"${_scopeId}><button type="button" class="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"${_scopeId}><span class="sr-only"${_scopeId}>View notifications</span>`);
+        _push2(__vite_ssr_import_5__.ssrRenderComponent(_component_BellIcon, {
           class: "h-6 w-6",
           "aria-hidden": "true"
-        }, null, _parent, _scopeId))
-        _push(`</button><!-- Profile dropdown -->`)
-        _push(__vite_ssr_import_7__.ssrRenderComponent($setup["Menu"], {
+        }, null, _parent2, _scopeId));
+        _push2(`</button><!-- Profile dropdown -->`);
+        _push2(__vite_ssr_import_5__.ssrRenderComponent(_component_Menu, {
           as: "div",
           class: "ml-3 relative"
         }, {
-          default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-            if (_push) {
-              _push(`<div${_scopeId}>`)
-              _push(__vite_ssr_import_7__.ssrRenderComponent($setup["MenuButton"], { class: "max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
-                default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-                  if (_push) {
-                    _push(`<span class="sr-only"${
-                      _scopeId
-                    }>Open user menu</span><img class="h-8 w-8 rounded-full"${
-                      __vite_ssr_import_7__.ssrRenderAttr("src", $setup.user.imageUrl)
-                    } alt${
-                      _scopeId
-                    }>`)
+          default: __vite_ssr_import_4__.withCtx((_, _push3, _parent3, _scopeId2) => {
+            if (_push3) {
+              _push3(`<div${_scopeId2}>`);
+              _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_MenuButton, { class: "max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
+                default: __vite_ssr_import_4__.withCtx((_2, _push4, _parent4, _scopeId3) => {
+                  if (_push4) {
+                    _push4(`<span class="sr-only"${_scopeId3}>Open user menu</span><img class="h-8 w-8 rounded-full"${__vite_ssr_import_5__.ssrRenderAttr("src", _ctx.user.imageUrl)} alt="user-image"${_scopeId3}>`);
                   } else {
                     return [
-                      __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "Open user menu"),
-                      __vite_ssr_import_6__.createVNode("img", {
+                      __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "Open user menu"),
+                      __vite_ssr_import_4__.createVNode("img", {
                         class: "h-8 w-8 rounded-full",
-                        src: $setup.user.imageUrl,
-                        alt: ""
-                      }, null, 8 /* PROPS */, ["src"])
-                    ]
+                        src: _ctx.user.imageUrl,
+                        alt: "user-image"
+                      }, null, 8, ["src"])
+                    ];
                   }
                 }),
-                _: 2 /* DYNAMIC */
-              }, _parent, _scopeId))
-              _push(`</div>`)
-              _push(__vite_ssr_import_7__.ssrRenderComponent($setup["MenuItems"], __vite_ssr_import_6__.mergeProps({ class: "origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" }, _attrs), {
-                default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-                  if (_push) {
-                    _push(`<!--[-->`)
-                    __vite_ssr_import_7__.ssrRenderList($setup.userNavigation, (item) => {
-                      _push(__vite_ssr_import_7__.ssrRenderComponent($setup["MenuItem"], {
+                _: 2
+              }, _parent3, _scopeId2));
+              _push3(`</div>`);
+              _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_MenuItems, __vite_ssr_import_4__.mergeProps({ class: "origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" }, _attrs), {
+                default: __vite_ssr_import_4__.withCtx((_2, _push4, _parent4, _scopeId3) => {
+                  if (_push4) {
+                    _push4(`<!--[-->`);
+                    __vite_ssr_import_5__.ssrRenderList(_ctx.userNavigation, (item) => {
+                      _push4(__vite_ssr_import_5__.ssrRenderComponent(_component_MenuItem, {
                         key: item.name
                       }, {
-                        default: __vite_ssr_import_6__.withCtx(({ active }, _push, _parent, _scopeId) => {
-                          if (_push) {
-                            _push(`<a${
-                              __vite_ssr_import_7__.ssrRenderAttr("href", item.href)
-                            } class="${
-                              __vite_ssr_import_7__.ssrRenderClass([active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700'])
-                            }"${
-                              _scopeId
-                            }>${
-                              __vite_ssr_import_7__.ssrInterpolate(item.name)
-                            }</a>`)
+                        default: __vite_ssr_import_4__.withCtx(({ active }, _push5, _parent5, _scopeId4) => {
+                          if (_push5) {
+                            _push5(`<a${__vite_ssr_import_5__.ssrRenderAttr("href", item.href)} class="${__vite_ssr_import_5__.ssrRenderClass([active ? "bg-gray-100" : "", "block px-4 py-2 text-sm text-gray-700"])}"${_scopeId4}>${__vite_ssr_import_5__.ssrInterpolate(item.name)}</a>`);
                           } else {
                             return [
-                              __vite_ssr_import_6__.createVNode("a", {
+                              __vite_ssr_import_4__.createVNode("a", {
                                 href: item.href,
-                                class: [active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700']
-                              }, __vite_ssr_import_6__.toDisplayString(item.name), 11 /* TEXT, CLASS, PROPS */, ["href"])
-                            ]
+                                class: [active ? "bg-gray-100" : "", "block px-4 py-2 text-sm text-gray-700"]
+                              }, __vite_ssr_import_4__.toDisplayString(item.name), 11, ["href"])
+                            ];
                           }
                         }),
-                        _: 2 /* DYNAMIC */
-                      }, _parent, _scopeId))
-                    })
-                    _push(`<!--]-->`)
+                        _: 2
+                      }, _parent4, _scopeId3));
+                    });
+                    _push4(`<!--]-->`);
                   } else {
                     return [
-                      (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.userNavigation, (item) => {
-                        return __vite_ssr_import_6__.createVNode($setup["MenuItem"], {
+                      (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.userNavigation, (item) => {
+                        return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_MenuItem, {
                           key: item.name
                         }, {
-                          default: __vite_ssr_import_6__.withCtx(({ active }) => [
-                            __vite_ssr_import_6__.createVNode("a", {
+                          default: __vite_ssr_import_4__.withCtx(({ active }) => [
+                            __vite_ssr_import_4__.createVNode("a", {
                               href: item.href,
-                              class: [active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700']
-                            }, __vite_ssr_import_6__.toDisplayString(item.name), 11 /* TEXT, CLASS, PROPS */, ["href"])
+                              class: [active ? "bg-gray-100" : "", "block px-4 py-2 text-sm text-gray-700"]
+                            }, __vite_ssr_import_4__.toDisplayString(item.name), 11, ["href"])
                           ]),
-                          _: 2 /* DYNAMIC */
-                        }, 1024 /* DYNAMIC_SLOTS */)
-                      }), 64 /* STABLE_FRAGMENT */))
-                    ]
+                          _: 2
+                        }, 1024);
+                      }), 128))
+                    ];
                   }
                 }),
-                _: 2 /* DYNAMIC */
-              }, _parent, _scopeId))
+                _: 2
+              }, _parent3, _scopeId2));
             } else {
               return [
-                __vite_ssr_import_6__.createVNode("div", null, [
-                  __vite_ssr_import_6__.createVNode($setup["MenuButton"], { class: "max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
-                    default: __vite_ssr_import_6__.withCtx(() => [
-                      __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "Open user menu"),
-                      __vite_ssr_import_6__.createVNode("img", {
+                __vite_ssr_import_4__.createVNode("div", null, [
+                  __vite_ssr_import_4__.createVNode(_component_MenuButton, { class: "max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
+                    default: __vite_ssr_import_4__.withCtx(() => [
+                      __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "Open user menu"),
+                      __vite_ssr_import_4__.createVNode("img", {
                         class: "h-8 w-8 rounded-full",
-                        src: $setup.user.imageUrl,
-                        alt: ""
-                      }, null, 8 /* PROPS */, ["src"])
+                        src: _ctx.user.imageUrl,
+                        alt: "user-image"
+                      }, null, 8, ["src"])
                     ]),
-                    _: 1 /* STABLE */
+                    _: 1
                   })
                 ]),
-                __vite_ssr_import_6__.createVNode(__vite_ssr_import_6__.Transition, {
+                __vite_ssr_import_4__.createVNode(__vite_ssr_import_4__.Transition, {
                   "enter-active-class": "transition ease-out duration-100",
                   "enter-from-class": "transform opacity-0 scale-95",
                   "enter-to-class": "transform opacity-100 scale-100",
@@ -12148,263 +18156,237 @@ function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $op
                   "leave-from-class": "transform opacity-100 scale-100",
                   "leave-to-class": "transform opacity-0 scale-95"
                 }, {
-                  default: __vite_ssr_import_6__.withCtx(() => [
-                    __vite_ssr_import_6__.createVNode($setup["MenuItems"], { class: "origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" }, {
-                      default: __vite_ssr_import_6__.withCtx(() => [
-                        (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.userNavigation, (item) => {
-                          return __vite_ssr_import_6__.createVNode($setup["MenuItem"], {
+                  default: __vite_ssr_import_4__.withCtx(() => [
+                    __vite_ssr_import_4__.createVNode(_component_MenuItems, { class: "origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" }, {
+                      default: __vite_ssr_import_4__.withCtx(() => [
+                        (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.userNavigation, (item) => {
+                          return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_MenuItem, {
                             key: item.name
                           }, {
-                            default: __vite_ssr_import_6__.withCtx(({ active }) => [
-                              __vite_ssr_import_6__.createVNode("a", {
+                            default: __vite_ssr_import_4__.withCtx(({ active }) => [
+                              __vite_ssr_import_4__.createVNode("a", {
                                 href: item.href,
-                                class: [active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700']
-                              }, __vite_ssr_import_6__.toDisplayString(item.name), 11 /* TEXT, CLASS, PROPS */, ["href"])
+                                class: [active ? "bg-gray-100" : "", "block px-4 py-2 text-sm text-gray-700"]
+                              }, __vite_ssr_import_4__.toDisplayString(item.name), 11, ["href"])
                             ]),
-                            _: 2 /* DYNAMIC */
-                          }, 1024 /* DYNAMIC_SLOTS */)
-                        }), 64 /* STABLE_FRAGMENT */))
+                            _: 2
+                          }, 1024);
+                        }), 128))
                       ]),
-                      _: 1 /* STABLE */
+                      _: 1
                     })
                   ]),
-                  _: 1 /* STABLE */
+                  _: 1
                 })
-              ]
+              ];
             }
           }),
-          _: 2 /* DYNAMIC */
-        }, _parent, _scopeId))
-        _push(`</div></div><div class="-mr-2 flex md:hidden"${_scopeId}><!-- Mobile menu button -->`)
-        _push(__vite_ssr_import_7__.ssrRenderComponent($setup["DisclosureButton"], { class: "bg-gray-800 inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
-          default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-            if (_push) {
-              _push(`<span class="sr-only"${_scopeId}>Open main menu</span>`)
+          _: 2
+        }, _parent2, _scopeId));
+        _push2(`</div></div><div class="-mr-2 flex md:hidden"${_scopeId}><!-- Mobile menu button -->`);
+        _push2(__vite_ssr_import_5__.ssrRenderComponent(_component_DisclosureButton, { class: "bg-gray-800 inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
+          default: __vite_ssr_import_4__.withCtx((_, _push3, _parent3, _scopeId2) => {
+            if (_push3) {
+              _push3(`<span class="sr-only"${_scopeId2}>Open main menu</span>`);
               if (!open) {
-                _push(__vite_ssr_import_7__.ssrRenderComponent($setup["MenuIcon"], {
+                _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_MenuIcon, {
                   class: "block h-6 w-6",
                   "aria-hidden": "true"
-                }, null, _parent, _scopeId))
+                }, null, _parent3, _scopeId2));
               } else {
-                _push(__vite_ssr_import_7__.ssrRenderComponent($setup["XIcon"], {
+                _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_XIcon, {
                   class: "block h-6 w-6",
                   "aria-hidden": "true"
-                }, null, _parent, _scopeId))
+                }, null, _parent3, _scopeId2));
               }
             } else {
               return [
-                __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "Open main menu"),
-                (!open)
-                  ? (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock($setup["MenuIcon"], {
-                      key: 0,
-                      class: "block h-6 w-6",
-                      "aria-hidden": "true"
-                    }))
-                  : (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock($setup["XIcon"], {
-                      key: 1,
-                      class: "block h-6 w-6",
-                      "aria-hidden": "true"
-                    }))
-              ]
+                __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "Open main menu"),
+                !open ? (__vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_MenuIcon, {
+                  key: 0,
+                  class: "block h-6 w-6",
+                  "aria-hidden": "true"
+                })) : (__vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_XIcon, {
+                  key: 1,
+                  class: "block h-6 w-6",
+                  "aria-hidden": "true"
+                }))
+              ];
             }
           }),
-          _: 2 /* DYNAMIC */
-        }, _parent, _scopeId))
-        _push(`</div></div></div>`)
-        _push(__vite_ssr_import_7__.ssrRenderComponent($setup["DisclosurePanel"], { class: "md:hidden" }, {
-          default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-            if (_push) {
-              _push(`<div class="px-2 pt-2 pb-3 space-y-1 sm:px-3"${_scopeId}><!--[-->`)
-              __vite_ssr_import_7__.ssrRenderList($setup.navigation, (item) => {
-                _push(__vite_ssr_import_7__.ssrRenderComponent($setup["DisclosureButton"], {
+          _: 2
+        }, _parent2, _scopeId));
+        _push2(`</div></div></div>`);
+        _push2(__vite_ssr_import_5__.ssrRenderComponent(_component_DisclosurePanel, { class: "md:hidden" }, {
+          default: __vite_ssr_import_4__.withCtx((_, _push3, _parent3, _scopeId2) => {
+            if (_push3) {
+              _push3(`<div class="px-2 pt-2 pb-3 space-y-1 sm:px-3"${_scopeId2}><!--[-->`);
+              __vite_ssr_import_5__.ssrRenderList(_ctx.navigation, (item) => {
+                _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_DisclosureButton, {
                   key: item.name,
                   as: "a",
                   href: item.href,
-                  class: [item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white', 'block px-3 py-2 rounded-md text-base font-medium'],
-                  "aria-current": item.current ? 'page' : undefined
+                  class: [item.current ? "bg-gray-900 text-white" : "text-gray-300 hover:bg-gray-700 hover:text-white", "block px-3 py-2 rounded-md text-base font-medium"],
+                  "aria-current": item.current ? "page" : void 0
                 }, {
-                  default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-                    if (_push) {
-                      _push(`${__vite_ssr_import_7__.ssrInterpolate(item.name)}`)
+                  default: __vite_ssr_import_4__.withCtx((_2, _push4, _parent4, _scopeId3) => {
+                    if (_push4) {
+                      _push4(`${__vite_ssr_import_5__.ssrInterpolate(item.name)}`);
                     } else {
                       return [
-                        __vite_ssr_import_6__.createTextVNode(__vite_ssr_import_6__.toDisplayString(item.name), 1 /* TEXT */)
-                      ]
+                        __vite_ssr_import_4__.createTextVNode(__vite_ssr_import_4__.toDisplayString(item.name), 1)
+                      ];
                     }
                   }),
-                  _: 2 /* DYNAMIC */
-                }, _parent, _scopeId))
-              })
-              _push(`<!--]--></div><div class="pt-4 pb-3 border-t border-gray-700"${
-                _scopeId
-              }><div class="flex items-center px-5"${
-                _scopeId
-              }><div class="flex-shrink-0"${
-                _scopeId
-              }><img class="h-10 w-10 rounded-full"${
-                __vite_ssr_import_7__.ssrRenderAttr("src", $setup.user.imageUrl)
-              } alt${
-                _scopeId
-              }></div><div class="ml-3"${
-                _scopeId
-              }><div class="text-base font-medium leading-none text-white"${
-                _scopeId
-              }>${
-                __vite_ssr_import_7__.ssrInterpolate($setup.user.name)
-              }</div><div class="text-sm font-medium leading-none text-gray-400"${
-                _scopeId
-              }>${
-                __vite_ssr_import_7__.ssrInterpolate($setup.user.email)
-              }</div></div><button type="button" class="ml-auto bg-gray-800 flex-shrink-0 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"${
-                _scopeId
-              }><span class="sr-only"${
-                _scopeId
-              }>View notifications</span>`)
-              _push(__vite_ssr_import_7__.ssrRenderComponent($setup["BellIcon"], {
+                  _: 2
+                }, _parent3, _scopeId2));
+              });
+              _push3(`<!--]--></div><div class="pt-4 pb-3 border-t border-gray-700"${_scopeId2}><div class="flex items-center px-5"${_scopeId2}><div class="flex-shrink-0"${_scopeId2}><img class="h-10 w-10 rounded-full"${__vite_ssr_import_5__.ssrRenderAttr("src", _ctx.user.imageUrl)} alt="user-image"${_scopeId2}></div><div class="ml-3"${_scopeId2}><div class="text-base font-medium leading-none text-white"${_scopeId2}>${__vite_ssr_import_5__.ssrInterpolate(_ctx.user.name)}</div><div class="text-sm font-medium leading-none text-gray-400"${_scopeId2}>${__vite_ssr_import_5__.ssrInterpolate(_ctx.user.email)}</div></div><button type="button" class="ml-auto bg-gray-800 flex-shrink-0 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"${_scopeId2}><span class="sr-only"${_scopeId2}>View notifications</span>`);
+              _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_BellIcon, {
                 class: "h-6 w-6",
                 "aria-hidden": "true"
-              }, null, _parent, _scopeId))
-              _push(`</button></div><div class="mt-3 px-2 space-y-1"${_scopeId}><!--[-->`)
-              __vite_ssr_import_7__.ssrRenderList($setup.userNavigation, (item) => {
-                _push(__vite_ssr_import_7__.ssrRenderComponent($setup["DisclosureButton"], {
+              }, null, _parent3, _scopeId2));
+              _push3(`</button></div><div class="mt-3 px-2 space-y-1"${_scopeId2}><!--[-->`);
+              __vite_ssr_import_5__.ssrRenderList(_ctx.userNavigation, (item) => {
+                _push3(__vite_ssr_import_5__.ssrRenderComponent(_component_DisclosureButton, {
                   key: item.name,
                   as: "a",
                   href: item.href,
                   class: "block px-3 py-2 rounded-md text-base font-medium text-gray-400 hover:text-white hover:bg-gray-700"
                 }, {
-                  default: __vite_ssr_import_6__.withCtx((_, _push, _parent, _scopeId) => {
-                    if (_push) {
-                      _push(`${__vite_ssr_import_7__.ssrInterpolate(item.name)}`)
+                  default: __vite_ssr_import_4__.withCtx((_2, _push4, _parent4, _scopeId3) => {
+                    if (_push4) {
+                      _push4(`${__vite_ssr_import_5__.ssrInterpolate(item.name)}`);
                     } else {
                       return [
-                        __vite_ssr_import_6__.createTextVNode(__vite_ssr_import_6__.toDisplayString(item.name), 1 /* TEXT */)
-                      ]
+                        __vite_ssr_import_4__.createTextVNode(__vite_ssr_import_4__.toDisplayString(item.name), 1)
+                      ];
                     }
                   }),
-                  _: 2 /* DYNAMIC */
-                }, _parent, _scopeId))
-              })
-              _push(`<!--]--></div></div>`)
+                  _: 2
+                }, _parent3, _scopeId2));
+              });
+              _push3(`<!--]--></div></div>`);
             } else {
               return [
-                __vite_ssr_import_6__.createVNode("div", { class: "px-2 pt-2 pb-3 space-y-1 sm:px-3" }, [
-                  (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.navigation, (item) => {
-                    return __vite_ssr_import_6__.createVNode($setup["DisclosureButton"], {
+                __vite_ssr_import_4__.createVNode("div", { class: "px-2 pt-2 pb-3 space-y-1 sm:px-3" }, [
+                  (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.navigation, (item) => {
+                    return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_DisclosureButton, {
                       key: item.name,
                       as: "a",
                       href: item.href,
-                      class: [item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white', 'block px-3 py-2 rounded-md text-base font-medium'],
-                      "aria-current": item.current ? 'page' : undefined
+                      class: [item.current ? "bg-gray-900 text-white" : "text-gray-300 hover:bg-gray-700 hover:text-white", "block px-3 py-2 rounded-md text-base font-medium"],
+                      "aria-current": item.current ? "page" : void 0
                     }, {
-                      default: __vite_ssr_import_6__.withCtx(() => [
-                        __vite_ssr_import_6__.createTextVNode(__vite_ssr_import_6__.toDisplayString(item.name), 1 /* TEXT */)
+                      default: __vite_ssr_import_4__.withCtx(() => [
+                        __vite_ssr_import_4__.createTextVNode(__vite_ssr_import_4__.toDisplayString(item.name), 1)
                       ]),
-                      _: 2 /* DYNAMIC */
-                    }, 1032 /* PROPS, DYNAMIC_SLOTS */, ["href", "class", "aria-current"])
-                  }), 64 /* STABLE_FRAGMENT */))
+                      _: 2
+                    }, 1032, ["href", "class", "aria-current"]);
+                  }), 128))
                 ]),
-                __vite_ssr_import_6__.createVNode("div", { class: "pt-4 pb-3 border-t border-gray-700" }, [
-                  __vite_ssr_import_6__.createVNode("div", { class: "flex items-center px-5" }, [
-                    __vite_ssr_import_6__.createVNode("div", { class: "flex-shrink-0" }, [
-                      __vite_ssr_import_6__.createVNode("img", {
+                __vite_ssr_import_4__.createVNode("div", { class: "pt-4 pb-3 border-t border-gray-700" }, [
+                  __vite_ssr_import_4__.createVNode("div", { class: "flex items-center px-5" }, [
+                    __vite_ssr_import_4__.createVNode("div", { class: "flex-shrink-0" }, [
+                      __vite_ssr_import_4__.createVNode("img", {
                         class: "h-10 w-10 rounded-full",
-                        src: $setup.user.imageUrl,
-                        alt: ""
-                      }, null, 8 /* PROPS */, ["src"])
+                        src: _ctx.user.imageUrl,
+                        alt: "user-image"
+                      }, null, 8, ["src"])
                     ]),
-                    __vite_ssr_import_6__.createVNode("div", { class: "ml-3" }, [
-                      __vite_ssr_import_6__.createVNode("div", { class: "text-base font-medium leading-none text-white" }, __vite_ssr_import_6__.toDisplayString($setup.user.name), 1 /* TEXT */),
-                      __vite_ssr_import_6__.createVNode("div", { class: "text-sm font-medium leading-none text-gray-400" }, __vite_ssr_import_6__.toDisplayString($setup.user.email), 1 /* TEXT */)
+                    __vite_ssr_import_4__.createVNode("div", { class: "ml-3" }, [
+                      __vite_ssr_import_4__.createVNode("div", { class: "text-base font-medium leading-none text-white" }, __vite_ssr_import_4__.toDisplayString(_ctx.user.name), 1),
+                      __vite_ssr_import_4__.createVNode("div", { class: "text-sm font-medium leading-none text-gray-400" }, __vite_ssr_import_4__.toDisplayString(_ctx.user.email), 1)
                     ]),
-                    __vite_ssr_import_6__.createVNode("button", {
+                    __vite_ssr_import_4__.createVNode("button", {
                       type: "button",
                       class: "ml-auto bg-gray-800 flex-shrink-0 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
                     }, [
-                      __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "View notifications"),
-                      __vite_ssr_import_6__.createVNode($setup["BellIcon"], {
+                      __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "View notifications"),
+                      __vite_ssr_import_4__.createVNode(_component_BellIcon, {
                         class: "h-6 w-6",
                         "aria-hidden": "true"
                       })
                     ])
                   ]),
-                  __vite_ssr_import_6__.createVNode("div", { class: "mt-3 px-2 space-y-1" }, [
-                    (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.userNavigation, (item) => {
-                      return __vite_ssr_import_6__.createVNode($setup["DisclosureButton"], {
+                  __vite_ssr_import_4__.createVNode("div", { class: "mt-3 px-2 space-y-1" }, [
+                    (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.userNavigation, (item) => {
+                      return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_DisclosureButton, {
                         key: item.name,
                         as: "a",
                         href: item.href,
                         class: "block px-3 py-2 rounded-md text-base font-medium text-gray-400 hover:text-white hover:bg-gray-700"
                       }, {
-                        default: __vite_ssr_import_6__.withCtx(() => [
-                          __vite_ssr_import_6__.createTextVNode(__vite_ssr_import_6__.toDisplayString(item.name), 1 /* TEXT */)
+                        default: __vite_ssr_import_4__.withCtx(() => [
+                          __vite_ssr_import_4__.createTextVNode(__vite_ssr_import_4__.toDisplayString(item.name), 1)
                         ]),
-                        _: 2 /* DYNAMIC */
-                      }, 1032 /* PROPS, DYNAMIC_SLOTS */, ["href"])
-                    }), 64 /* STABLE_FRAGMENT */))
+                        _: 2
+                      }, 1032, ["href"]);
+                    }), 128))
                   ])
                 ])
-              ]
+              ];
             }
           }),
-          _: 2 /* DYNAMIC */
-        }, _parent, _scopeId))
+          _: 2
+        }, _parent2, _scopeId));
       } else {
         return [
-          __vite_ssr_import_6__.createVNode("div", { class: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" }, [
-            __vite_ssr_import_6__.createVNode("div", { class: "flex items-center justify-between h-16" }, [
-              __vite_ssr_import_6__.createVNode("div", { class: "flex items-center" }, [
-                __vite_ssr_import_6__.createVNode("div", { class: "flex-shrink-0" }, [
-                  __vite_ssr_import_6__.createVNode("img", {
+          __vite_ssr_import_4__.createVNode("div", { class: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" }, [
+            __vite_ssr_import_4__.createVNode("div", { class: "flex items-center justify-between h-16" }, [
+              __vite_ssr_import_4__.createVNode("div", { class: "flex items-center" }, [
+                __vite_ssr_import_4__.createVNode("div", { class: "flex-shrink-0" }, [
+                  __vite_ssr_import_4__.createVNode("img", {
                     class: "h-8 w-8",
                     src: "https://tailwindui.com/img/logos/workflow-mark-indigo-500.svg",
                     alt: "Workflow"
                   })
                 ]),
-                __vite_ssr_import_6__.createVNode("div", { class: "hidden md:block" }, [
-                  __vite_ssr_import_6__.createVNode("div", { class: "ml-10 flex items-baseline space-x-4" }, [
-                    (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.navigation, (item) => {
-                      return __vite_ssr_import_6__.createVNode("a", {
+                __vite_ssr_import_4__.createVNode("div", { class: "hidden md:block" }, [
+                  __vite_ssr_import_4__.createVNode("div", { class: "ml-10 flex items-baseline space-x-4" }, [
+                    (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.navigation, (item) => {
+                      return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock("a", {
                         key: item.name,
                         href: item.href,
-                        class: [item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white', 'px-3 py-2 rounded-md text-sm font-medium'],
-                        "aria-current": item.current ? 'page' : undefined
-                      }, __vite_ssr_import_6__.toDisplayString(item.name), 11 /* TEXT, CLASS, PROPS */, ["href", "aria-current"])
-                    }), 64 /* STABLE_FRAGMENT */))
+                        class: [item.current ? "bg-gray-900 text-white" : "text-gray-300 hover:bg-gray-700 hover:text-white", "px-3 py-2 rounded-md text-sm font-medium"],
+                        "aria-current": item.current ? "page" : void 0
+                      }, __vite_ssr_import_4__.toDisplayString(item.name), 11, ["href", "aria-current"]);
+                    }), 128))
                   ])
                 ])
               ]),
-              __vite_ssr_import_6__.createVNode("div", { class: "hidden md:block" }, [
-                __vite_ssr_import_6__.createVNode("div", { class: "ml-4 flex items-center md:ml-6" }, [
-                  __vite_ssr_import_6__.createVNode("button", {
+              __vite_ssr_import_4__.createVNode("div", { class: "hidden md:block" }, [
+                __vite_ssr_import_4__.createVNode("div", { class: "ml-4 flex items-center md:ml-6" }, [
+                  __vite_ssr_import_4__.createVNode("button", {
                     type: "button",
                     class: "bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
                   }, [
-                    __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "View notifications"),
-                    __vite_ssr_import_6__.createVNode($setup["BellIcon"], {
+                    __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "View notifications"),
+                    __vite_ssr_import_4__.createVNode(_component_BellIcon, {
                       class: "h-6 w-6",
                       "aria-hidden": "true"
                     })
                   ]),
-                  __vite_ssr_import_6__.createCommentVNode(" Profile dropdown "),
-                  __vite_ssr_import_6__.createVNode($setup["Menu"], {
+                  __vite_ssr_import_4__.createCommentVNode(" Profile dropdown "),
+                  __vite_ssr_import_4__.createVNode(_component_Menu, {
                     as: "div",
                     class: "ml-3 relative"
                   }, {
-                    default: __vite_ssr_import_6__.withCtx(() => [
-                      __vite_ssr_import_6__.createVNode("div", null, [
-                        __vite_ssr_import_6__.createVNode($setup["MenuButton"], { class: "max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
-                          default: __vite_ssr_import_6__.withCtx(() => [
-                            __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "Open user menu"),
-                            __vite_ssr_import_6__.createVNode("img", {
+                    default: __vite_ssr_import_4__.withCtx(() => [
+                      __vite_ssr_import_4__.createVNode("div", null, [
+                        __vite_ssr_import_4__.createVNode(_component_MenuButton, { class: "max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
+                          default: __vite_ssr_import_4__.withCtx(() => [
+                            __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "Open user menu"),
+                            __vite_ssr_import_4__.createVNode("img", {
                               class: "h-8 w-8 rounded-full",
-                              src: $setup.user.imageUrl,
-                              alt: ""
-                            }, null, 8 /* PROPS */, ["src"])
+                              src: _ctx.user.imageUrl,
+                              alt: "user-image"
+                            }, null, 8, ["src"])
                           ]),
-                          _: 1 /* STABLE */
+                          _: 1
                         })
                       ]),
-                      __vite_ssr_import_6__.createVNode(__vite_ssr_import_6__.Transition, {
+                      __vite_ssr_import_4__.createVNode(__vite_ssr_import_4__.Transition, {
                         "enter-active-class": "transition ease-out duration-100",
                         "enter-from-class": "transform opacity-0 scale-95",
                         "enter-to-class": "transform opacity-100 scale-100",
@@ -12412,140 +18394,169 @@ function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $op
                         "leave-from-class": "transform opacity-100 scale-100",
                         "leave-to-class": "transform opacity-0 scale-95"
                       }, {
-                        default: __vite_ssr_import_6__.withCtx(() => [
-                          __vite_ssr_import_6__.createVNode($setup["MenuItems"], { class: "origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" }, {
-                            default: __vite_ssr_import_6__.withCtx(() => [
-                              (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.userNavigation, (item) => {
-                                return __vite_ssr_import_6__.createVNode($setup["MenuItem"], {
+                        default: __vite_ssr_import_4__.withCtx(() => [
+                          __vite_ssr_import_4__.createVNode(_component_MenuItems, { class: "origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" }, {
+                            default: __vite_ssr_import_4__.withCtx(() => [
+                              (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.userNavigation, (item) => {
+                                return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_MenuItem, {
                                   key: item.name
                                 }, {
-                                  default: __vite_ssr_import_6__.withCtx(({ active }) => [
-                                    __vite_ssr_import_6__.createVNode("a", {
+                                  default: __vite_ssr_import_4__.withCtx(({ active }) => [
+                                    __vite_ssr_import_4__.createVNode("a", {
                                       href: item.href,
-                                      class: [active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700']
-                                    }, __vite_ssr_import_6__.toDisplayString(item.name), 11 /* TEXT, CLASS, PROPS */, ["href"])
+                                      class: [active ? "bg-gray-100" : "", "block px-4 py-2 text-sm text-gray-700"]
+                                    }, __vite_ssr_import_4__.toDisplayString(item.name), 11, ["href"])
                                   ]),
-                                  _: 2 /* DYNAMIC */
-                                }, 1024 /* DYNAMIC_SLOTS */)
-                              }), 64 /* STABLE_FRAGMENT */))
+                                  _: 2
+                                }, 1024);
+                              }), 128))
                             ]),
-                            _: 1 /* STABLE */
+                            _: 1
                           })
                         ]),
-                        _: 1 /* STABLE */
+                        _: 1
                       })
                     ]),
-                    _: 1 /* STABLE */
+                    _: 1
                   })
                 ])
               ]),
-              __vite_ssr_import_6__.createVNode("div", { class: "-mr-2 flex md:hidden" }, [
-                __vite_ssr_import_6__.createCommentVNode(" Mobile menu button "),
-                __vite_ssr_import_6__.createVNode($setup["DisclosureButton"], { class: "bg-gray-800 inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
-                  default: __vite_ssr_import_6__.withCtx(() => [
-                    __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "Open main menu"),
-                    (!open)
-                      ? (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock($setup["MenuIcon"], {
-                          key: 0,
-                          class: "block h-6 w-6",
-                          "aria-hidden": "true"
-                        }))
-                      : (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock($setup["XIcon"], {
-                          key: 1,
-                          class: "block h-6 w-6",
-                          "aria-hidden": "true"
-                        }))
+              __vite_ssr_import_4__.createVNode("div", { class: "-mr-2 flex md:hidden" }, [
+                __vite_ssr_import_4__.createCommentVNode(" Mobile menu button "),
+                __vite_ssr_import_4__.createVNode(_component_DisclosureButton, { class: "bg-gray-800 inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" }, {
+                  default: __vite_ssr_import_4__.withCtx(() => [
+                    __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "Open main menu"),
+                    !open ? (__vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_MenuIcon, {
+                      key: 0,
+                      class: "block h-6 w-6",
+                      "aria-hidden": "true"
+                    })) : (__vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_XIcon, {
+                      key: 1,
+                      class: "block h-6 w-6",
+                      "aria-hidden": "true"
+                    }))
                   ]),
-                  _: 2 /* DYNAMIC */
-                }, 1024 /* DYNAMIC_SLOTS */)
+                  _: 2
+                }, 1024)
               ])
             ])
           ]),
-          __vite_ssr_import_6__.createVNode($setup["DisclosurePanel"], { class: "md:hidden" }, {
-            default: __vite_ssr_import_6__.withCtx(() => [
-              __vite_ssr_import_6__.createVNode("div", { class: "px-2 pt-2 pb-3 space-y-1 sm:px-3" }, [
-                (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.navigation, (item) => {
-                  return __vite_ssr_import_6__.createVNode($setup["DisclosureButton"], {
+          __vite_ssr_import_4__.createVNode(_component_DisclosurePanel, { class: "md:hidden" }, {
+            default: __vite_ssr_import_4__.withCtx(() => [
+              __vite_ssr_import_4__.createVNode("div", { class: "px-2 pt-2 pb-3 space-y-1 sm:px-3" }, [
+                (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.navigation, (item) => {
+                  return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_DisclosureButton, {
                     key: item.name,
                     as: "a",
                     href: item.href,
-                    class: [item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white', 'block px-3 py-2 rounded-md text-base font-medium'],
-                    "aria-current": item.current ? 'page' : undefined
+                    class: [item.current ? "bg-gray-900 text-white" : "text-gray-300 hover:bg-gray-700 hover:text-white", "block px-3 py-2 rounded-md text-base font-medium"],
+                    "aria-current": item.current ? "page" : void 0
                   }, {
-                    default: __vite_ssr_import_6__.withCtx(() => [
-                      __vite_ssr_import_6__.createTextVNode(__vite_ssr_import_6__.toDisplayString(item.name), 1 /* TEXT */)
+                    default: __vite_ssr_import_4__.withCtx(() => [
+                      __vite_ssr_import_4__.createTextVNode(__vite_ssr_import_4__.toDisplayString(item.name), 1)
                     ]),
-                    _: 2 /* DYNAMIC */
-                  }, 1032 /* PROPS, DYNAMIC_SLOTS */, ["href", "class", "aria-current"])
-                }), 64 /* STABLE_FRAGMENT */))
+                    _: 2
+                  }, 1032, ["href", "class", "aria-current"]);
+                }), 128))
               ]),
-              __vite_ssr_import_6__.createVNode("div", { class: "pt-4 pb-3 border-t border-gray-700" }, [
-                __vite_ssr_import_6__.createVNode("div", { class: "flex items-center px-5" }, [
-                  __vite_ssr_import_6__.createVNode("div", { class: "flex-shrink-0" }, [
-                    __vite_ssr_import_6__.createVNode("img", {
+              __vite_ssr_import_4__.createVNode("div", { class: "pt-4 pb-3 border-t border-gray-700" }, [
+                __vite_ssr_import_4__.createVNode("div", { class: "flex items-center px-5" }, [
+                  __vite_ssr_import_4__.createVNode("div", { class: "flex-shrink-0" }, [
+                    __vite_ssr_import_4__.createVNode("img", {
                       class: "h-10 w-10 rounded-full",
-                      src: $setup.user.imageUrl,
-                      alt: ""
-                    }, null, 8 /* PROPS */, ["src"])
+                      src: _ctx.user.imageUrl,
+                      alt: "user-image"
+                    }, null, 8, ["src"])
                   ]),
-                  __vite_ssr_import_6__.createVNode("div", { class: "ml-3" }, [
-                    __vite_ssr_import_6__.createVNode("div", { class: "text-base font-medium leading-none text-white" }, __vite_ssr_import_6__.toDisplayString($setup.user.name), 1 /* TEXT */),
-                    __vite_ssr_import_6__.createVNode("div", { class: "text-sm font-medium leading-none text-gray-400" }, __vite_ssr_import_6__.toDisplayString($setup.user.email), 1 /* TEXT */)
+                  __vite_ssr_import_4__.createVNode("div", { class: "ml-3" }, [
+                    __vite_ssr_import_4__.createVNode("div", { class: "text-base font-medium leading-none text-white" }, __vite_ssr_import_4__.toDisplayString(_ctx.user.name), 1),
+                    __vite_ssr_import_4__.createVNode("div", { class: "text-sm font-medium leading-none text-gray-400" }, __vite_ssr_import_4__.toDisplayString(_ctx.user.email), 1)
                   ]),
-                  __vite_ssr_import_6__.createVNode("button", {
+                  __vite_ssr_import_4__.createVNode("button", {
                     type: "button",
                     class: "ml-auto bg-gray-800 flex-shrink-0 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
                   }, [
-                    __vite_ssr_import_6__.createVNode("span", { class: "sr-only" }, "View notifications"),
-                    __vite_ssr_import_6__.createVNode($setup["BellIcon"], {
+                    __vite_ssr_import_4__.createVNode("span", { class: "sr-only" }, "View notifications"),
+                    __vite_ssr_import_4__.createVNode(_component_BellIcon, {
                       class: "h-6 w-6",
                       "aria-hidden": "true"
                     })
                   ])
                 ]),
-                __vite_ssr_import_6__.createVNode("div", { class: "mt-3 px-2 space-y-1" }, [
-                  (__vite_ssr_import_6__.openBlock(), __vite_ssr_import_6__.createBlock(__vite_ssr_import_6__.Fragment, null, __vite_ssr_import_6__.renderList($setup.userNavigation, (item) => {
-                    return __vite_ssr_import_6__.createVNode($setup["DisclosureButton"], {
+                __vite_ssr_import_4__.createVNode("div", { class: "mt-3 px-2 space-y-1" }, [
+                  (__vite_ssr_import_4__.openBlock(true), __vite_ssr_import_4__.createBlock(__vite_ssr_import_4__.Fragment, null, __vite_ssr_import_4__.renderList(_ctx.userNavigation, (item) => {
+                    return __vite_ssr_import_4__.openBlock(), __vite_ssr_import_4__.createBlock(_component_DisclosureButton, {
                       key: item.name,
                       as: "a",
                       href: item.href,
                       class: "block px-3 py-2 rounded-md text-base font-medium text-gray-400 hover:text-white hover:bg-gray-700"
                     }, {
-                      default: __vite_ssr_import_6__.withCtx(() => [
-                        __vite_ssr_import_6__.createTextVNode(__vite_ssr_import_6__.toDisplayString(item.name), 1 /* TEXT */)
+                      default: __vite_ssr_import_4__.withCtx(() => [
+                        __vite_ssr_import_4__.createTextVNode(__vite_ssr_import_4__.toDisplayString(item.name), 1)
                       ]),
-                      _: 2 /* DYNAMIC */
-                    }, 1032 /* PROPS, DYNAMIC_SLOTS */, ["href"])
-                  }), 64 /* STABLE_FRAGMENT */))
+                      _: 2
+                    }, 1032, ["href"]);
+                  }), 128))
                 ])
               ])
             ]),
-            _: 1 /* STABLE */
+            _: 1
           })
-        ]
+        ];
       }
     }),
-    _: 1 /* STABLE */
-  }, _parent))
-  _push(`<header class="bg-white shadow"><div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8"><h1 class="text-3xl font-bold text-gray-900">Dashboard</h1></div></header><main><div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8"><!-- Replace with your content --><div class="px-4 py-6 sm:px-0">${
-    __vite_ssr_import_7__.ssrInterpolate($setup.data)
-  } <div class="border-4 border-dashed border-gray-200 rounded-lg h-96"></div> ${
-    __vite_ssr_import_7__.ssrInterpolate($data.store.name)
-  }</div><!-- /End replace --></div></main></div>`)
+    _: 1
+  }, _parent));
+  _push(`<header class="bg-white shadow"><div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8"><h1 class="text-3xl font-bold text-gray-900">Dashboard</h1></div></header><main><div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8"><!-- Replace with your content --><div class="px-4 py-6 sm:px-0"><div class="border-4 border-dashed border-gray-200 rounded-lg h-96"></div></div><!-- /End replace --></div></main></div><!--]-->`);
 }
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
 
-
-const __vite_ssr_import_8__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-
-const _sfc_setup = _sfc_main.setup
+const _sfc_setup = _sfc_main.setup;
 _sfc_main.setup = (props, ctx) => {
-  const ssrContext = __vite_ssr_import_8__.useSSRContext()
-  ;(ssrContext.modules || (ssrContext.modules = new Set())).add("pages/index.vue")
-  return _sfc_setup ? _sfc_setup(props, ctx) : undefined
-}
-const __vite_ssr_import_9__ = await __vite_ssr_import__("/@id/plugin-vue:export-helper");
+  const ssrContext = __vite_ssr_import_6__.useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("pages/index.vue");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const __vite_ssr_import_7__ = await __vite_ssr_import__("/@id/plugin-vue:export-helper");
 
-__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_9__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"D:/Repositories/laravel-nuxt-survey/frontend/pages/index.vue"]]);
+__vite_ssr_exports__.default = /* @__PURE__ */ __vite_ssr_import_7__.default(_sfc_main, [["ssrRender", _sfc_ssrRender], ["__file", "D:/Repositories/laravel-nuxt-survey/frontend/pages/index.vue"]]);
+;
+}
+
+
+// --------------------
+// Request: D:/Repositories/laravel-nuxt-survey/frontend/pages/menu.vue
+// Parents: 
+// - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/routes.mjs ($id_9d122929)
+// Dependencies: 
+
+// --------------------
+const $id_d849e9f3 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+/* empty */;
+}
+
+
+// --------------------
+// Request: D:/Repositories/laravel-nuxt-survey/frontend/pages/modal.vue
+// Parents: 
+// - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/routes.mjs ($id_9d122929)
+// Dependencies: 
+
+// --------------------
+const $id_8ed0fd8e = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+/* empty */;
+}
+
+
+// --------------------
+// Request: D:/Repositories/laravel-nuxt-survey/frontend/pages/pinia.vue
+// Parents: 
+// - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/routes.mjs ($id_9d122929)
+// Dependencies: 
+
+// --------------------
+const $id_d23760aa = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+/* empty */;
 }
 
 
@@ -12685,6 +18696,16 @@ function del(target, key) {
 Object.defineProperty(__vite_ssr_exports__, "del", { enumerable: true, configurable: true, get(){ return del }});
 ;
 }
+
+
+// --------------------
+// Request: /node_modules/pinia/dist/pinia.mjs
+// Parents: 
+// - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/dist.plugin.16fa14af.mjs ($id_cf06d5ac)
+// Dependencies: 
+
+// --------------------
+const $id_b1920624 = (global, exports, importMeta, ssrImport, ssrDynamicImport, ssrExportAll) => import("file:///D:/Repositories/laravel-nuxt-survey/frontend/node_modules/pinia/dist/pinia.mjs").then(r => { exports.default = r.default; ssrExportAll(r) }).catch(e => { console.error(e); throw new Error("[vite dev] Error loading external \"D:/Repositories/laravel-nuxt-survey/frontend/node_modules/pinia/dist/pinia.mjs\".") })
 
 
 // --------------------
@@ -13268,179 +19289,87 @@ __vite_ssr_exports__.default = ".bg-white[data-v-1da4697d]{--tw-bg-opacity:1;bac
 // Parents: 
 // - D:/Repositories/laravel-nuxt-survey/frontend/node_modules/nuxt3/dist/app/entry ($id_7f770037)
 // Dependencies: 
-// - /node_modules/nuxt3/dist/pages/runtime/app.vue ($id_0851ff57)
+// - /app.vue ($id_2b46e842)
 // --------------------
 const $id_9b1061d8 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt3/dist/pages/runtime/app.vue");
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/app.vue");
 
 Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_0__.default }});;
 }
 
 
 // --------------------
-// Request: /node_modules/nuxt3/dist/pages/runtime/app.vue
+// Request: /app.vue
 // Parents: 
 // - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/app-component.mjs ($id_9b1061d8)
 // Dependencies: 
-// - /node_modules/nuxt3/dist/app/components/layout.mjs ($id_ddd66f9a)
 // - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
+// - /assets/tailwind.scss ($id_cd79d896)
 // - /node_modules/vue/server-renderer/index.js ($id_b215fa1c)
+// - /app.vue?vue&type=style&index=0&lang.scss ($id_64c6d174)
 // - /@id/plugin-vue:export-helper ($id_bbb863c1)
 // --------------------
-const $id_0851ff57 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt3/dist/app/components/layout.mjs");
-
-const _sfc_main = {}
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/vue/server-renderer/index.js");
-
-
-function _sfc_ssrRender(_ctx, _push, _parent, _attrs) {
-  const _component_NuxtLayout = __vite_ssr_import_0__.default
-  const _component_NuxtPage = __vite_ssr_import_1__.resolveComponent("NuxtPage")
-
-  _push(__vite_ssr_import_2__.ssrRenderComponent(_component_NuxtLayout, _attrs, {
-    default: __vite_ssr_import_1__.withCtx((_, _push, _parent, _scopeId) => {
-      if (_push) {
-        _push(__vite_ssr_import_2__.ssrRenderComponent(_component_NuxtPage, null, null, _parent, _scopeId))
-      } else {
-        return [
-          __vite_ssr_import_1__.createVNode(_component_NuxtPage)
-        ]
-      }
-    }),
-    _: 1 /* STABLE */
-  }, _parent))
-}
-
-
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-
-const _sfc_setup = _sfc_main.setup
-_sfc_main.setup = (props, ctx) => {
-  const ssrContext = __vite_ssr_import_3__.useSSRContext()
-  ;(ssrContext.modules || (ssrContext.modules = new Set())).add("node_modules/nuxt3/dist/pages/runtime/app.vue")
-  return _sfc_setup ? _sfc_setup(props, ctx) : undefined
-}
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/@id/plugin-vue:export-helper");
-
-__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_4__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"D:/Repositories/laravel-nuxt-survey/frontend/node_modules/nuxt3/dist/pages/runtime/app.vue"]]);
-}
-
-
-// --------------------
-// Request: /node_modules/nuxt3/dist/app/components/layout.mjs
-// Parents: 
-// - /node_modules/nuxt3/dist/pages/runtime/app.vue ($id_0851ff57)
-// Dependencies: 
-// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
-// - /node_modules/nuxt3/dist/app/components/utils.mjs ($id_bb7711fa)
-// - /node_modules/nuxt3/dist/app/index.mjs ($id_d8c2af0f)
-// - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/layouts.mjs ($id_51310b72)
-// --------------------
-const $id_ddd66f9a = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_2b46e842 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
 
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/nuxt3/dist/app/components/utils.mjs");
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/assets/tailwind.scss");
 
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/nuxt3/dist/app/index.mjs");
-
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/layouts.mjs");
-
-const defaultLayoutTransition = { name: "layout", mode: "out-in" };
-__vite_ssr_exports__.default = __vite_ssr_import_0__.defineComponent({
-  props: {
-    name: {
-      type: [String, Boolean, Object],
-      default: null
-    }
-  },
-  setup(props, context) {
-    const route = __vite_ssr_import_2__.useRoute();
-    return () => {
-      const layout = (__vite_ssr_import_0__.isRef(props.name) ? props.name.value : props.name) ?? route.meta.layout ?? "default";
-      const hasLayout = layout && layout in __vite_ssr_import_3__.default;
-      if (true && layout && !hasLayout && layout !== "default") {
-        console.warn(`Invalid layout \`${layout}\` selected.`);
-      }
-      return __vite_ssr_import_1__._wrapIf(__vite_ssr_import_0__.Transition, hasLayout && (route.meta.layoutTransition ?? defaultLayoutTransition), __vite_ssr_import_1__._wrapIf(__vite_ssr_import_3__.default[layout], hasLayout, context.slots)).default();
-    };
+const _sfc_main = /* @__PURE__ */ __vite_ssr_import_0__.defineComponent({
+  setup(__props, { expose }) {
+    expose();
+    const __returned__ = {};
+    Object.defineProperty(__returned__, "__isScriptSetup", { enumerable: false, value: true });
+    return __returned__;
   }
 });
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/server-renderer/index.js");
+
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  const _component_NuxtPage = __vite_ssr_import_2__.resolveComponent("NuxtPage");
+  _push(`<div${__vite_ssr_import_3__.ssrRenderAttrs(_attrs)}>`);
+  _push(__vite_ssr_import_3__.ssrRenderComponent(_component_NuxtPage, null, null, _parent));
+  _push(`</div>`);
+}
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/app.vue?vue&type=style&index=0&lang.scss");
+
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
+
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = __vite_ssr_import_5__.useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("app.vue");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const __vite_ssr_import_6__ = await __vite_ssr_import__("/@id/plugin-vue:export-helper");
+
+__vite_ssr_exports__.default = /* @__PURE__ */ __vite_ssr_import_6__.default(_sfc_main, [["ssrRender", _sfc_ssrRender], ["__file", "D:/Repositories/laravel-nuxt-survey/frontend/app.vue"]]);
 ;
 }
 
 
 // --------------------
-// Request: /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/layouts.mjs
+// Request: /assets/tailwind.scss
 // Parents: 
-// - /node_modules/nuxt3/dist/app/components/layout.mjs ($id_ddd66f9a)
+// - /app.vue ($id_2b46e842)
 // Dependencies: 
-// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
-// - /layouts/guest.vue ($id_7c0fbde7)
-// --------------------
-const $id_51310b72 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
 
-__vite_ssr_exports__.default = {
-  guest: __vite_ssr_import_0__.defineAsyncComponent(() => __vite_ssr_dynamic_import__('/layouts/guest.vue'))
-};
+// --------------------
+const $id_cd79d896 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+__vite_ssr_exports__.default = "/*! tailwindcss v3.0.23 | MIT License | https://tailwindcss.com*/*,:after,:before{border:0 solid #e5e7eb;box-sizing:border-box}:after,:before{--tw-content:\"\"}html{-webkit-text-size-adjust:100%;font-family:\"Inter var\",ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";line-height:1.5;-moz-tab-size:4;-o-tab-size:4;tab-size:4}body{line-height:inherit;margin:0}hr{border-top-width:1px;color:inherit;height:0}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{border-collapse:collapse;border-color:inherit;text-indent:0}button,input,optgroup,select,textarea{color:inherit;font-family:inherit;font-size:100%;line-height:inherit;margin:0;padding:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0}fieldset,legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}textarea{resize:vertical}input::-moz-placeholder,textarea::-moz-placeholder{color:#9ca3af;opacity:1}input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#9ca3af;opacity:1}input::placeholder,textarea::placeholder{color:#9ca3af;opacity:1}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{height:auto;max-width:100%}[hidden]{display:none}[multiple],[type=date],[type=datetime-local],[type=email],[type=month],[type=number],[type=password],[type=search],[type=tel],[type=text],[type=time],[type=url],[type=week],select,textarea{--tw-shadow:0 0 #0000;-webkit-appearance:none;-moz-appearance:none;appearance:none;background-color:#fff;border-color:#6b7280;border-radius:0;border-width:1px;font-size:1rem;line-height:1.5rem;padding:.5rem .75rem}[multiple]:focus,[type=date]:focus,[type=datetime-local]:focus,[type=email]:focus,[type=month]:focus,[type=number]:focus,[type=password]:focus,[type=search]:focus,[type=tel]:focus,[type=text]:focus,[type=time]:focus,[type=url]:focus,[type=week]:focus,select:focus,textarea:focus{--tw-ring-inset:var(--tw-empty,/*!*/ /*!*/);--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:#2563eb;--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);border-color:#2563eb;box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow);outline:2px solid transparent;outline-offset:2px}input::-moz-placeholder,textarea::-moz-placeholder{color:#6b7280;opacity:1}input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#6b7280;opacity:1}input::placeholder,textarea::placeholder{color:#6b7280;opacity:1}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-date-and-time-value{min-height:1.5em}::-webkit-datetime-edit,::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-meridiem-field,::-webkit-datetime-edit-millisecond-field,::-webkit-datetime-edit-minute-field,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-second-field,::-webkit-datetime-edit-year-field{padding-bottom:0;padding-top:0}select{color-adjust:exact;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3E%3Cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='m6 8 4 4 4-4'/%3E%3C/svg%3E\");background-position:right .5rem center;background-repeat:no-repeat;background-size:1.5em 1.5em;padding-right:2.5rem;-webkit-print-color-adjust:exact}[multiple]{color-adjust:unset;background-image:none;background-position:0 0;background-repeat:unset;background-size:initial;padding-right:.75rem;-webkit-print-color-adjust:unset}[type=checkbox],[type=radio]{color-adjust:exact;--tw-shadow:0 0 #0000;-webkit-appearance:none;-moz-appearance:none;appearance:none;background-color:#fff;background-origin:border-box;border-color:#6b7280;border-width:1px;color:#2563eb;display:inline-block;flex-shrink:0;height:1rem;padding:0;-webkit-print-color-adjust:exact;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;vertical-align:middle;width:1rem}[type=checkbox]{border-radius:0}[type=radio]{border-radius:100%}[type=checkbox]:focus,[type=radio]:focus{--tw-ring-inset:var(--tw-empty,/*!*/ /*!*/);--tw-ring-offset-width:2px;--tw-ring-offset-color:#fff;--tw-ring-color:#2563eb;--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow);outline:2px solid transparent;outline-offset:2px}[type=checkbox]:checked,[type=radio]:checked{background-color:currentColor;background-position:50%;background-repeat:no-repeat;background-size:100% 100%;border-color:transparent}[type=checkbox]:checked{background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg viewBox='0 0 16 16' fill='%23fff' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12.207 4.793a1 1 0 0 1 0 1.414l-5 5a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L6.5 9.086l4.293-4.293a1 1 0 0 1 1.414 0z'/%3E%3C/svg%3E\")}[type=radio]:checked{background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg viewBox='0 0 16 16' fill='%23fff' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='8' cy='8' r='3'/%3E%3C/svg%3E\")}[type=checkbox]:checked:focus,[type=checkbox]:checked:hover,[type=radio]:checked:focus,[type=radio]:checked:hover{background-color:currentColor;border-color:transparent}[type=checkbox]:indeterminate{background-color:currentColor;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 16 16'%3E%3Cpath stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M4 8h8'/%3E%3C/svg%3E\");background-position:50%;background-repeat:no-repeat;background-size:100% 100%;border-color:transparent}[type=checkbox]:indeterminate:focus,[type=checkbox]:indeterminate:hover{background-color:currentColor;border-color:transparent}[type=file]{background:unset;border-color:inherit;border-radius:0;border-width:0;font-size:unset;line-height:inherit;padding:0}[type=file]:focus{outline:1px auto -webkit-focus-ring-color}*,:after,:before{--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }.sr-only{clip:rect(0,0,0,0);border-width:0;height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px}.fixed{position:fixed}.absolute{position:absolute}.relative{position:relative}.inset-0{bottom:0;left:0;right:0;top:0}.right-0{right:0}.top-16{top:4rem}.z-10{z-index:10}.mx-auto{margin-left:auto;margin-right:auto}.mt-2{margin-top:.5rem}.mt-4{margin-top:1rem}.mt-10{margin-top:2.5rem}.ml-16{margin-left:4rem}.ml-10{margin-left:2.5rem}.ml-4{margin-left:1rem}.ml-3{margin-left:.75rem}.-mr-2{margin-right:-.5rem}.ml-auto{margin-left:auto}.mt-3{margin-top:.75rem}.ml-2{margin-left:.5rem}.-mr-1{margin-right:-.25rem}.mr-2{margin-right:.5rem}.mt-5{margin-top:1.25rem}.block{display:block}.inline-block{display:inline-block}.flex{display:flex}.inline-flex{display:inline-flex}.contents{display:contents}.hidden{display:none}.h-full{height:100%}.h-12{height:3rem}.h-6{height:1.5rem}.h-16{height:4rem}.h-8{height:2rem}.h-10{height:2.5rem}.h-96{height:24rem}.h-screen{height:100vh}.h-5{height:1.25rem}.min-h-full{min-height:100%}.min-h-screen{min-height:100vh}.w-12{width:3rem}.w-6{width:1.5rem}.w-8{width:2rem}.w-48{width:12rem}.w-10{width:2.5rem}.w-screen{width:100vw}.w-56{width:14rem}.w-full{width:100%}.w-5{width:1.25rem}.max-w-7xl{max-width:80rem}.max-w-2xl{max-width:42rem}.max-w-xs{max-width:20rem}.flex-shrink-0{flex-shrink:0}.origin-top-right{transform-origin:top right}.translate-y-4{--tw-translate-y:1rem}.translate-y-0,.translate-y-4{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.translate-y-0{--tw-translate-y:0px}.scale-95{--tw-scale-x:.95;--tw-scale-y:.95}.scale-100,.scale-95{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.scale-100{--tw-scale-x:1;--tw-scale-y:1}.transform{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.items-end{align-items:flex-end}.items-center{align-items:center}.items-baseline{align-items:baseline}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.space-y-10>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(2.5rem*var(--tw-space-y-reverse));margin-top:calc(2.5rem*(1 - var(--tw-space-y-reverse)))}.space-x-4>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(1rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(1rem*var(--tw-space-x-reverse))}.space-y-1>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(.25rem*var(--tw-space-y-reverse));margin-top:calc(.25rem*(1 - var(--tw-space-y-reverse)))}.divide-y>:not([hidden])~:not([hidden]){--tw-divide-y-reverse:0;border-bottom-width:calc(1px*var(--tw-divide-y-reverse));border-top-width:calc(1px*(1 - var(--tw-divide-y-reverse)))}.divide-gray-100>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgb(243 244 246/var(--tw-divide-opacity))}.overflow-hidden{overflow:hidden}.overflow-y-auto{overflow-y:auto}.rounded-md{border-radius:.375rem}.rounded-full{border-radius:9999px}.rounded-lg{border-radius:.5rem}.border-4{border-width:4px}.border{border-width:1px}.border-t{border-top-width:1px}.border-dashed{border-style:dashed}.border-gray-700{--tw-border-opacity:1;border-color:rgb(55 65 81/var(--tw-border-opacity))}.border-gray-200{--tw-border-opacity:1;border-color:rgb(229 231 235/var(--tw-border-opacity))}.border-transparent{border-color:transparent}.bg-gray-100{--tw-bg-opacity:1;background-color:rgb(243 244 246/var(--tw-bg-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity))}.bg-indigo-500{--tw-bg-opacity:1;background-color:rgb(99 102 241/var(--tw-bg-opacity))}.bg-gray-800{--tw-bg-opacity:1;background-color:rgb(31 41 55/var(--tw-bg-opacity))}.bg-gray-900{--tw-bg-opacity:1;background-color:rgb(17 24 39/var(--tw-bg-opacity))}.bg-black{--tw-bg-opacity:1;background-color:rgb(0 0 0/var(--tw-bg-opacity))}.bg-violet-500{--tw-bg-opacity:1;background-color:rgb(139 92 246/var(--tw-bg-opacity))}.bg-gray-500{--tw-bg-opacity:1;background-color:rgb(107 114 128/var(--tw-bg-opacity))}.bg-green-100{--tw-bg-opacity:1;background-color:rgb(220 252 231/var(--tw-bg-opacity))}.bg-indigo-600{--tw-bg-opacity:1;background-color:rgb(79 70 229/var(--tw-bg-opacity))}.bg-opacity-20{--tw-bg-opacity:0.2}.bg-opacity-75{--tw-bg-opacity:0.75}.p-1{padding:.25rem}.p-2{padding:.5rem}.p-4{padding:1rem}.py-12{padding-bottom:3rem;padding-top:3rem}.px-4{padding-left:1rem;padding-right:1rem}.px-3{padding-left:.75rem;padding-right:.75rem}.py-2{padding-bottom:.5rem;padding-top:.5rem}.py-1{padding-bottom:.25rem;padding-top:.25rem}.px-2{padding-left:.5rem;padding-right:.5rem}.px-5{padding-left:1.25rem;padding-right:1.25rem}.py-6{padding-bottom:1.5rem;padding-top:1.5rem}.px-1{padding-left:.25rem;padding-right:.25rem}.pt-2{padding-top:.5rem}.pb-3{padding-bottom:.75rem}.pt-4{padding-top:1rem}.pb-20{padding-bottom:5rem}.pt-5{padding-top:1.25rem}.pb-4{padding-bottom:1rem}.text-left{text-align:left}.text-center{text-align:center}.text-right{text-align:right}.align-bottom{vertical-align:bottom}.text-base{font-size:1rem;line-height:1.5rem}.text-3xl{font-size:1.875rem;line-height:2.25rem}.text-xl{font-size:1.25rem}.text-lg,.text-xl{line-height:1.75rem}.text-lg{font-size:1.125rem}.text-sm{font-size:.875rem;line-height:1.25rem}.font-semibold{font-weight:600}.font-extrabold{font-weight:800}.font-medium{font-weight:500}.font-bold{font-weight:700}.uppercase{text-transform:uppercase}.leading-8{line-height:2rem}.leading-6{line-height:1.5rem}.leading-none{line-height:1}.tracking-wide{letter-spacing:.025em}.tracking-tight{letter-spacing:-.025em}.text-indigo-600{--tw-text-opacity:1;color:rgb(79 70 229/var(--tw-text-opacity))}.text-gray-900{--tw-text-opacity:1;color:rgb(17 24 39/var(--tw-text-opacity))}.text-gray-500{--tw-text-opacity:1;color:rgb(107 114 128/var(--tw-text-opacity))}.text-white{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))}.text-gray-300{--tw-text-opacity:1;color:rgb(209 213 219/var(--tw-text-opacity))}.text-gray-400{--tw-text-opacity:1;color:rgb(156 163 175/var(--tw-text-opacity))}.text-gray-700{--tw-text-opacity:1;color:rgb(55 65 81/var(--tw-text-opacity))}.text-violet-200{--tw-text-opacity:1;color:rgb(221 214 254/var(--tw-text-opacity))}.text-violet-400{--tw-text-opacity:1;color:rgb(167 139 250/var(--tw-text-opacity))}.text-green-600{--tw-text-opacity:1;color:rgb(22 163 74/var(--tw-text-opacity))}.text-black{--tw-text-opacity:1;color:rgb(0 0 0/var(--tw-text-opacity))}.opacity-0{opacity:0}.opacity-100{opacity:1}.shadow-lg{--tw-shadow:0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -4px rgba(0,0,0,.1);--tw-shadow-colored:0 10px 15px -3px var(--tw-shadow-color),0 4px 6px -4px var(--tw-shadow-color)}.shadow,.shadow-lg{box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.shadow{--tw-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px -1px rgba(0,0,0,.1);--tw-shadow-colored:0 1px 3px 0 var(--tw-shadow-color),0 1px 2px -1px var(--tw-shadow-color)}.shadow-xl{--tw-shadow:0 20px 25px -5px rgba(0,0,0,.1),0 8px 10px -6px rgba(0,0,0,.1);--tw-shadow-colored:0 20px 25px -5px var(--tw-shadow-color),0 8px 10px -6px var(--tw-shadow-color)}.shadow-sm,.shadow-xl{box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.shadow-sm{--tw-shadow:0 1px 2px 0 rgba(0,0,0,.05);--tw-shadow-colored:0 1px 2px 0 var(--tw-shadow-color)}.ring-1{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.ring-black{--tw-ring-opacity:1;--tw-ring-color:rgb(0 0 0/var(--tw-ring-opacity))}.ring-opacity-5{--tw-ring-opacity:0.05}.transition{transition-duration:.15s;transition-property:color,background-color,border-color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-text-decoration-color,-webkit-backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-text-decoration-color,-webkit-backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1)}.transition-opacity{transition-duration:.15s;transition-property:opacity;transition-timing-function:cubic-bezier(.4,0,.2,1)}.transition-all{transition-duration:.15s;transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1)}.duration-100{transition-duration:.1s}.duration-75{transition-duration:75ms}.duration-300{transition-duration:.3s}.duration-200{transition-duration:.2s}.ease-out{transition-timing-function:cubic-bezier(0,0,.2,1)}.ease-in{transition-timing-function:cubic-bezier(.4,0,1,1)}.hover\\:bg-gray-700:hover{--tw-bg-opacity:1;background-color:rgb(55 65 81/var(--tw-bg-opacity))}.hover\\:bg-indigo-700:hover{--tw-bg-opacity:1;background-color:rgb(67 56 202/var(--tw-bg-opacity))}.hover\\:bg-opacity-30:hover{--tw-bg-opacity:0.3}.hover\\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))}.hover\\:text-violet-100:hover{--tw-text-opacity:1;color:rgb(237 233 254/var(--tw-text-opacity))}.focus\\:outline-none:focus{outline:2px solid transparent;outline-offset:2px}.focus\\:ring-2:focus{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.focus\\:ring-white:focus{--tw-ring-opacity:1;--tw-ring-color:rgb(255 255 255/var(--tw-ring-opacity))}.focus\\:ring-indigo-500:focus{--tw-ring-opacity:1;--tw-ring-color:rgb(99 102 241/var(--tw-ring-opacity))}.focus\\:ring-offset-2:focus{--tw-ring-offset-width:2px}.focus\\:ring-offset-gray-800:focus{--tw-ring-offset-color:#1f2937}.focus-visible\\:ring-2:focus-visible{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.focus-visible\\:ring-white:focus-visible{--tw-ring-opacity:1;--tw-ring-color:rgb(255 255 255/var(--tw-ring-opacity))}.focus-visible\\:ring-opacity-75:focus-visible{--tw-ring-opacity:0.75}@media (min-width:640px){.sm\\:my-8{margin-bottom:2rem;margin-top:2rem}.sm\\:mt-5{margin-top:1.25rem}.sm\\:mt-6{margin-top:1.5rem}.sm\\:block{display:block}.sm\\:inline-block{display:inline-block}.sm\\:h-screen{height:100vh}.sm\\:w-full{width:100%}.sm\\:max-w-sm{max-width:24rem}.sm\\:translate-y-0{--tw-translate-y:0px}.sm\\:scale-95,.sm\\:translate-y-0{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.sm\\:scale-95{--tw-scale-x:.95;--tw-scale-y:.95}.sm\\:scale-100{--tw-scale-x:1;--tw-scale-y:1;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.sm\\:p-0{padding:0}.sm\\:p-6{padding:1.5rem}.sm\\:px-6{padding-left:1.5rem;padding-right:1.5rem}.sm\\:px-3{padding-left:.75rem;padding-right:.75rem}.sm\\:px-0{padding-left:0;padding-right:0}.sm\\:align-middle{vertical-align:middle}.sm\\:text-4xl{font-size:2.25rem;line-height:2.5rem}.sm\\:text-sm{font-size:.875rem;line-height:1.25rem}}@media (min-width:768px){.md\\:ml-6{margin-left:1.5rem}.md\\:block{display:block}.md\\:grid{display:grid}.md\\:hidden{display:none}.md\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.md\\:gap-x-8{-moz-column-gap:2rem;column-gap:2rem}.md\\:gap-y-10{row-gap:2.5rem}.md\\:space-y-0>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(0px*var(--tw-space-y-reverse));margin-top:calc(0px*(1 - var(--tw-space-y-reverse)))}}@media (min-width:1024px){.lg\\:mx-auto{margin-left:auto;margin-right:auto}.lg\\:px-8{padding-left:2rem;padding-right:2rem}.lg\\:text-center{text-align:center}}";
 }
 
 
 // --------------------
-// Request: /layouts/guest.vue
+// Request: /app.vue?vue&type=style&index=0&lang.scss
 // Parents: 
-// - /@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/layouts.mjs ($id_51310b72)
+// - /app.vue ($id_2b46e842)
 // Dependencies: 
-// - /node_modules/nuxt3/dist/head/runtime/index.mjs ($id_274036df)
-// - /node_modules/vue/server-renderer/index.js ($id_b215fa1c)
-// - /node_modules/vue/dist/vue.cjs.js ($id_60f0615f)
-// - /@id/plugin-vue:export-helper ($id_bbb863c1)
+
 // --------------------
-const $id_7c0fbde7 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/nuxt3/dist/head/runtime/index.mjs");
-const _sfc_main = {
-  setup(__props, { expose }) {
-  expose();
-
-__vite_ssr_import_0__.useHead({
-  bodyAttrs: {
-    class: 'h-full'
-  },
-  htmlAttrs: {
-    class: 'h-full bg-gray-100'
-  }
-})
-
-const __returned__ = {  }
-Object.defineProperty(__returned__, '__isScriptSetup', { enumerable: false, value: true })
-return __returned__
-}
-
-}
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vue/server-renderer/index.js");
-
-
-function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
-  _push(`<!--[-->`)
-  __vite_ssr_import_1__.ssrRenderSlot(_ctx.$slots, "default", {}, null, _push, _parent)
-  _push(`&gt; <!--]-->`)
-}
-
-
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.cjs.js");
-
-const _sfc_setup = _sfc_main.setup
-_sfc_main.setup = (props, ctx) => {
-  const ssrContext = __vite_ssr_import_2__.useSSRContext()
-  ;(ssrContext.modules || (ssrContext.modules = new Set())).add("layouts/guest.vue")
-  return _sfc_setup ? _sfc_setup(props, ctx) : undefined
-}
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/plugin-vue:export-helper");
-
-__vite_ssr_exports__.default = /*#__PURE__*/__vite_ssr_import_3__.default(_sfc_main, [['ssrRender',_sfc_ssrRender],['__file',"D:/Repositories/laravel-nuxt-survey/frontend/layouts/guest.vue"]]);
+const $id_64c6d174 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+__vite_ssr_exports__.default = "body{--tw-bg-opacity:1;background-color:rgb(249 250 251/var(--tw-bg-opacity))}@media (prefers-color-scheme:dark){body{--tw-bg-opacity:1;background-color:rgb(31 41 55/var(--tw-bg-opacity))}}.global-text{--tw-text-opacity:1;color:rgb(17 24 39/var(--tw-text-opacity))}@media (prefers-color-scheme:dark){.global-text{--tw-text-opacity:1;color:rgb(249 250 251/var(--tw-text-opacity))}}";
 }
 
 
@@ -13454,7 +19383,7 @@ const __modules__ = {
   "/node_modules/hookable/dist/index.mjs": $id_a2c811c4,
   "/node_modules/unctx/dist/index.mjs": $id_a569ca2d,
   "/node_modules/nuxt3/dist/app/compat/legacy-app.mjs": $id_75047751,
-  "/node_modules/unenv/runtime/mock/proxy.cjs": $id_45767657,
+  "/node_modules/unenv/runtime/mock/proxy.mjs": $id_39e12da7,
   "/node_modules/nuxt3/dist/app/composables/index.mjs": $id_42ae3d5d,
   "/node_modules/nuxt3/dist/app/composables/component.mjs": $id_b47c3881,
   "/node_modules/vue-router/dist/vue-router.cjs.js": $id_f9a4a698,
@@ -13476,7 +19405,6 @@ const __modules__ = {
   "/node_modules/nuxt3/dist/head/runtime/composables.mjs": $id_54e514a9,
   "/node_modules/@vue/shared/dist/shared.cjs.js": $id_852b06a2,
   "/@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/css.mjs": $id_3f48ba95,
-  "/assets/css/tailwind.css": $id_f75548e1,
   "/@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/plugins/server.mjs": $id_e7cb404a,
   "/node_modules/nuxt3/dist/app/plugins/preload.server.mjs": $id_b9f3c557,
   "/@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/components.mjs": $id_d59f77b9,
@@ -13726,17 +19654,54 @@ const __modules__ = {
   "/@id/plugin-vue:export-helper": $id_bbb863c1,
   "/pages/index.vue?macro=true": $id_5dd70240,
   "/node_modules/nuxt3/dist/pages/runtime/composables.mjs": $id_f55c9203,
-  "/store.ts": $id_05c4c624,
-  "/node_modules/pinia/dist/pinia.mjs": $id_b1920624,
-  "/node_modules/@headlessui/vue/dist/headlessui.esm.js": $id_2c13895f,
-  "/utils/api.ts": $id_da3d18cd,
+  "/node_modules/@headlessui/vue/dist/index.esm.js": $id_1ad98bcf,
+  "/node_modules/@headlessui/vue/dist/components/portal/portal.esm.js": $id_6fee7f5c,
+  "/node_modules/@headlessui/vue/dist/_virtual/_rollupPluginBabelHelpers.js": $id_49d537e3,
+  "/node_modules/@headlessui/vue/dist/utils/render.esm.js": $id_43adc7eb,
+  "/node_modules/@headlessui/vue/dist/utils/match.esm.js": $id_a504e9df,
+  "/node_modules/@headlessui/vue/dist/internal/stack-context.esm.js": $id_ff41f596,
+  "/node_modules/@headlessui/vue/dist/internal/portal-force-root.esm.js": $id_c65cbc73,
+  "/node_modules/@headlessui/vue/dist/components/dialog/dialog.esm.js": $id_f5f9290d,
+  "/node_modules/@headlessui/vue/dist/keyboard.esm.js": $id_851f9aee,
+  "/node_modules/@headlessui/vue/dist/hooks/use-id.esm.js": $id_91b75316,
+  "/node_modules/@headlessui/vue/dist/hooks/use-window-event.esm.js": $id_d16ea418,
+  "/node_modules/@headlessui/vue/dist/internal/dom-containers.esm.js": $id_66dd9b95,
+  "/node_modules/@headlessui/vue/dist/hooks/use-focus-trap.esm.js": $id_ad390bd9,
+  "/node_modules/@headlessui/vue/dist/utils/focus-management.esm.js": $id_bcffe35d,
+  "/node_modules/@headlessui/vue/dist/hooks/use-inert-others.esm.js": $id_a091c5e1,
+  "/node_modules/@headlessui/vue/dist/components/description/description.esm.js": $id_35d2303d,
+  "/node_modules/@headlessui/vue/dist/utils/dom.esm.js": $id_2c50d6d0,
+  "/node_modules/@headlessui/vue/dist/internal/open-closed.esm.js": $id_11ac5a62,
+  "/node_modules/@headlessui/vue/dist/components/disclosure/disclosure.esm.js": $id_658d32c3,
+  "/node_modules/@headlessui/vue/dist/hooks/use-resolve-button-type.esm.js": $id_05706002,
+  "/node_modules/@headlessui/vue/dist/components/focus-trap/focus-trap.esm.js": $id_12d79ec1,
+  "/node_modules/@headlessui/vue/dist/components/listbox/listbox.esm.js": $id_aeffb558,
+  "/node_modules/@headlessui/vue/dist/utils/calculate-active-index.esm.js": $id_0063dbca,
+  "/node_modules/@headlessui/vue/dist/components/menu/menu.esm.js": $id_228e9881,
+  "/node_modules/@headlessui/vue/dist/hooks/use-tree-walker.esm.js": $id_8f79cfee,
+  "/node_modules/@headlessui/vue/dist/components/popover/popover.esm.js": $id_a655584d,
+  "/node_modules/@headlessui/vue/dist/components/radio-group/radio-group.esm.js": $id_f293a83d,
+  "/node_modules/@headlessui/vue/dist/components/label/label.esm.js": $id_b1e73183,
+  "/node_modules/@headlessui/vue/dist/components/switch/switch.esm.js": $id_4ec2ab7a,
+  "/node_modules/@headlessui/vue/dist/components/tabs/tabs.esm.js": $id_f55023ef,
+  "/node_modules/@headlessui/vue/dist/components/transitions/transition.esm.js": $id_bf02b578,
+  "/node_modules/@headlessui/vue/dist/components/transitions/utils/transition.esm.js": $id_083bd598,
+  "/node_modules/@headlessui/vue/dist/utils/once.esm.js": $id_e127f1bd,
+  "/node_modules/@headlessui/vue/dist/utils/disposables.esm.js": $id_bd44d12d,
+  "D:/Repositories/laravel-nuxt-survey/frontend/pages/menu.vue?macro=true": $id_1544da3c,
+  "D:/Repositories/laravel-nuxt-survey/frontend/pages/modal.vue?macro=true": $id_d0fb247c,
+  "D:/Repositories/laravel-nuxt-survey/frontend/pages/pinia.vue?macro=true": $id_7a8ce2df,
   "/pages/features.vue": $id_cdc7ed81,
   "/pages/index.vue": $id_cca58e97,
+  "D:/Repositories/laravel-nuxt-survey/frontend/pages/menu.vue": $id_d849e9f3,
+  "D:/Repositories/laravel-nuxt-survey/frontend/pages/modal.vue": $id_8ed0fd8e,
+  "D:/Repositories/laravel-nuxt-survey/frontend/pages/pinia.vue": $id_d23760aa,
   "/@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/router.options.mjs": $id_d5a3652b,
   "/@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/middleware.mjs": $id_fda89757,
   "/@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/dist.plugin.16fa14af.mjs": $id_cf06d5ac,
   "/node_modules/nuxt3/dist/app/compat/vue-demi.mjs": $id_132eda61,
   "/node_modules/nuxt3/dist/app/compat/capi.mjs": $id_7674cc72,
+  "/node_modules/pinia/dist/pinia.mjs": $id_b1920624,
   "/node_modules/@nuxt/nitro/dist/runtime/app/nitro.client.mjs": $id_7b587af2,
   "/node_modules/ohmyfetch/dist/index.mjs": $id_780217c4,
   "/@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/root-component.mjs": $id_b7f64c7a,
@@ -13750,10 +19715,9 @@ const __modules__ = {
   "/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue": $id_bc2d74a1,
   "/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=true&lang.css": $id_2691164c,
   "/@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/app-component.mjs": $id_9b1061d8,
-  "/node_modules/nuxt3/dist/pages/runtime/app.vue": $id_0851ff57,
-  "/node_modules/nuxt3/dist/app/components/layout.mjs": $id_ddd66f9a,
-  "/@id/__x00__virtual:D:/Repositories/laravel-nuxt-survey/frontend/.nuxt/layouts.mjs": $id_51310b72,
-  "/layouts/guest.vue": $id_7c0fbde7
+  "/app.vue": $id_2b46e842,
+  "/assets/tailwind.scss": $id_cd79d896,
+  "/app.vue?vue&type=style&index=0&lang.scss": $id_64c6d174
 }
 
 

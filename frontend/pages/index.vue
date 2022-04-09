@@ -1,5 +1,13 @@
 <!-- This example requires Tailwind CSS v2.0+ -->
 <template>
+  <!--
+    This example requires updating your template:
+
+    ```
+    <html class="h-full bg-gray-100">
+    <body class="h-full">
+    ```
+  -->
   <div class="min-h-full">
     <Disclosure as="nav" class="bg-gray-800" v-slot="{ open }">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -41,7 +49,7 @@
                     class="max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
                   >
                     <span class="sr-only">Open user menu</span>
-                    <img class="h-8 w-8 rounded-full" :src="user.imageUrl" alt />
+                    <img class="h-8 w-8 rounded-full" :src="user.imageUrl" alt="user-image" />
                   </MenuButton>
                 </div>
                 <transition
@@ -93,7 +101,7 @@
         <div class="pt-4 pb-3 border-t border-gray-700">
           <div class="flex items-center px-5">
             <div class="flex-shrink-0">
-              <img class="h-10 w-10 rounded-full" :src="user.imageUrl" alt />
+              <img class="h-10 w-10 rounded-full" :src="user.imageUrl" alt="user-image" />
             </div>
             <div class="ml-3">
               <div class="text-base font-medium leading-none text-white">{{ user.name }}</div>
@@ -129,9 +137,7 @@
       <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
         <!-- Replace with your content -->
         <div class="px-4 py-6 sm:px-0">
-          {{ data }}
           <div class="border-4 border-dashed border-gray-200 rounded-lg h-96" />
-          {{ store.name }}
         </div>
         <!-- /End replace -->
       </div>
@@ -139,21 +145,13 @@
   </div>
 </template>
 
-<script setup>
-import { getRequest } from '~~/utils/api'
-const data = await getRequest()
-</script>
-
-<script>
-import { useStore } from '@/store'
-
+<script lang="ts">
 import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/vue'
 import { BellIcon, MenuIcon, XIcon } from '@heroicons/vue/outline'
 
 definePageMeta({
-  layout: 'guest',
+  layout: "guest"
 })
-
 
 const user = {
   name: 'Tom Cook',
@@ -174,7 +172,7 @@ const userNavigation = [
   { name: 'Sign out', href: '#' },
 ]
 
-export default {
+export default defineNuxtComponent({
   components: {
     Disclosure,
     DisclosureButton,
@@ -191,13 +189,8 @@ export default {
     return {
       user,
       navigation,
-      userNavigation
+      userNavigation,
     }
   },
-  data() {
-    return {
-      store: useStore()
-    }
-  }
-}
+})
 </script>

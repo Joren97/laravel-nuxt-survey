@@ -18,7 +18,6 @@ declare global {
   const useRequestHeaders: typeof import('../../node_modules/nuxt3/dist/app')['useRequestHeaders']
   const useRouter: typeof import('../../node_modules/nuxt3/dist/app')['useRouter']
   const useRoute: typeof import('../../node_modules/nuxt3/dist/app')['useRoute']
-  const useActiveRoute: typeof import('../../node_modules/nuxt3/dist/app')['useActiveRoute']
   const defineNuxtRouteMiddleware: typeof import('../../node_modules/nuxt3/dist/app')['defineNuxtRouteMiddleware']
   const navigateTo: typeof import('../../node_modules/nuxt3/dist/app')['navigateTo']
   const abortNavigation: typeof import('../../node_modules/nuxt3/dist/app')['abortNavigation']
