@@ -7,4 +7,11 @@ export const getRequest = async () => {
     });
 }
 
+export const postRequest = async (route: string) => {
+    return await useLazyFetch(route, {
+        method: 'GET',
+        baseURL
+    });
+}
+
 export default getRequest;

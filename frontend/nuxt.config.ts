@@ -18,8 +18,8 @@ export default defineNuxtConfig({
     },
     postcss: {
         plugins: {
-          tailwindcss: {},
-          autoprefixer: {},
+            tailwindcss: {},
+            autoprefixer: {},
         },
     },
     vite: {
@@ -29,5 +29,8 @@ export default defineNuxtConfig({
                 '@headlessui/vue', '@heroicons/vue/solid', '@heroicons/vue/outline', 'vue', 'pinia'
             ]
         }
-    }
+    },
+    css: [
+        "~/assets/css/tailwind.css"
+    ],
 });

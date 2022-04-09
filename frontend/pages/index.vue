@@ -148,6 +148,7 @@
 <script lang="ts">
 import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/vue'
 import { BellIcon, MenuIcon, XIcon } from '@heroicons/vue/outline'
+import metahead from '~~/config/metahead'
 
 definePageMeta({
   layout: "guest"
@@ -186,6 +187,8 @@ export default defineNuxtComponent({
     XIcon,
   },
   setup() {
+    useHead(metahead)
+
     return {
       user,
       navigation,
