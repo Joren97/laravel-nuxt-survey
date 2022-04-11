@@ -1,11 +1,11 @@
-import { postRequest } from './../utils/api';
+import api, { postRequest } from './../utils/api';
 import { ref, Ref } from "vue";
 import { defineStore } from "pinia";
 import { appendFile } from "fs";
 
 interface User {
     data: {},
-    token: string
+    token: string | null
 }
 
 interface AuthState {
@@ -22,14 +22,12 @@ export const authStore = defineStore('auth', {
         loading: false
     }),
     actions: {
-        async authenticate() {
+        async authenticate(body: any) {
+            console.log("Authenticating");
             this.loading = true;
-            await postRequest("/login")
+            await api.post("/login", body)
             this.loading = false;
-        },
-        increment() {
-            this.n++;
-        },
+        }
     }
 })
 

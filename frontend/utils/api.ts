@@ -1,17 +1,23 @@
 const baseURL = "http://dummy.restapiexample.com/api/v1";
 
-export const getRequest = async () => {
+export const get = async () => {
     return await useLazyFetch("/employees", {
         method: 'GET',
         baseURL
     });
 }
 
-export const postRequest = async (route: string) => {
-    return await useLazyFetch(route, {
-        method: 'GET',
-        baseURL
+export const post = async (route: string, body: object) => {
+    return await useFetch(route, {
+        method: 'POST',
+        baseURL,
+        body
     });
 }
 
-export default getRequest;
+const api = {
+    get,
+    post
+}
+
+export default api;
