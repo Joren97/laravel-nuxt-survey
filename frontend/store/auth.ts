@@ -27,7 +27,6 @@ export const useAuthStore = defineStore('auth', {
     actions: {
         async login(body: any) {
             try {
-                console.log("Authenticating");
                 this.loading = true;
                 const res = await api.post("/login", body);
                 const { data: { user, token } } = <ResponseSuccess>res;

@@ -125,7 +125,6 @@ const errors = {
 };
 
 const login = async (ev: Event) => {
-  console.log("Login");
   ev.preventDefault();
   useAuthStore().login(user);
 };
