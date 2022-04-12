@@ -1,4 +1,4 @@
-const baseURL = "http://dummy.restapiexample.com/api/v1";
+const baseURL = "http://localhost:8000/api";
 
 export const get = async () => {
     return await useLazyFetch("/employees", {
@@ -8,7 +8,7 @@ export const get = async () => {
 }
 
 export const post = async (route: string, body: object) => {
-    return await useFetch(route, {
+    return await $fetch(route, {
         method: 'POST',
         baseURL,
         body

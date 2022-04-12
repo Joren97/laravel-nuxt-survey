@@ -18,28 +18,7 @@
     </p>
   </div>
   <form class="mt-8 space-y-6" @submit="login">
-    <!-- <Alert v-if="errorMsg">
-            {{ errorMsg }}
-            <span
-                @click="errorMsg = ''"
-                class="w-8 h-8 flex items-center justify-center rounded-full transition-colors cursor-pointer hover:bg-[rgba(0,0,0,0.2)]"
-            >
-                <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    class="h-6 w-6"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                >
-                    <path
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                        stroke-width="2"
-                        d="M6 18L18 6M6 6l12 12"
-                    />
-                </svg>
-            </span>
-        </Alert>-->
+    <ApiAlert :errors="authStore.errors" @clear="authStore.clearError" />
     <input type="hidden" name="remember" value="true" />
     <div class="rounded-md shadow-sm -space-y-px">
       <div>
@@ -88,11 +67,11 @@
     <div>
       <button
         type="submit"
-        :disabled="loading"
+        :disabled="authStore.loading"
         class="group relative w-full flex justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
         :class="{
-          'cursor-not-allowed': loading,
-          'hover:bg-indigo-500': loading,
+          'cursor-not-allowed': authStore.loading,
+          'hover:bg-indigo-500': authStore.loading,
         }"
       >
         <span class="absolute left-0 inset-y-0 flex items-center pl-3">
@@ -102,7 +81,7 @@
           />
         </span>
         <svg
-          v-if="loading"
+          v-if="authStore.loading"
           class="animate-spin -ml-1 mr-3 h-5 w-5 text-white"
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
@@ -126,11 +105,13 @@
       </button>
     </div>
   </form>
+  {{ authStore.user }}
 </template>
 <script lang="ts">
 import metahead from "~~/config/metahead";
 import { LockClosedIcon } from "@heroicons/vue/solid";
-import { authStore } from "~~/store/auth";
+import { useAuthStore } from "~~/store/auth";
+import ApiAlert from "../components/ApiAlert.vue";
 
 const user = {
   email: "",
@@ -143,13 +124,10 @@ const errors = {
   password: null,
 };
 
-const loading = false;
-
-const login = (ev: Event) => {
+const login = async (ev: Event) => {
   console.log("Login");
-  console.log(user);
   ev.preventDefault();
-  authStore().authenticate(user);
+  useAuthStore().login(user);
 };
 
 export default defineNuxtComponent({
@@ -159,14 +137,16 @@ export default defineNuxtComponent({
   setup() {
     definePageMeta({
       layout: "auth",
-    }),
-      useHead(metahead);
+    });
+    useHead(metahead);
+    const authStore = useAuthStore();
 
     return {
       user,
       errors,
-      loading,
       login,
+      authStore,
+      ApiAlert,
     };
   },
 });
