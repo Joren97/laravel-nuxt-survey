@@ -1,4 +1,4 @@
-export interface ResponseError {
+export interface ResponseSuccess {
     data: any,
     success: boolean
 }
